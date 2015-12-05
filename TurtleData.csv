@@ -1,0 +1,1095 @@
+effortid,date,year,month,day,population,area,section,activity,timestart,effort,observers,observernames,precip,cloud,windspeed,air,water,notchcode,turtleid,idquestionable,idcomments,obsid,method,utme,utmn,spatialproof,accuracy,accuracyDistance,sex,AgeAtCapture
+588,2004-07-12,2004,7,12,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,13:47:00,16,2,"Jeffie McNeil, Josie Todd",,0,,26,25,"2,3-3,9",391,0,,38270,Visual survey,334727,4922519,1,,,M,17
+588,2004-07-12,2004,7,12,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,13:58:00,124,2,"Jeffie McNeil, Josie Todd",,0,,23,27.5,"2,3-8,10",393,0,,38271,Incidental to trapping,,,0,,,M,
+588,2004-07-12,2004,7,12,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,13:58:00,124,2,"Jeffie McNeil, Josie Todd",,0,,23,27.5,"11-1,2",257,0,,38273,Incidental to trapping,334960,4922465,0,,,M,20+
+591,2004-07-15,2004,7,15,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,11:57:00,26,2,,,0,,19,19,"8-8,9",639,0,,38275,Incidental to trapping,,,0,,,M,
+598,2006-06-03,2006,6,3,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Pull Traps,19:58:00,34,2,"Jeffie McNeil, Daniel McNeil",Mod - Heavy Rain,100,Calm,13,17,"8-8,10",637,0,,38394,Incidental to trapping,334599,4922611,1,Point,10,F,
+598,2006-06-03,2006,6,3,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Pull Traps,19:58:00,34,2,"Jeffie McNeil, Daniel McNeil",Mod - Heavy Rain,100,Calm,13,17,"2,3-3,9",391,0,,38395,Incidental to trapping,334599,4922611,1,Point,10,M,19
+2002,2007-04-01,2007,4,1,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Radio Tracking,14:35:00,50,2,"Jeffie McNeil, Troy Frech",None,0,Light,7,9,"2,3-3,8",390,0,,40834,Incidental to radio tracking,,,0,,,M,
+2002,2007-04-01,2007,4,1,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,15:01:00,88,2,"Jeffie McNeil, Troy Frech",None,0,Light,7,9,"8-8,9",639,0,,40831,Visual survey,,,0,,,M,
+2002,2007-04-01,2007,4,1,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,15:01:00,88,2,"Jeffie McNeil, Troy Frech",None,0,Light,7,9,"2,3-3,10",388,0,,40832,Visual survey,334752,4922690,0,,,F,20+
+2003,2007-04-04,2007,4,4,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:55:00,130,2,"Jeffie McNeil, Kylie Sands",None,0,Calm,9,5,"8,9-8,9",612,0,,40838,Visual survey,,,0,,,M,10
+2003,2007-04-04,2007,4,4,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:55:00,130,2,"Jeffie McNeil, Kylie Sands",None,0,Calm,9,5,"2,3-3,10",388,0,,40839,Visual survey,,,0,,,F,20+
+2003,2007-04-04,2007,4,4,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:55:00,130,2,"Jeffie McNeil, Kylie Sands",None,0,Calm,9,5,"2,3-3,8",390,0,,40840,Visual survey,,,0,,,M,
+2004,2007-04-22,2007,4,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:30:00,80,2,"Jeffie McNeil, Troy Frech",None,10,Light,17,9,"11-2,8",266,0,,40843,Visual survey,334444,4922395,1,Point,10,F,20+
+2004,2007-04-22,2007,4,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:30:00,80,2,"Jeffie McNeil, Troy Frech",None,10,Light,17,9,"11-3,8",270,0,,40844,Visual survey,334444,4922395,1,Point,10,M,20+
+2004,2007-04-22,2007,4,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:30:00,80,2,"Jeffie McNeil, Troy Frech",None,10,Light,17,9,"2,3-8,11",394,0,,40845,Visual survey,334444,4922395,0,,,F,20+
+2023,2007-06-10,2007,6,10,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Set Traps,11:50:00,140,2,"Jeffie McNeil, Troy Frech",None,90,Light,25,23,"2,3-2,3",384,0,,40889,Incidental to trapping,337052,4922358,1,Point,10,F,20+
+2047,2007-06-14,2007,6,14,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,19:30:00,60,2,"Jeffie McNeil, Tara Imlay",None,0,Light,17,19,"2,3-2,3",384,0,,40924,Incidental to radio tracking,336837,4922337,1,Point,10,F,20+
+2327,2007-10-21,2007,10,21,ML (McGowan Lake),EB (East Brook),M2 (Meadow 2),Radio Tracking,14:30:00,60,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,17,12,unknown,718,0,,41185,Incidental to radio tracking,337252,4922791,1,Point,10,,20+
+2327,2007-10-21,2007,10,21,ML (McGowan Lake),EB (East Brook),M2 (Meadow 2),Radio Tracking,14:30:00,60,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,17,12,unknown,718,0,,41186,Incidental to radio tracking,337252,4922791,1,Point,10,,20+
+2327,2007-10-21,2007,10,21,ML (McGowan Lake),EB (East Brook),M2 (Meadow 2),Visual Survey,15:00:00,220,2,"Jeffie McNeil, Troy Frech",None,50,Moderate,17,0,"8-8,11",638,0,,41189,Visual survey,337261,4922793,1,Point,10,F,
+2327,2007-10-21,2007,10,21,ML (McGowan Lake),EB (East Brook),M2 (Meadow 2),Visual Survey,15:00:00,220,2,"Jeffie McNeil, Troy Frech",None,50,Moderate,17,0,"2,9-1,2",420,0,,41190,Visual survey,337251,4922797,1,Point,10,M,20+
+2327,2007-10-21,2007,10,21,ML (McGowan Lake),EB (East Brook),M2 (Meadow 2),Visual Survey,15:00:00,220,2,"Jeffie McNeil, Troy Frech",None,50,Moderate,17,0,"8-3,10",631,0,,41191,Visual survey,337256,4922791,1,Point,10,F,
+2327,2007-10-21,2007,10,21,ML (McGowan Lake),EB (East Brook),M2 (Meadow 2),Visual Survey,15:00:00,220,2,"Jeffie McNeil, Troy Frech",None,50,Moderate,17,0,"2,9-1,8",422,0,,41192,Visual survey,337256,4922791,1,Point,10,M,
+2338,2007-10-23,2007,10,23,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:05:00,20,1,Jeffie McNeil,None,50,Moderate,23,13,"8-9,11",642,0,,41204,Visual survey,334441,4922390,1,Point,10,F,20+
+2644,2008-04-08,2008,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,140,1,Jeffie McNeil,None,0,Calm,18,5,"8-10,11",622,0,,41465,Visual survey,334460,4922399,1,Within section,25,F,
+2644,2008-04-08,2008,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,140,1,Jeffie McNeil,None,0,Calm,18,5,"8-9,11",642,0,,41466,Visual survey,334460,4922399,1,Point,10,F,20+
+2644,2008-04-08,2008,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,140,1,Jeffie McNeil,None,0,Calm,18,5,"11-3,8",270,0,,41467,Visual survey,334460,4922399,1,Point,10,M,20+
+2644,2008-04-08,2008,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,140,1,Jeffie McNeil,None,0,Calm,18,5,"11-1,2",257,0,,41468,Visual survey,334437,4922386,1,Point,10,M,20+
+2644,2008-04-08,2008,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,140,1,Jeffie McNeil,None,0,Calm,18,5,unknown,718,0,,41469,Visual survey,334443,4922386,1,Within section,25,,20+
+2644,2008-04-08,2008,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,140,1,Jeffie McNeil,None,0,Calm,18,5,unknown,718,0,,41470,Visual survey,334443,4922386,1,Within section,25,,20+
+2644,2008-04-08,2008,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,140,1,Jeffie McNeil,None,0,Calm,18,5,"2,3-8,10",393,0,,41471,Visual survey,334442,4922388,1,Point,10,M,
+2644,2008-04-08,2008,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,140,1,Jeffie McNeil,None,0,Calm,18,5,unknown,718,0,,41472,Visual survey,334461,4922397,1,Within section,25,,20+
+2644,2008-04-08,2008,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,140,1,Jeffie McNeil,None,0,Calm,18,5,"1,12-1,11",132,0,,41473,Visual survey,334461,4922397,1,Point,10,,5
+2645,2008-04-09,2008,4,9,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,150,1,Jeffie McNeil,None,20,Calm,20,4,"9-3,8",705,0,,41474,Visual survey,334449,4922393,1,Point,10,F,20+
+2645,2008-04-09,2008,4,9,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,150,1,Jeffie McNeil,None,20,Calm,20,4,"11-3,8",270,0,,41475,Visual survey,334463,4922402,1,Point,10,M,20+
+2645,2008-04-09,2008,4,9,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,150,1,Jeffie McNeil,None,20,Calm,20,4,"2,3-2,9",386,0,,41476,Visual survey,334434,4922392,1,Point,10,M,
+2645,2008-04-09,2008,4,9,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,150,1,Jeffie McNeil,None,20,Calm,20,4,"2,3-8,10",393,0,,41477,Visual survey,334434,4922392,1,Point,10,M,
+2645,2008-04-09,2008,4,9,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,150,1,Jeffie McNeil,None,20,Calm,20,4,"11-2,8",266,0,,41478,Visual survey,334437,4922386,1,Point,10,F,20+
+2645,2008-04-09,2008,4,9,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,150,1,Jeffie McNeil,None,20,Calm,20,4,"11-1,2",257,0,,41479,Visual survey,334449,4922391,1,Point,10,M,20+
+2645,2008-04-09,2008,4,9,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,150,1,Jeffie McNeil,None,20,Calm,20,4,"8-9,11",642,0,,41480,Visual survey,334462,4922396,1,Point,10,F,20+
+2645,2008-04-09,2008,4,9,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,150,1,Jeffie McNeil,None,20,Calm,20,4,0-11,77,0,,41481,Visual survey,334443,4922387,1,Point,10,M,20+
+2646,2008-04-16,2008,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,10:45:00,135,3,"Rachel Thibodeau, Jeffie McNeil, Andree-Anne Halle",None,0,Calm,15,4,"8-3,9",635,0,"Verified with photos that this is indeed 8-3,9.",41483,Visual survey,334430,4922362,1,Point,10,M,
+2646,2008-04-16,2008,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,10:45:00,135,3,"Rachel Thibodeau, Jeffie McNeil, Andree-Anne Halle",None,0,Calm,15,4,"11-2,8",266,0,,41484,Visual survey,334441,4922393,1,Point,10,F,20+
+2646,2008-04-16,2008,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,10:45:00,135,3,"Rachel Thibodeau, Jeffie McNeil, Andree-Anne Halle",None,0,Calm,15,4,"2,3-8,10",393,0,,41485,Visual survey,334432,4922394,1,Point,10,M,
+2647,2008-04-17,2008,4,17,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,13:26:00,129,1,Jeffie McNeil,None,0,Calm,20,10,"11-2,8",266,0,,41486,Incidental to radio tracking,334430,4922390,1,Point,10,F,20+
+2647,2008-04-17,2008,4,17,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,13:26:00,129,1,Jeffie McNeil,None,0,Calm,20,10,"9-3,8",705,0,,41487,Incidental to radio tracking,334440,4922390,1,Within section,25,F,20+
+2647,2008-04-17,2008,4,17,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,13:26:00,129,1,Jeffie McNeil,None,0,Calm,20,10,"2,3-8,10",393,0,,41489,Incidental to radio tracking,334437,4922396,1,Point,10,M,
+2647,2008-04-17,2008,4,17,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,13:26:00,129,1,Jeffie McNeil,None,0,Calm,20,10,"2,3-8,11",394,0,,41490,Incidental to radio tracking,334471,4922397,1,Point,10,F,20+
+2647,2008-04-17,2008,4,17,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,13:26:00,129,1,Jeffie McNeil,None,0,Calm,20,10,"1,3-2,11",153,0,,41491,Incidental to radio tracking,334449,4922398,1,Point,10,,13
+2647,2008-04-17,2008,4,17,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,13:26:00,129,1,Jeffie McNeil,None,0,Calm,20,10,"2,10-1,3",304,0,,41493,Incidental to radio tracking,334445,4922400,1,Point,10,F,19
+2648,2008-04-20,2008,4,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,11:30:00,375,3,"Jeffie McNeil, Rachel Thibideau, Andree-Anne Halle",None,0,Calm,15,9,"11-10,11",260,0,,41494,Visual survey,335076,4922527,1,Point,10,M,29
+2648,2008-04-20,2008,4,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,11:30:00,375,3,"Jeffie McNeil, Rachel Thibideau, Andree-Anne Halle",None,0,Calm,15,9,"2,3-3,11",389,0,,41495,Visual survey,335057,4922547,1,Point,10,F,20+
+2648,2008-04-20,2008,4,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,11:30:00,375,3,"Jeffie McNeil, Rachel Thibideau, Andree-Anne Halle",None,0,Calm,15,9,"2,3-8,9",395,0,,41496,Visual survey,335091,4922537,1,Point,10,F,21
+2660,2008-05-03,2008,5,3,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Radio Tracking,12:45:00,82,2,"Jeffie McNeil, Troy Frech",None,100,Calm,11,11,"2,3-3,10",388,0,,41506,Incidental to radio tracking,334709,4922672,1,Point,10,F,20+
+2660,2008-05-03,2008,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:35:00,170,2,"Jeffie McNeil, Troy Frech",None,20,Calm,15,14,"1,10-2,11",95,0,,41510,Visual survey,335077,4922523,1,Point,10,M,15
+2660,2008-05-03,2008,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:35:00,170,2,"Jeffie McNeil, Troy Frech",None,20,Calm,15,14,"2,3-8,9",395,0,,41511,Visual survey,335076,4922526,1,Point,10,F,21
+2660,2008-05-03,2008,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:35:00,170,2,"Jeffie McNeil, Troy Frech",None,20,Calm,15,14,"2,9-1,9",423,0,,41512,Visual survey,335076,4922526,1,Point,10,M,
+2660,2008-05-03,2008,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:35:00,170,2,"Jeffie McNeil, Troy Frech",None,20,Calm,15,14,"11-9,11",276,0,,41513,Visual survey,335076,4922526,1,Point,10,F,
+2660,2008-05-03,2008,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:35:00,170,2,"Jeffie McNeil, Troy Frech",None,20,Calm,15,14,"8-8,9",639,0,,41514,Visual survey,335086,4922513,1,Point,10,M,
+2660,2008-05-03,2008,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:35:00,170,2,"Jeffie McNeil, Troy Frech",None,20,Calm,15,14,"2,3-2,10",381,0,,41515,Visual survey,335016,4922447,1,Point,10,F,20+
+2671,2008-05-15,2008,5,15,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,13:40:00,10,1,Jeffie McNeil,None,0,Calm,0,0,"11-8,10",273,0,,41528,Visual survey,334837,4922455,1,Point,10,F,
+2671,2008-05-15,2008,5,15,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:50:00,30,1,Jeffie McNeil,None,0,Calm,0,0,"2,3-8,9",395,0,,41527,Visual survey,335063,4922516,1,Point,10,F,21
+2672,2008-05-16,2008,5,16,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:05:00,60,2,"Jeffie McNeil, Lilianne Arsenault",None,5,Calm,21,18,"11-9,11",276,0,,41529,Visual survey,335058,4922518,1,Point,10,F,
+2672,2008-05-16,2008,5,16,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:05:00,60,2,"Jeffie McNeil, Lilianne Arsenault",None,5,Calm,21,18,"11-1,2",257,0,,41530,Visual survey,335022,4922442,1,Point,10,M,20+
+2684,2008-06-01,2008,6,1,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,17:35:00,40,2,"Troy Frech, Jeffie McNeil, Kim Inglis",None,20,Light,24,23,"8-8,9",639,0,,41544,Visual survey,335054,4922521,1,Point,10,M,
+2686,2008-06-03,2008,6,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,17:44:00,42,1,Jeffie McNeil,None,70,Moderate,26,25,"11-1,2",257,0,,41553,Incidental to trapping,334953,4922455,1,Point,10,M,20+
+2928,2008-07-13,2008,7,13,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:55:00,5,1,"Jeffie McNeil, Troy Frech",None,10,Light,0,0,"12-1,10",280,0,,41835,Visual survey,334350,4922364,1,Point,10,,2
+2954,2008-07-18,2008,7,18,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,11:35:00,10,1,Jeffie McNeil,None,80,Light,25,25,"2,3-3,10",388,0,,41847,Visual survey,334571,4922628,1,Point,10,F,20+
+4287,2008-08-19,2008,8,19,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,10:25:00,20,2,"Jeffie McNeil, Harold Clapp, Diane Clapp, Brennan Caverhill, Sherman Boates, Tom Herman, David Morse, Lynn Morse",None,100,Calm,23,21.5,"2,3-3,10",388,0,,50764,Visual survey,334570,4922620,1,Within section,25,F,20+
+4351,2008-10-10,2008,10,10,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,16:50:00,15,1,Jeffie McNeil,None,5,Strong,19,16,"8-3,4",633,0,,50805,Visual survey,334857,4922482,1,Point,10,M,20+
+4645,2006-05-28,2006,5,28,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Radio Tracking,19:50:00,80,2,"Jeffie McNeil, Troy Frech",None,30,Calm,21,25,"2,3-8,9",395,0,,50967,Incidental to radio tracking,334883,4922388,1,Point,10,F,19
+4648,2006-05-29,2006,5,29,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,17:30:00,30,1,Jeffie McNeil,None,40,Light,28,24,"2,3-9,10",397,0,,50973,Incidental to radio tracking,334591,4922617,1,Point,10,F,23
+4648,2006-05-29,2006,5,29,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,18:18:00,35,1,Jeffie McNeil,None,40,Light,26,26,"8-8,9",639,0,,50974,Incidental to trapping,334960,4922471,1,Point,10,M,
+4648,2006-05-29,2006,5,29,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,19:00:00,38,1,Jeffie McNeil,None,40,Light,26,26,"2,3-2,9",386,0,,50975,Incidental to trapping,334783,4922386,1,Point,10,M,
+4648,2006-05-29,2006,5,29,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,20:43:00,12,1,Jeffie McNeil,None,40,Calm,23,24,"8-8,10",637,0,,50976,Incidental to trapping,334602,4922605,1,Point,10,F,
+4658,2006-05-31,2006,5,31,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,20:41:00,32,2,"Jeffie McNeil, Tom Herman",None,100,Calm,22,21,"2,3-2,8",385,0,,50995,Incidental to trapping,334821,4922378,1,Within section,100,M,20+
+4664,2006-06-01,2006,6,1,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Bait and Check Traps,19:30:00,15,1,Jeffie McNeil,None,70,Calm,22,24,"11-1,2",257,0,,51005,Incidental to trapping,334912,4922405,1,Point,10,M,20+
+4669,2006-06-02,2006,6,2,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,20:15:00,20,2,"Jeffie McNeil, Troy Frech",Mod - Heavy Rain,100,Calm,19,21,"8-8,10",637,0,,51011,Incidental to trapping,334588,4922598,1,Point,10,F,
+10047,2006-06-10,2006,6,10,ML (McGowan Lake),WB (West Bog),SC (South Cove),Radio Tracking,20:35:00,70,2,"Jeffie McNeil, Tom Herman",None,100,Calm,19,20,"11-8,10",273,0,,60032,Incidental to radio tracking,335418,4921445,0,,,F,
+10058,2006-06-13,2006,6,13,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Radio Tracking,20:50:00,30,2,"Jeffie McNeil, Daniel McNeil",None,20,Calm,22,21,"11-3,9",271,0,,60041,Incidental to radio tracking,334965,4922377,0,,,M,20+
+10101,2006-06-28,2006,6,28,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,20:25:00,10,1,Jeffie McNeil,None,40,Calm,26,25,"2,3-2,9",386,0,,60071,Visual survey,334789,4922484,0,,,M,
+10113,2009-03-26,2009,3,26,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:25:00,260,4,"Jeffie McNeil, Troy Frech, 2 NSCC film students",None,0,Calm,10,6,"2,3-2,11",382,0,,60072,Visual survey,334756,4922700,1,Point,10,F,
+10113,2009-03-26,2009,3,26,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:25:00,260,4,"Jeffie McNeil, Troy Frech, 2 NSCC film students",None,0,Calm,10,6,"2,3-3,8",390,0,,60073,Visual survey,334756,4922700,1,Point,10,M,
+10113,2009-03-26,2009,3,26,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:25:00,260,4,"Jeffie McNeil, Troy Frech, 2 NSCC film students",None,0,Calm,10,6,"8-8,10",637,0,,60074,Visual survey,334757,4922699,1,Point,10,F,
+10113,2009-03-26,2009,3,26,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:25:00,260,4,"Jeffie McNeil, Troy Frech, 2 NSCC film students",None,0,Calm,10,6,"2,3-9,10",397,0,,60075,Visual survey,334760,4922700,1,Point,10,F,26
+10113,2009-03-26,2009,3,26,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:25:00,260,4,"Jeffie McNeil, Troy Frech, 2 NSCC film students",None,0,Calm,10,6,"8-9,10",641,0,,60076,Visual survey,334756,4922700,1,Point,10,M,20+
+10113,2009-03-26,2009,3,26,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:25:00,260,4,"Jeffie McNeil, Troy Frech, 2 NSCC film students",None,0,Calm,10,6,"8-8,9",639,0,,60077,Visual survey,334756,4922700,1,Point,10,M,
+10114,2008-06-06,2008,6,6,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,18:10:00,80,2,"Jeffie McNeil, Troy Frech",None,100,Calm,20,23,"8-8,9",639,0,,60080,Incidental to trapping,,,1,,,M,
+10114,2008-06-06,2008,6,6,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,18:10:00,80,2,"Jeffie McNeil, Troy Frech",None,100,Calm,20,23,"11-9,11",276,0,,60084,Incidental to trapping,,,1,,,F,
+10116,2009-04-03,2009,4,3,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,15:30:00,60,2,"Jeffie McNeil, Troy Frech",Light Rain,100,Calm,10,9,"8-8,10",637,0,,60088,Visual survey,334738,4922679,1,Point,10,F,
+10116,2009-04-03,2009,4,3,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,15:30:00,60,2,"Jeffie McNeil, Troy Frech",Light Rain,100,Calm,10,9,"1,3-2,3",155,0,,60089,Visual survey,334754,4922700,1,Point,10,M,11
+10117,2009-04-16,2009,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:40:00,50,1,"Jeffie McNeil, Alex Langlais, Jonathan Bolduc",None,0,Light,10,0,"2,9-1,9",423,0,,60091,Visual survey,334464,4922393,1,Point,10,M,
+10117,2009-04-16,2009,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:40:00,50,1,"Jeffie McNeil, Alex Langlais, Jonathan Bolduc",None,0,Light,10,0,"11-2,8",266,0,,60092,Visual survey,334464,4922393,1,Point,10,F,20+
+10117,2009-04-16,2009,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:40:00,50,1,"Jeffie McNeil, Alex Langlais, Jonathan Bolduc",None,0,Light,10,0,"11-3,8",270,0,,60093,Visual survey,334451,4922387,1,Point,10,M,20+
+10117,2009-04-16,2009,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:40:00,50,1,"Jeffie McNeil, Alex Langlais, Jonathan Bolduc",None,0,Light,10,0,"11-1,2",257,0,,60094,Visual survey,334434,4922388,1,Point,10,M,20+
+10117,2009-04-16,2009,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:30:00,160,1,"Jeffie McNeil, Alex Langlais, Jonathan Bolduc",None,0,Light,10,0,"2,11-2",338,0,,60090,Visual survey,334464,4922393,1,Point,10,,14
+10117,2009-04-16,2009,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:30:00,160,1,"Jeffie McNeil, Alex Langlais, Jonathan Bolduc",None,0,Light,10,0,"11-9,10",275,0,,60095,Visual survey,334457,4922395,1,Point,10,M,20+
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:30:00,60,1,"Jeffie McNeil, Troy Frech",None,0,Calm,12,9,"2,10-1,3",304,0,,60102,Visual survey,334462,4922395,1,Point,10,F,20
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:30:00,60,1,"Jeffie McNeil, Troy Frech",None,0,Calm,12,9,"11-1,2",257,0,,60103,Visual survey,334438,4922388,1,Point,10,M,20+
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:30:00,60,1,"Jeffie McNeil, Troy Frech",None,0,Calm,12,9,0-11,77,0,,60104,Visual survey,334434,4922391,1,Point,10,M,20+
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:30:00,60,1,"Jeffie McNeil, Troy Frech",None,0,Calm,12,9,"2,11-2",338,0,,60105,Visual survey,334438,4922388,1,Point,10,,14
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:30:00,60,1,"Jeffie McNeil, Troy Frech",None,0,Calm,12,9,"11-2,8",266,0,,60106,Visual survey,334450,4922392,1,Point,10,F,20+
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:30:00,60,1,"Jeffie McNeil, Troy Frech",None,0,Calm,12,9,"2,9-1,9",423,0,,60107,Visual survey,334455,4922392,1,Point,10,M,
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:30:00,60,1,"Jeffie McNeil, Troy Frech",None,0,Calm,12,9,"11-3,8",270,0,,60108,Visual survey,334460,4922399,1,Point,10,M,20+
+10119,2009-04-20,2009,4,20,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,14:40:00,40,1,Jeffie McNeil,None,0,Calm,16,12,"2,3-2,9",386,0,,60112,Visual survey,334727,4922349,1,Point,10,M,
+10119,2009-04-20,2009,4,20,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,14:40:00,40,1,Jeffie McNeil,None,0,Calm,16,12,"11-3,8",270,0,,60113,Visual survey,334734,4922393,1,Point,10,M,20+
+10119,2009-04-20,2009,4,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,15:20:00,50,1,Jeffie McNeil,None,0,Calm,16,13,"8-8,9",639,0,,60111,Incidental to radio tracking,335063,4922515,1,Point,10,M,
+10153,2009-04-25,2009,4,25,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:06:00,256,2,"Jeffie McNeil, Erik L'Heureux",None,0,Light,,,"11-3,9",271,0,,60141,Visual survey,335046,4922468,1,Point,10,M,20+
+10153,2009-04-25,2009,4,25,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:06:00,256,2,"Jeffie McNeil, Erik L'Heureux",None,0,Light,,,"11-9,10",275,0,,60142,Visual survey,334910,4922528,1,Point,10,M,20+
+10153,2009-04-25,2009,4,25,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:06:00,256,2,"Jeffie McNeil, Erik L'Heureux",None,0,Light,,,"8-8,9",639,0,,60143,Visual survey,334933,4922553,1,Point,10,M,
+10153,2009-04-25,2009,4,25,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:06:00,256,2,"Jeffie McNeil, Erik L'Heureux",None,0,Light,,,"1,11-2,8",116,0,,60144,Visual survey,335093,4922530,1,Point,10,F,
+10153,2009-04-25,2009,4,25,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:06:00,256,2,"Jeffie McNeil, Erik L'Heureux",None,0,Light,,,"11-9,11",276,0,,60145,Visual survey,335093,4922530,1,Point,10,F,
+10188,2009-06-03,2009,6,3,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,20:31:00,14,1,Jeffie McNeil,None,30,Calm,17,21,"1,11-2,8",116,0,,60174,Visual survey,335365,4922359,1,Point,10,F,
+10192,2009-06-04,2009,6,4,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,18:05:00,50,2,"Jeffie McNeil, Troy Frech",None,50,Light,23,22,"8-8,10",637,0,,60177,Incidental to trapping,334598,4922590,1,Point,10,F,
+10192,2009-06-04,2009,6,4,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,18:40:00,80,2,"Jeffie McNeil, Troy Frech",None,30,Light,21,23,"11-9,11",276,0,,60176,Incidental to trapping,335036,4922456,1,Point,10,F,
+10195,2009-06-05,2009,6,5,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,19:30:00,32,2,"Jeffie McNeil, Everett Stone",None,100,Calm,21,20,"11-1,2",257,0,,78405,Incidental to trapping,334590,4922605,1,Point,10,M,20+
+10195,2009-06-05,2009,6,5,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,19:30:00,32,2,"Jeffie McNeil, Everett Stone",None,100,Calm,21,20,"2,10-1,3",304,0,,78406,Incidental to trapping,334591,4922602,1,Point,10,F,20
+10201,2009-06-07,2009,6,7,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Bait and Check Traps,18:53:00,34,2,"Jeffie McNeil, Troy Frech",None,10,Light,21,22,"11-9,11",276,0,,60182,Incidental to trapping,335024,4922448,1,Point,10,F,
+10201,2009-06-07,2009,6,7,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Bait and Check Traps,19:18:00,20,2,"Jeffie McNeil, Troy Frech",None,10,Light,21,21,"8-8,10",637,0,,60181,Incidental to trapping,334580,4922607,1,Point,10,F,
+10204,2009-06-08,2009,6,8,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,19:43:00,7,1,Jeffie McNeil,None,30,Light,18,22,"11-9,11",276,0,,60186,Incidental to trapping,334995,4922419,1,Point,10,F,
+10227,2009-06-06,2009,6,6,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,19:10:00,20,2,"Jeffie McNeil, Troy Frech, Megan Crowley",None,30,Calm,21,20,"11-9,11",276,0,,60203,Incidental to trapping,335024,4922448,1,Point,10,F,
+10232,2009-06-11,2009,6,11,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,19:30:00,20,1,Jeffie McNeil,Light Rain,100,Calm,15,16,"11-3,9",271,0,,60208,Incidental to trapping,334962,4922467,1,Point,10,M,20+
+10247,2009-06-12,2009,6,12,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Visual Survey,01:00:00,30,1,"Troy Frech, Jeffie McNeil",None,100,Calm,16,,"8-8,11",638,0,,60221,Visual survey,336759,4922224,1,Point,10,F,
+10319,2009-06-16,2009,6,16,ML (McGowan Lake),EB (East Brook),BP (Borgmann Pond),Visual Survey,14:10:00,5,1,Jeffie McNeil,None,50,Calm,20,,"8-3,9",635,0,,60348,Visual survey,336555,4922313,1,Point,10,M,
+10416,2009-07-03,2009,7,3,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,16:20:00,40,2,"Jeffie McNeil, Troy Frech",None,50,Light,30,25,"2,3-3,9",391,0,,60570,Visual survey,334583,4922592,1,Point,10,M,22
+10416,2009-07-03,2009,7,3,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,16:20:00,40,2,"Jeffie McNeil, Troy Frech",None,50,Light,30,25,"2,3-8,11",394,0,,60571,Visual survey,334584,4922596,1,Point,10,F,20+
+10571,2009-10-11,2009,10,11,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,120,2,"Jeffie McNeil, Troy Frech",None,5,Light,11,8,"2,3-8,10",393,0,,60610,Visual survey,334442,4922386,1,Point,10,M,
+10628,2010-03-12,2010,3,12,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:25:00,30,1,Jeffie McNeil,None,0,Calm,9,0,unknown,718,0,,60709,Visual survey,,,0,,,,20+
+10629,2010-03-13,2010,3,13,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:30:00,6,1,"Jeffie McNeil, Troy Frech",None,0,Light,9,0,unknown,718,0,,60710,Visual survey,,,0,,,,20+
+10629,2010-03-13,2010,3,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:10:00,100,2,"Jeffie McNeil, Troy Frech",None,10,Light,11,0,"8-8,9",639,0,,60711,Visual survey,,,0,,,M,
+10629,2010-03-13,2010,3,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:10:00,100,2,"Jeffie McNeil, Troy Frech",None,10,Light,11,0,"2,2-0",363,0,,60712,Visual survey,,,0,,,F,20+
+10629,2010-03-13,2010,3,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:10:00,100,2,"Jeffie McNeil, Troy Frech",None,10,Light,11,0,"2,3-3,10",388,0,,60713,Visual survey,,,0,,,F,20+
+10629,2010-03-13,2010,3,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:10:00,100,2,"Jeffie McNeil, Troy Frech",None,10,Light,11,0,"2,3-3,8",390,0,,60714,Visual survey,,,0,,,M,
+10629,2010-03-13,2010,3,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:10:00,100,2,"Jeffie McNeil, Troy Frech",None,10,Light,11,0,"8-8,10",637,0,,60715,Visual survey,,,0,,,F,
+10630,2010-03-15,2010,3,15,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:05:00,50,2,Jeffie McNeil,None,70,Light,13,5,"11-2,8",266,0,,60716,Visual survey,,,0,,,F,20+
+10645,2010-04-02,2010,4,2,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:05:00,90,2,"Brad Toms, Megan Crowley",None,75,Light,0,0,unknown,718,0,,60732,Visual survey,334722,4922687,0,,,,20+
+10645,2010-04-02,2010,4,2,ML (McGowan Lake),WB (West Bog),1A (West Bog 1A),Visual Survey,15:20:00,80,2,"Brad Toms, Megan Crowley",None,75,Light,0,0,"9-3,8",705,0,,60733,Visual survey,334580,4922455,0,,,F,20+
+10645,2010-04-02,2010,4,2,ML (McGowan Lake),WB (West Bog),1A (West Bog 1A),Visual Survey,15:20:00,80,2,"Brad Toms, Megan Crowley",None,75,Light,0,0,"11-2,3",265,0,,60734,Visual survey,334564,4922433,0,,,F,
+11743,2011-06-01,2011,6,1,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Visual Survey,17:15:00,20,2,"Jeffie McNeil, Sherri Carter",None,90,Moderate,21,21,"2,10-1,3",304,0,,62642,Visual survey,334681,4922561,0,,,F,22
+11743,2011-06-01,2011,6,1,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,17:55:00,60,2,"Jeffie McNeil, Sherri Carter",None,100,Moderate,20,23,"1,11-2,8",116,0,,62640,Visual survey,335016,4922453,1,,,F,
+12064,2011-07-26,2011,7,26,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,12:20:00,300,4,"Jeffie McNeil, Sherri Carter, Steve Mockford, Jose Lefebvre",Drizzle / Mist,100,Calm,18,21,"11-9,11",276,0,,63087,Incidental to trapping,335033,4922478,1,Point,10,F,
+12076,2011-07-28,2011,7,28,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,16:15:00,11,1,Jeffie McNeil,None,100,Calm,23,24,"8-8,10",637,0,,63097,Incidental to trapping,334603,4922615,1,Point,10,F,
+12077,2011-07-29,2011,7,29,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Pull Traps,14:10:00,100,2,"Jeffie McNeil, Sherri Carter",None,50,Light,26,23,"8-8,9",639,0,,63106,Incidental to trapping,335033,4922478,1,Point,10,M,
+12077,2011-07-29,2011,7,29,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Pull Traps,15:40:00,20,2,"Jeffie McNeil, Sherri Carter",None,50,Light,27,24,"8-8,10",637,0,,63104,Incidental to trapping,334574,4922638,1,Point,10,F,
+12467,2011-08-15,2011,8,15,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Set Traps,13:57:00,66,2,"Jeffie McNeil, Sherri Carter",None,95,Light,25,22,unknown,718,0,,63781,Incidental to trapping,334701,4922521,1,Point,10,,20+
+12479,2011-08-18,2011,8,18,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,10:40:00,220,2,"Sherri Carter, Rachel Thibodeau",,,,,,"2,10-8,11",322,0,,63791,Incidental to trapping,334794,4922422,1,Point,10,F,20+
+12847,2012-03-22,2012,3,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:15:00,108,2,"Jeffie McNeil, Colin Gray",None,0,Light,26,9,"9-3,8",705,0,,67098,Visual survey,334443,4922415,1,Point,10,F,20+
+12847,2012-03-22,2012,3,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:15:00,108,2,"Jeffie McNeil, Colin Gray",None,0,Light,26,9,"2,3-8,10",393,0,,67099,Visual survey,334455,4922398,0,,,M,
+12847,2012-03-22,2012,3,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:15:00,108,2,"Jeffie McNeil, Colin Gray",None,0,Light,26,9,"11-2,3",265,0,,67100,Visual survey,334455,4922398,0,,,F,
+12847,2012-03-22,2012,3,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:15:00,108,2,"Jeffie McNeil, Colin Gray",None,0,Light,26,9,"2,3-2,9",386,0,,67102,Visual survey,,,0,,,M,
+12847,2012-03-22,2012,3,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:15:00,108,2,"Jeffie McNeil, Colin Gray",None,0,Light,26,9,0-11,77,0,,67103,Visual survey,334434,4922387,1,Point,10,M,20+
+12847,2012-03-22,2012,3,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:15:00,108,2,"Jeffie McNeil, Colin Gray",None,0,Light,26,9,"11-1,2",257,0,,67104,Visual survey,,,0,,,M,20+
+12847,2012-03-22,2012,3,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:15:00,108,2,"Jeffie McNeil, Colin Gray",None,0,Light,26,9,"11-2,8",266,0,,67105,Visual survey,,,0,,,F,20+
+12849,2012-03-21,2012,3,21,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:58:00,30,1,Brad Toms,None,0,Light,20,,"11-1,2",257,0,,67109,Visual survey,334441,4922383,0,,,M,20+
+12849,2012-03-21,2012,3,21,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:58:00,30,1,Brad Toms,None,0,Light,20,,"11-2,8",266,0,,67110,Visual survey,334444,4922384,0,,,F,20+
+12849,2012-03-21,2012,3,21,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:58:00,30,1,Brad Toms,None,0,Light,20,,"8-10,11",622,0,,67111,Visual survey,334450,4922392,0,,,F,
+12849,2012-03-21,2012,3,21,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:58:00,30,1,Brad Toms,None,0,Light,20,,"9-3,8",705,0,"Turtle originally identified as 2,10-3,8 but this is a Westfield female who is missing a front foot. No missing foot was noted and the description of the turtle's notches (notch L1 L2 and double notch R8) match Drozilla.  Drozilla was seen basking the same area the next day.",67112,Visual survey,334458,4922399,1,Point,10,F,20+
+12849,2012-03-21,2012,3,21,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:58:00,30,1,Brad Toms,None,0,Light,20,,"8-3,9",635,0,,67113,Visual survey,334458,4922399,0,,,M,
+12849,2012-03-21,2012,3,21,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:38:00,19,1,Brad Toms,None,0,Light,21.4,,"2,3-3,10",388,0,,67114,Visual survey,334739,4922702,0,,,F,20+
+12863,2012-05-11,2012,5,11,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:45:00,46,2,Brad Toms and Hannah Blanchard,None,25,Light,18,,"2,3-2,8",385,0,,67173,Visual survey,334504,4922441,0,,,M,20+
+12863,2012-05-11,2012,5,11,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,14:30:00,60,2,Brad Toms and Hannah Blanchard,None,25,Calm,18,,"11-2,11",263,0,,67174,Visual survey,335032,4922536,0,,,M,
+12865,2012-04-10,2012,4,10,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:01:00,36,1,Brad Toms,None,25,Moderate,16.5,,0-11,77,0,,67175,Visual survey,334430,4922393,1,Point UTM Only,10,M,20+
+12865,2012-04-10,2012,4,10,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:01:00,36,1,Brad Toms,None,25,Moderate,16.5,,"2,3-2,9",386,0,,67176,Visual survey,334447,4922392,0,,,M,
+12865,2012-04-10,2012,4,10,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:01:00,36,1,Brad Toms,None,25,Moderate,16.5,,"11-2,8",266,0,,67177,Visual survey,334447,4922392,0,,,F,20+
+12865,2012-04-10,2012,4,10,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:01:00,36,1,Brad Toms,None,25,Moderate,16.5,,"11-1,2",257,0,,67178,Visual survey,334457,4922393,0,,,M,20+
+12865,2012-04-10,2012,4,10,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:01:00,36,1,Brad Toms,None,25,Moderate,16.5,,"9-3,8",705,0,,67179,Visual survey,334471,4922411,1,Point UTM Only,10,F,20+
+12884,2012-05-14,2012,5,14,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,15:10:00,85,1,Jeffie McNeil,None,90,Light,21,18,"8-3,8",634,0,,67183,Visual survey,334931,4922566,1,Point,10,F,20+
+12994,2012-05-26,2012,5,26,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,18:40:00,25,1,Jeffie McNeil,None,0,Calm,22,22,"1,11-2,4",1113,0,,67308,Visual survey,335037,4922502,1,Point,10,,10
+13940,2013-03-14,2013,3,14,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,16:00:00,20,1,Jeffie McNeil,None,10,Light,8,8,"8-8,9",639,0,,69336,Visual survey,334746,4922699,1,,,M,
+13940,2013-03-14,2013,3,14,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,16:00:00,20,1,Jeffie McNeil,None,10,Light,8,8,"8-3,4",633,0,,69337,Visual survey,334746,4922699,1,Point,10,M,20+
+14002,2013-03-29,2013,3,29,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:42:00,53,1,Jeffie McNeil,None,0,Light,20,,"2,3-3,8",390,0,,74047,Sniffer dog find,334729,4922701,1,Point,10,M,
+14002,2013-03-29,2013,3,29,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:42:00,53,1,Jeffie McNeil,None,0,Light,20,,"10-8,11",241,0,,74048,Human find during dog and visual survey,334754,4922691,1,Point,10,M,20+
+14002,2013-03-29,2013,3,29,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:42:00,53,1,Jeffie McNeil,None,0,Light,20,,"2,11,12-0",3171,1,See comments,74049,Sniffer dog find,334743,4922690,1,Point,10,,11
+14006,2013-04-08,2013,4,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,14:00:00,180,3,"Marion Brunel, Sarah Adams, Jeffie McNeil",,30,Calm,14,,"11-1,2",257,0,,74058,Sniffer dog find,334458,4922408,1,Within section,25,M,20+
+14007,2013-04-15,2013,4,15,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,15:50:00,261,3,"Jeffie McNeil, Sarah Adams, Marion Brunel, Boomer",None,90,Calm,11,,0-11,77,0,,74073,Human find during dog and visual survey,334434,4922395,1,Point,10,M,20+
+14007,2013-04-15,2013,4,15,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,15:50:00,261,3,"Jeffie McNeil, Sarah Adams, Marion Brunel, Boomer",None,90,Calm,11,,"11-1,2",257,0,,74075,Human find during dog and visual survey,334458,4922408,1,Within section,25,M,20+
+14007,2013-04-15,2013,4,15,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,15:50:00,261,3,"Jeffie McNeil, Sarah Adams, Marion Brunel, Boomer",None,90,Calm,11,,"2,3-8,10",393,0,,74077,Human find during dog and visual survey,334454,4922395,1,Point,10,M,
+14007,2013-04-15,2013,4,15,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,15:50:00,261,3,"Jeffie McNeil, Sarah Adams, Marion Brunel, Boomer",None,90,Calm,11,,"9-3,8",705,0,,74080,Human find during dog and visual survey,334451,4922398,1,Point,10,F,20+
+14007,2013-04-15,2013,4,15,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,15:50:00,261,3,"Jeffie McNeil, Sarah Adams, Marion Brunel, Boomer",None,90,Calm,11,,"2,3-8,11",394,0,,74083,Human find during dog and visual survey,334451,4922398,1,Point,10,F,20+
+14008,2013-04-16,2013,4,16,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:30:00,30,1,Jeffie McNeil,None,80,Light,11,7,"8-8,9",639,0,,74084,Visual survey,334726,4922687,1,Point,10,M,
+14008,2013-04-16,2013,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:15:00,32,1,Jeffie McNeil,None,70,Light,11,,0-11,77,0,,74074,Visual survey,334434,4922395,1,Point,10,M,20+
+14008,2013-04-16,2013,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:15:00,32,1,Jeffie McNeil,None,70,Light,11,,"11-1,2",257,0,,74076,Visual survey,334458,4922401,1,,,M,20+
+14008,2013-04-16,2013,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:15:00,32,1,Jeffie McNeil,None,70,Light,11,,"2,3-8,10",393,0,,74079,Visual survey,334458,4922401,1,Point,10,M,
+14008,2013-04-16,2013,4,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:15:00,32,1,Jeffie McNeil,None,70,Light,11,,"9-3,8",705,0,,74082,Visual survey,334458,4922401,1,Point,10,F,20+
+14017,2013-04-22,2013,4,22,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Dog and visual survey,15:20:00,115,1,Jeffie McNeil,None,20,Light,12,,"8-3,9",635,0,,74093,Human find during dog and visual survey,335073,4922532,1,Point,10,M,
+15168,2014-01-13,2014,1,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:30:00,30,1,Jeffie McNeil,None,0,Calm,7,,unknown,718,0,,75765,Visual survey,334754,4922691,1,Point,10,,20+
+15168,2014-01-13,2014,1,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:30:00,30,1,Jeffie McNeil,None,0,Calm,7,,"2,3-3,10",388,0,,75766,Visual survey,334752,4922691,1,Point,10,F,20+
+15168,2014-01-13,2014,1,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:30:00,30,1,Jeffie McNeil,None,0,Calm,7,,"8-8,10",637,0,,75767,Visual survey,334754,4922691,1,Point,10,F,
+15168,2014-01-13,2014,1,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:30:00,30,1,Jeffie McNeil,None,0,Calm,7,,"8-8,9",639,0,,75768,Visual survey,334755,4922691,1,Point,10,M,
+15168,2014-01-13,2014,1,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:30:00,30,1,Jeffie McNeil,None,0,Calm,7,,"2,3-2,11",382,0,,75770,Visual survey,334754,4922691,1,Point,10,F,
+15168,2014-01-13,2014,1,13,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,13:30:00,30,1,Jeffie McNeil,None,0,Calm,7,,"2,3-3,9",391,0,,75771,Visual survey,334754,4922691,1,Point,10,M,27
+15447,2014-04-07,2014,4,7,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:25:00,160,4,"Jeffie McNeil, Harold Clapp, Diane Clapp, Camille Tedesco, Boomer",None,0,Calm,12,10,"8-9,10",641,0,,77392,Human find during dog and visual survey,334752,4922686,1,Point,10,M,20+
+15447,2014-04-07,2014,4,7,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:25:00,160,4,"Jeffie McNeil, Harold Clapp, Diane Clapp, Camille Tedesco, Boomer",None,0,Calm,12,10,"2,3-3,8",390,0,,77393,Human find during dog and visual survey,334740,4922702,1,Point,10,M,
+15447,2014-04-07,2014,4,7,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:25:00,160,4,"Jeffie McNeil, Harold Clapp, Diane Clapp, Camille Tedesco, Boomer",None,0,Calm,12,10,"8-3,4",633,0,,77395,Human find during dog and visual survey,334734,4922682,1,Point,10,M,20+
+15447,2014-04-07,2014,4,7,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:25:00,160,4,"Jeffie McNeil, Harold Clapp, Diane Clapp, Camille Tedesco, Boomer",None,0,Calm,12,10,"8-8,9",639,0,,78346,Human find during dog and visual survey,334740,4922702,1,Point,10,M,
+15452,2013-05-06,2013,5,6,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,14:23:00,64,2,"Jeffie McNeil, Fernanda Tavares",None,0,Light,19,,"1,11-2,4",1113,0,,77397,Visual survey,335049,4922524,1,Within section,25,,11
+15478,2014-04-18,2014,4,18,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,13:05:00,15,1,"Jeffie McNeil, Boomer dog",None,5,Light,7,8,"2,3-3,9",391,0,,77413,Sniffer dog find,334712,4922679,1,Point,10,M,27
+15480,2014-05-29,2014,5,29,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Dog and visual survey,12:20:00,69,3,"Jeffie McNeil, Travis Landry, Wesley Pitts",None,30,Calm,18,15,"8-8,10",637,0,,77418,Human find during dog and visual survey,334589,4922597,1,Point,10,F,
+15480,2014-05-29,2014,5,29,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Dog and visual survey,12:45:00,90,3,"Jeffie McNeil, Travis Landry, Wesley Pitts",None,50,Calm,18,16,"2,11-2",338,0,,77417,Human find during dog and visual survey,334712,4922508,1,Point,10,,19
+15480,2014-05-29,2014,5,29,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Dog and visual survey,13:15:00,165,3,"Jeffie McNeil, Travis Landry, Wesley Pitts",None,20,Calm,19,18,"11-9,11",276,0,,77414,Human find during dog and visual survey,335037,4922468,1,Point,10,F,
+15480,2014-05-29,2014,5,29,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Dog and visual survey,13:15:00,165,3,"Jeffie McNeil, Travis Landry, Wesley Pitts",None,20,Calm,19,18,"8-3,8",634,0,,77416,Human find during dog and visual survey,334905,4922512,1,Point,10,F,20+
+15549,2014-06-07,2014,6,7,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,19:35:00,20,2,"Wesley Pitts, Tom Herman",None,50,Calm,21,17,"11-2,10",262,0,,77437,Visual survey,334776,4922454,1,Point,10,F,20+
+15615,2014-07-15,2014,7,15,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,11:37:00,99,3,"Wesley Pitts, Sarah Adams, Travis Landry",None,95,Light,24,23,"2,3-8,10",393,0,,77671,Incidental to trapping,334767,4922412,1,Point,10,M,
+15615,2014-07-15,2014,7,15,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,11:37:00,99,3,"Wesley Pitts, Sarah Adams, Travis Landry",None,95,Light,24,23,"2,3-2,10",381,0,,77673,Incidental to trapping,334754,4922403,1,Point,10,F,20+
+15728,2006-08-13,2006,8,13,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Visual Survey,16:58:00,24,2,"Jeffie McNeil, Troy Frech",None,,,,,"1,8-9,10a",3326,0,,77701,Visual survey,335062,4919640,1,Point,10,M,20+
+15892,1997-05-17,1997,5,17,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,11:15:00,15,1,Jeffie McNeil,None,,Moderate,15,12,"11-2,3",265,0,,36896,Visual survey,334498,4922461,1,Within section,25,F,
+15899,1997-08-02,1997,8,2,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Set Traps,15:30:00,300,2,"Jeffie McNeil, Troy Frech",None,20,Moderate,27,26,"8-8,9",639,0,,36729,Incidental to trapping,334976,4922333,0,,,M,
+15912,2000-04-15,2000,4,15,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,12:50:00,20,2,"Jeffie McNeil, Troy Frech",None,80,Strong,16,12,"8-10,11",622,0,,37134,Visual survey,334505,4922471,1,Section,25,F,
+15912,2000-04-15,2000,4,15,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:15:00,30,2,"Jeffie McNeil, Troy Frech",None,80,Strong,16,,"11-2,3",265,0,,37137,Visual survey,334505,4922471,1,Within section,25,F,
+15912,2000-04-15,2000,4,15,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:15:00,30,2,"Jeffie McNeil, Troy Frech",None,80,Strong,16,,"2,3-3,8",390,0,,37138,Visual survey,334505,4922471,1,Within section,25,M,
+15919,2000-04-29,2000,4,29,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,15:45:00,120,2,"Jeffie McNeil, Troy Frech",None,60,Light,16,12,"8-3,4",633,0,,37111,Visual survey,335000,4922530,1,Within section,25,M,20+
+15920,2000-05-03,2000,5,3,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,12:25:00,30,1,Jeffie McNeil,None,10,Light,17,12,"2,3-3,10",388,0,,37112,Visual survey,334553,4922601,1,Within section,25,F,20+
+15920,2000-05-03,2000,5,3,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,13:00:00,50,1,Jeffie McNeil,None,10,Light,17,12,"11-2,10",262,0,,36514,Visual survey,334891,4922380,1,Within section,25,F,20+
+15924,2001-08-16,2001,8,16,ML (McGowan Lake),EB (East Brook),M1 (Meadow 1),Visual Survey,13:30:00,30,1,Jeffie McNeil,None,10,Calm,28,,"2,9-1,3",421,0,,37142,Visual survey,337240,4922638,1,Point,10,F,20+
+15924,2001-08-16,2001,8,16,ML (McGowan Lake),EB (East Brook),M1 (Meadow 1),Visual Survey,13:30:00,30,1,Jeffie McNeil,None,10,Calm,28,,"8-3,10",631,0,,37143,Visual survey,337242,4922637,1,Point,10,F,
+15925,2001-08-17,2001,8,17,ML (McGowan Lake),EB (East Brook),M1 (Meadow 1),Check Traps,11:40:00,40,2,"Jeffie McNeil, Troy Frech",None,0,Calm,29,,"2,10-3,8",317,0,,37146,Incidental to trapping,337270,4922667,1,Point,10,F,
+15925,2001-08-17,2001,8,17,ML (McGowan Lake),EB (East Brook),M1 (Meadow 1),Check Traps,11:40:00,40,2,"Jeffie McNeil, Troy Frech",None,0,Calm,29,,"2,9-1,2",420,1,"Fairly confident it was 2,9-1,2. Turtle was not captured this day but Jeffie had a good look at him and believe that he is 2,9-1,2 who was captured in the same area the next day.",37147,Incidental to trapping,337270,4922667,1,Point,10,M,20+
+15925,2001-08-17,2001,8,17,ML (McGowan Lake),EB (East Brook),M1 (Meadow 1),Check Traps,11:40:00,40,2,"Jeffie McNeil, Troy Frech",None,0,Calm,29,,"2,9-1,9",423,0,,37704,Incidental to trapping,337270,4922667,1,Point,10,M,
+15968,2001-08-21,2001,8,21,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,12:30:00,110,1,Jeffie McNeil,Drizzle / Mist,100,Calm,26,22,"2,3-2,8",385,0,,37524,Incidental to trapping,335025,4922462,1,Point,10,M,20+
+15970,2001-08-23,2001,8,23,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,15:00:00,5,1,Jeffie McNeil,None,90,Calm,28,26,"11-10,11",260,0,,37527,Visual survey,334604,4922622,0,,,M,22
+15970,2001-08-23,2001,8,23,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Pull Traps,15:20:00,50,1,Jeffie McNeil,None,60,Calm,29,26,"11-9,11",276,0,,37528,Incidental to trapping,335015,4922433,0,,,F,
+15970,2001-08-23,2001,8,23,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Pull Traps,17:41:00,34,1,Jeffie McNeil,None,60,Calm,27,27,"8-8,10",637,0,,37530,Incidental to trapping,334593,4922617,0,,,F,
+15982,2014-09-23,2014,9,23,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,10:34:00,26,1,Jeffie McNeil,None,85,Light,,,"11-2,3",265,0,,78097,Visual survey,334448,4922390,1,Point,10,F,
+15982,2014-09-23,2014,9,23,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,10:34:00,26,1,Jeffie McNeil,None,85,Light,,,0-11,77,0,,78099,Visual survey,334448,4922390,1,Point,10,M,20+
+15982,2014-09-23,2014,9,23,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,10:34:00,26,1,Jeffie McNeil,None,85,Light,,,"11-3,8",270,0,,78100,Visual survey,334453,4922390,1,Point,10,M,20+
+16097,2001-06-09,2001,6,9,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,13:00:00,46,2,"Jeffie McNeil, Troy Frech",None,80,Calm,23,22,"8-8,9",639,0,,37404,Incidental to trapping,334912,4922387,1,Point,10,M,
+16097,2001-06-09,2001,6,9,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,13:00:00,46,2,"Jeffie McNeil, Troy Frech",None,80,Calm,23,22,"11-2,3",265,0,,37405,Incidental to trapping,334754,4922399,1,Point,10,F,
+16097,2001-06-09,2001,6,9,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,17:15:00,10,2,"Jeffie McNeil, Troy Frech",None,60,Strong,,,"2,3-3,8",390,0,,37409,Visual survey,334723,4922504,1,Point,10,M,
+16098,2001-06-10,2001,6,10,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,10:50:00,108,2,"Jeffie McNeil, Troy Frech",None,50,Light,21,19,"11-2,3",265,0,,37412,Incidental to trapping,334757,4922391,1,Point,10,F,
+16098,2001-06-10,2001,6,10,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,10:50:00,108,2,"Jeffie McNeil, Troy Frech",None,50,Light,21,19,"2,3-2,9",386,0,,37413,Incidental to trapping,334753,4922398,1,Point,10,M,
+16098,2001-06-10,2001,6,10,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,10:50:00,108,2,"Jeffie McNeil, Troy Frech",None,50,Light,21,19,"11-3,9",271,0,,37414,Incidental to trapping,334813,4922432,1,Point,10,M,20+
+16098,2001-06-10,2001,6,10,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,11:44:00,108,2,"Jeffie McNeil, Troy Frech",None,50,Moderate,21,21,"2,3-2,8",385,0,,37416,Incidental to trapping,335025,4922432,1,Point,10,M,20+
+16098,2001-06-10,2001,6,10,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,11:44:00,108,2,"Jeffie McNeil, Troy Frech",None,50,Moderate,21,21,"2,3-8,10",393,0,,37417,Incidental to trapping,334990,4922414,1,Point,10,M,
+16099,2001-06-11,2001,6,11,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,18:53:00,34,1,Jeffie McNeil,None,20,Light,25,26,"11-1,2",257,0,,37424,Incidental to trapping,335007,4922435,1,Point,10,M,20+
+16101,2001-06-12,2001,6,12,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Pull Traps,12:44:00,71,1,Jeffie McNeil,None,100,Calm,22,21,"2,3-3,10",388,0,,37431,Incidental to trapping,334885,4922373,1,Point,10,F,20+
+16101,2001-06-12,2001,6,12,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Pull Traps,12:44:00,71,1,Jeffie McNeil,None,100,Calm,22,21,"2,3-2,9",386,0,,37432,Incidental to trapping,334733,4922376,1,Point,10,M,
+16101,2001-06-12,2001,6,12,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Pull Traps,12:44:00,71,1,Jeffie McNeil,None,100,Calm,22,21,"11-2,3",265,0,,37433,Incidental to trapping,334764,4922401,1,Point,10,F,
+16111,2002-06-11,2002,6,11,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,12:28:00,64,2,"Jeffie McNeil, Ian Morrison",Mod - Heavy Rain,100,Calm,12,16,"2,3-3,10",388,0,,37837,Incidental to trapping,334576,4922612,1,Point,10,F,20+
+16114,2002-06-12,2002,6,12,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,12:47:00,39,3,"Jeffie McNeil, Jill Adams, 1 other (Jill's student)",Drizzle / Mist,100,Calm,12,14,"8-8,9",639,0,,37552,Incidental to trapping,334956,4922470,1,Point,10,M,
+16117,2002-06-13,2002,6,13,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,17:34:00,70,2,"Jeffie McNeil, Kim Inglis",None,30,Calm,23,22,"8-3,4",633,0,,37544,Incidental to trapping,334956,4922463,1,Point,10,M,20+
+16118,2002-06-14,2002,6,14,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Bait and Check Traps,15:25:00,44,1,Jeffie McNeil,None,80,Calm,22,23,"8-8,10",637,0,,37689,Incidental to trapping,334601,4922619,0,,,F,
+16118,2002-06-14,2002,6,14,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Bait and Check Traps,15:25:00,44,1,Jeffie McNeil,None,80,Calm,22,23,"2,3-3,9",391,0,,78124,Incidental to trapping,334575,4922606,1,Point,10,M,15
+16133,2002-08-20,2002,8,20,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,09:50:00,27,1,"Jeffie McNeil, Kim Inglis",None,70,Calm,23,24,"8-8,9",639,0,,37560,Visual survey,334595,4922608,0,,,M,
+16133,2002-08-20,2002,8,20,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,09:50:00,27,1,"Jeffie McNeil, Kim Inglis",None,70,Calm,23,24,"2,3-3,10",388,0,,37847,Visual survey,334595,4922608,0,,,F,20+
+16133,2002-08-20,2002,8,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,10:46:00,28,2,"Jeffie McNeil, Kim Inglis",None,70,Calm,25,23,"11-9,10",275,0,,37603,Visual survey,335038,4922460,1,Point,10,M,20+
+16133,2002-08-20,2002,8,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,10:46:00,28,2,"Jeffie McNeil, Kim Inglis",None,70,Calm,25,23,"2,3-3,11",389,0,,37863,Visual survey,335038,4922460,0,,,F,20+
+16133,2002-08-20,2002,8,20,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,11:19:00,21,1,"Jeffie McNeil, Kim Inglis",None,70,Calm,25,24,"11-2,10",262,0,,37912,Visual survey,334922,4922359,0,,,F,20+
+16133,2002-08-20,2002,8,20,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,12:15:00,122,2,"Jeffie McNeil, Kim Inglis",None,70,Calm,25,26,"8-8,9",639,0,,37561,Incidental to trapping,334597,4922623,0,,,M,
+16133,2002-08-20,2002,8,20,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,12:15:00,122,2,"Jeffie McNeil, Kim Inglis",None,70,Calm,25,26,"2,3-3,10",388,0,,37848,Incidental to trapping,334606,4922612,0,,,F,20+
+16135,2002-08-21,2002,8,21,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,09:52:00,64,2,"Jeffie McNeil, Janine Beckett",None,0,Calm,24,23,"2,3-3,10",388,0,,37849,Incidental to trapping,334598,4922632,0,,,F,20+
+16135,2002-08-21,2002,8,21,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:40:00,15,1,"Jeffie McNeil, Janine Beckett",None,0,Calm,24,23,"2,3-2,8",385,0,,37627,Visual survey,335028,4922459,1,Point,10,M,20+
+16135,2002-08-21,2002,8,21,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:40:00,15,1,"Jeffie McNeil, Janine Beckett",None,0,Calm,24,23,"2,3-3,11",389,0,,37864,Visual survey,335028,4922459,0,,,F,20+
+16135,2002-08-21,2002,8,21,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:10:00,30,2,"Jeffie McNeil, Janine Beckett",None,0,Calm,24,23,"11-1,2",257,0,,37574,Visual survey,335041,4922455,0,,,M,20+
+16135,2002-08-21,2002,8,21,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:10:00,30,2,"Jeffie McNeil, Janine Beckett",None,0,Calm,24,23,"11-9,11",276,0,,37792,Visual survey,335041,4922455,0,,,F,
+16136,2002-08-22,2002,8,22,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,11:49:00,32,2,"Jeffie McNeil, Brennan Caverhill",None,70,Light,26,23,"8-8,10",637,0,,37707,Incidental to trapping,334606,4922612,0,,,F,
+16136,2002-08-22,2002,8,22,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,11:49:00,32,2,"Jeffie McNeil, Brennan Caverhill",None,70,Light,26,23,"2,3-3,10",388,0,,37850,Incidental to trapping,334606,4922612,0,,,F,20+
+16136,2002-08-22,2002,8,22,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:21:00,28,2,"Jeffie McNeil, Brennan Caverhill",None,70,Light,26,23,"11-9,11",276,0,,37793,Visual survey,335041,4922466,0,,,F,
+16137,2002-08-23,2002,8,23,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Pull Traps,13:20:00,80,2,"Jeffie McNeil, Kim Inglis",None,0,Calm,,25,"2,3-3,10",388,0,,37851,Incidental to trapping,,,0,,,F,20+
+16137,2002-08-23,2002,8,23,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Pull Traps,13:20:00,80,2,"Jeffie McNeil, Kim Inglis",None,0,Calm,,25,"2,3-3,9",391,0,,78129,Incidental to trapping,334579,4922614,1,Point,10,M,15
+16204,2015-04-12,2015,4,12,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,12:56:00,132,3,"Jeffie McNeil, Troy Frech, Seth McFrech, Boomer",None,0,Light,7,5,"11-3,8",270,0,,78285,Human find during dog and visual survey,334744,4922700,1,Point,10,M,20+
+16204,2015-04-12,2015,4,12,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,12:56:00,132,3,"Jeffie McNeil, Troy Frech, Seth McFrech, Boomer",None,0,Light,7,5,unknown,718,0,,78986,Human find during dog and visual survey,334744,4922700,1,Point,10,,20+
+16205,2015-04-20,2015,4,20,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:54:00,636,3,"Kim Dubois, Gabrielle Theroux,. Jeffie McNeil",None,0,Light,12,8,"11-3,8",270,0,,78286,Visual survey,334739,4922696,1,Point,10,M,20+
+16205,2015-04-20,2015,4,20,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:54:00,636,3,"Kim Dubois, Gabrielle Theroux,. Jeffie McNeil",None,0,Light,12,8,"8-3,4",633,0,,78287,Visual survey,334761,4922699,0,,,M,20+
+16205,2015-04-20,2015,4,20,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:54:00,636,3,"Kim Dubois, Gabrielle Theroux,. Jeffie McNeil",None,0,Light,12,8,"2,3-3,10",388,0,,78288,Visual survey,334760,4922701,0,,,F,20+
+16205,2015-04-20,2015,4,20,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:54:00,636,3,"Kim Dubois, Gabrielle Theroux,. Jeffie McNeil",None,0,Light,12,8,"2,3-3,8",390,0,,78289,Visual survey,334759,4922700,0,,,M,
+16205,2015-04-20,2015,4,20,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:54:00,636,3,"Kim Dubois, Gabrielle Theroux,. Jeffie McNeil",None,0,Light,12,8,"1,11-3,11",3352,0,,78290,Visual survey,334769,4922708,0,,,,4
+16205,2015-04-20,2015,4,20,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:54:00,636,3,"Kim Dubois, Gabrielle Theroux,. Jeffie McNeil",None,0,Light,12,8,"8-8,9",639,0,,78291,Visual survey,334776,4922709,0,,,M,
+16205,2015-04-20,2015,4,20,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:54:00,636,3,"Kim Dubois, Gabrielle Theroux,. Jeffie McNeil",None,0,Light,12,8,"1,10-2,3",97,0,,78293,Visual survey,334739,4922696,0,,,M,20+
+16205,2015-04-20,2015,4,20,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:54:00,636,3,"Kim Dubois, Gabrielle Theroux,. Jeffie McNeil",None,0,Light,12,8,"2,8-1,10",401,0,,78294,Visual survey,334739,4922696,1,Point,10,M,15
+16233,2015-04-22,2015,4,22,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:20:00,520,4,"Jeffie McNeil, Gabrielle Théroux, Kim Dubois, Laura Kersey, Boomer",None,0,Light,16,9,"8,9-8,9",612,0,,78308,Human find during dog and visual survey,334758,4922708,1,Point,10,M,18
+16233,2015-04-22,2015,4,22,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:20:00,520,4,"Jeffie McNeil, Gabrielle Théroux, Kim Dubois, Laura Kersey, Boomer",None,0,Light,16,9,"2,3-3,8",390,0,,78311,Human find during dog and visual survey,334749,4922701,1,Point,10,M,
+16233,2015-04-22,2015,4,22,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:20:00,520,4,"Jeffie McNeil, Gabrielle Théroux, Kim Dubois, Laura Kersey, Boomer",None,0,Light,16,9,"1,11-2,4",1113,0,,78312,Sniffer dog find,334749,4922701,1,Point,10,,13
+16233,2015-04-22,2015,4,22,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:20:00,520,4,"Jeffie McNeil, Gabrielle Théroux, Kim Dubois, Laura Kersey, Boomer",None,0,Light,16,9,"2,3-3,10",388,0,,78315,Human find during dog and visual survey,334749,4922701,1,Point,10,F,20+
+16233,2015-04-22,2015,4,22,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:20:00,520,4,"Jeffie McNeil, Gabrielle Théroux, Kim Dubois, Laura Kersey, Boomer",None,0,Light,16,9,"3,9-1",555,0,,78316,Human find during dog and visual survey,334779,4922696,1,Point,10,,15
+16233,2015-04-22,2015,4,22,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:20:00,520,4,"Jeffie McNeil, Gabrielle Théroux, Kim Dubois, Laura Kersey, Boomer",None,0,Light,16,9,"4,9-2",3354,0,,78318,Human find during dog and visual survey,334779,4922696,1,Point,10,,3
+16233,2015-04-22,2015,4,22,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Dog and visual survey,14:20:00,520,4,"Jeffie McNeil, Gabrielle Théroux, Kim Dubois, Laura Kersey, Boomer",None,0,Light,16,9,"2,11-4,10",3353,0,,78319,Human find during dog and visual survey,334779,4922696,1,Point,10,,5
+16289,2015-04-24,2015,4,24,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:05:00,120,2,"Laura Kersey, Kim Dubois",Drizzle / Mist,80,Calm,10,8,"2,3-3,10",388,0,,78321,Visual survey,334749,4922696,0,,,F,20+
+16291,2015-04-26,2015,4,26,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:48:00,216,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,45,Calm,9,8,"2,3-3,8",390,0,,78322,Visual survey,334762,4922660,0,,,M,
+16291,2015-04-26,2015,4,26,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:48:00,216,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,45,Calm,9,8,"1,10-2,3",97,0,,78324,Visual survey,334751,4922668,0,,,M,20+
+16310,2014-04-10,2014,4,10,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:00:00,240,4,"Diane Clapp, Harold Clapp, Holly Simpson, Camille Tedesco",None,0,Light,11,5,"11-1,3",258,0,,78347,Visual survey,334462,4922401,1,Point UTM Only,10,M,20+
+16310,2014-04-10,2014,4,10,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:00:00,240,4,"Diane Clapp, Harold Clapp, Holly Simpson, Camille Tedesco",None,0,Light,11,5,"2,10-1,3",304,0,,78348,Visual survey,334462,4922401,1,Point UTM Only,10,F,25
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,0-11,77,0,,78364,Visual survey,334442,4922402,0,,,M,20+
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,"2,3-2,9",386,0,,78366,Visual survey,334442,4922402,0,,,M,
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,"9-3,8",705,0,,78367,Visual survey,334459,4922407,0,,,F,20+
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,"2,10-1,3",304,0,,78368,Visual survey,334459,4922407,0,,,F,26
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,"1,10-2",1112,0,,78369,Visual survey,334459,4922407,0,,,,14
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,"11-1,2",257,0,,78370,Visual survey,334459,4922406,0,,,M,20+
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,"11-2,8",266,0,,78371,Visual survey,334459,4922406,0,,,F,20+
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,"8-9,11",642,0,,78372,Visual survey,334459,4922407,0,,,F,20+
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,"2,11-2",338,0,,78373,Visual survey,334455,4922396,0,,,,20
+16312,2015-05-02,2015,5,2,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:21:00,345,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,10,Calm,15,8,"11-2,3",265,0,,78387,Visual survey,334459,4922407,0,,,F,
+16315,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:40:00,240,3,"Kim Dubois
+Emily Patterson
+Gabrielle Theroux-Loiselle",None,10,Calm,16,12,"1,11-3,11",3352,0,,78374,Visual survey,334768,4922690,0,,,,4
+16315,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:40:00,240,3,"Kim Dubois
+Emily Patterson
+Gabrielle Theroux-Loiselle",None,10,Calm,16,12,"2,3-3,8",390,0,,78375,Visual survey,334736,4922659,0,,,M,
+16315,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:40:00,240,3,"Kim Dubois
+Emily Patterson
+Gabrielle Theroux-Loiselle",None,10,Calm,16,12,"1,11-9,11",3355,0,,78376,Visual survey,334777,4922686,0,,,,5
+16315,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:40:00,240,3,"Kim Dubois
+Emily Patterson
+Gabrielle Theroux-Loiselle",None,10,Calm,16,12,"8-8,9",639,0,,78380,Visual survey,334750,4922669,0,,,M,
+16316,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:43:00,204,3,"Jeffie McNeil, Troy Frech, Seth McFrech",None,15,Calm,20,19,"11-3,9",271,0,,78382,Visual survey,335076,4922515,0,,,M,20+
+16316,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:43:00,204,3,"Jeffie McNeil, Troy Frech, Seth McFrech",None,15,Calm,20,19,"2,3-3,11",389,0,,78383,Visual survey,335078,4922532,0,,,F,20+
+16316,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:43:00,204,3,"Jeffie McNeil, Troy Frech, Seth McFrech",None,15,Calm,20,19,"1,11-2,8",116,0,,78384,Visual survey,335078,4922532,0,,,F,
+16316,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:43:00,204,3,"Jeffie McNeil, Troy Frech, Seth McFrech",None,15,Calm,20,19,"11-9,11",276,0,,78385,Visual survey,335068,4922527,0,,,F,
+16316,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:43:00,204,3,"Jeffie McNeil, Troy Frech, Seth McFrech",None,15,Calm,20,19,"11-2,11",263,0,,78386,Visual survey,,,0,,,M,
+16317,2015-05-04,2015,5,4,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:00:00,150,1,Jeffie McNeil,None,0,Calm,22,6,0-11,77,0,,78388,Human find during dog and visual survey,334453,4922404,0,,,M,20+
+16317,2015-05-04,2015,5,4,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:00:00,150,1,Jeffie McNeil,None,0,Calm,22,6,"11-1,2",257,0,,78389,Human find during dog and visual survey,334417,4922413,0,,,M,20+
+16317,2015-05-04,2015,5,4,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:00:00,150,1,Jeffie McNeil,None,0,Calm,22,6,"2,11-2",338,0,,78390,Human find during dog and visual survey,334463,4922411,0,,,,20
+16317,2015-05-04,2015,5,4,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:00:00,150,1,Jeffie McNeil,None,0,Calm,22,6,"8-9,10",641,0,,78391,Sniffer dog find,334463,4922241,0,,,M,20+
+16317,2015-05-04,2015,5,4,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:00:00,150,1,Jeffie McNeil,None,0,Calm,22,6,"11-2,8",266,0,,78392,Sniffer dog find,334461,4922414,0,,,F,20+
+16317,2015-05-04,2015,5,4,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:00:00,150,1,Jeffie McNeil,None,0,Calm,22,6,"11-2,3",265,0,,78393,Sniffer dog find,334471,4922430,0,,,F,
+16317,2015-05-04,2015,5,4,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:00:00,150,1,Jeffie McNeil,None,0,Calm,22,6,"9-3,8",705,0,,78394,Human find during dog and visual survey,334471,4922430,0,,,F,20+
+16317,2015-05-04,2015,5,4,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:00:00,150,1,Jeffie McNeil,None,0,Calm,22,6,"12-1,10",280,0,,78395,Human find during dog and visual survey,334433,4922394,0,,,,9
+16317,2015-05-04,2015,5,4,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:00:00,150,1,Jeffie McNeil,None,0,Calm,22,6,"1-3,10",3357,0,,78408,Sniffer dog find,334417,4922413,0,,,,14
+16318,2015-05-14,2015,5,14,ML (McGowan Lake),WB (West Bog),LB (Leatherleaf Bog),Dog and visual survey,14:55:00,50,1,Jeffie McNeil,None,0,Light,,,"12-9,10",295,0,,78396,Sniffer dog find,334634,4922340,1,Point,10,,9
+16318,2015-05-14,2015,5,14,ML (McGowan Lake),WB (West Bog),LB (Leatherleaf Bog),Dog and visual survey,14:55:00,50,1,Jeffie McNeil,None,0,Light,,,"3,9-2",3356,0,,78400,Human find during dog and visual survey,334636,4922346,1,Point,10,,7
+16318,2015-05-14,2015,5,14,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,15:50:00,10,1,Jeffie McNeil,None,0,Light,,,"11-2,10",262,0,,78397,Visual survey,334906,4922386,0,,,F,20+
+16318,2015-05-14,2015,5,14,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,17:50:00,10,1,Jeffie McNeil,None,0,Light,,,"2,3-2,9",386,0,,78401,Visual survey,334726,4922334,1,Point,10,M,
+16324,2009-06-30,2009,6,30,ML (McGowan Lake),WB (West Bog),WR (Woods Road),Radio Tracking,14:34:00,16,1,Troy Frech,None,100,Calm,,,"8-8,10",637,0,,78403,Incidental to radio tracking,334390,4921943,1,Point,10,F,
+16332,2009-10-27,2009,10,27,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:50:00,40,1,Jeffie McNeil,None,100,Calm,6,,"8-9,11",642,0,,78415,Visual survey,334442,4922386,1,Point,10,F,20+
+16332,2009-10-27,2009,10,27,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:50:00,40,1,Jeffie McNeil,None,100,Calm,6,,"8-10,11",622,0,,78416,Visual survey,334442,4922386,1,Point,10,F,
+16332,2009-10-27,2009,10,27,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:50:00,40,1,Jeffie McNeil,None,100,Calm,6,,"2,3-8,10",393,0,,78418,Visual survey,334442,4922386,1,Point,10,M,
+16334,2015-05-30,2015,5,30,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,15:20:00,55,1,Jeffie McNeil,None,80,Moderate,24,,"11-9,11",276,0,,78421,Visual survey,335057,4922507,1,Within section,25,F,
+16334,2015-05-30,2015,5,30,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Visual Survey,16:15:00,15,1,Jeffie McNeil,None,90,Moderate,24,,"2,3-2,9",386,0,,78420,Visual survey,335033,4922371,0,,,M,
+16334,2015-05-30,2015,5,30,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,16:30:00,20,1,Jeffie McNeil,None,85,Moderate,24,,"1,11-2,8",116,0,,78419,Visual survey,335308,4922314,1,Within section,25,F,
+16337,2015-06-04,2015,6,4,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,11:00:00,216,4,"Kim Dubois, Jeffie McNeil, Krista Jagger, Lauren Lawrence",None,20,Calm,17,13,"8-8,10",637,0,,78430,Visual survey,334599,4922611,0,,,F,
+16337,2015-06-04,2015,6,4,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,11:54:00,40,4,"Kim Dubois, Jeffie McNeil, Krista Jagger, Lauren Lawrence",None,20,Calm,17,13,"2,11-2",338,0,,78431,Visual survey,334736,4922503,0,,,,20
+16337,2015-06-04,2015,6,4,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:04:00,500,4,"Kim Dubois, Jeffie McNeil, Krista Jagger, Lauren Lawrence",None,20,Calm,17,13,"12-8,10",293,0,,78432,Visual survey,334957,4922485,0,,,,9
+16337,2015-06-04,2015,6,4,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:04:00,500,4,"Kim Dubois, Jeffie McNeil, Krista Jagger, Lauren Lawrence",None,20,Calm,17,13,"1,11-2,4",1113,0,,78433,Visual survey,335018,4922445,0,,,,13
+16337,2015-06-04,2015,6,4,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:04:00,500,4,"Kim Dubois, Jeffie McNeil, Krista Jagger, Lauren Lawrence",None,20,Calm,17,13,"8-8,9",639,0,,78434,Visual survey,335057,4922493,0,,,M,
+16337,2015-06-04,2015,6,4,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:04:00,500,4,"Kim Dubois, Jeffie McNeil, Krista Jagger, Lauren Lawrence",None,20,Calm,17,13,"3,9-3",3358,0,,78435,Visual survey,335064,4922527,0,,,,11
+16338,2003-08-06,2003,8,6,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Radio Tracking,13:15:00,70,2,"Jeffie McNeil, Marnie Cooke",,80,Calm,24,21,"8-9,11",642,0,,38146,Incidental to radio tracking,,,0,,,F,20+
+16363,2003-07-04,2003,7,4,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,11:13:00,56,1,Jeffie McNeil,None,100,Calm,24,21,"11-2,11",263,0,,38083,Incidental to trapping,334990,4922428,1,Point,10,M,
+16364,2003-07-05,2003,7,5,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,10:50:00,8,1,Jeffie McNeil,,,,,,"11-2,10",262,0,,38062,Visual survey,334904,4922416,1,Point,10,F,20+
+16364,2003-07-05,2003,7,5,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,11:00:00,20,1,Jeffie McNeil,None,80,Calm,24,22,"8-8,9",639,0,,37952,Incidental to trapping,334982,4922407,1,Within section,25,M,
+16365,2003-07-06,2003,7,6,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,11:13:00,32,2,"Jeffie McNeil, Tom Herman",None,40,Calm,29,24,"11-8,10",273,0,,38020,Incidental to trapping,334934,4922455,1,Within section,25,F,
+16367,2003-07-07,2003,7,7,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Bait and Check Traps,10:40:00,55,1,Jeffie McNeil,None,40,Calm,24,23,"11-8,10",273,0,,38021,Incidental to trapping,334994,4922421,1,Within section,25,F,
+16367,2003-07-07,2003,7,7,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Bait and Check Traps,10:40:00,55,1,Jeffie McNeil,None,40,Calm,24,23,"11-2,11",263,0,,38084,Incidental to trapping,334982,4922407,1,Within section,25,M,
+16367,2003-07-07,2003,7,7,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Bait and Check Traps,10:40:00,55,1,Jeffie McNeil,None,40,Calm,24,23,"11-1,2",257,0,,38131,Incidental to trapping,334982,4922407,1,Within section,25,M,20+
+16369,2003-07-08,2003,7,8,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,11:25:00,20,1,Jeffie McNeil,None,,,,,"8,9-8,9",612,0,,37943,Incidental to trapping,334596,4922607,1,Within section,25,M,6
+16484,2015-07-07,2015,7,7,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,15:17:00,222,3,"James Neish, Kim Dubois, Oscar Thiebaut Rizzoni",None,50,Calm,31,23,"8-3,4",633,0,,78840,Incidental to trapping,334918,4922478,1,Point,10,M,20+
+16484,2015-07-07,2015,7,7,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,16:31:00,117,3,"James Neish, Kim Dubois, Oscar Thiebaut Rizzoni",None,50,Calm,31,23,"8-9,10",641,0,,78826,Incidental to trapping,334795,4922443,1,Point,10,M,20+
+16489,2003-05-31,2003,5,31,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,16:19:00,42,2,"Jeffie McNeil, Troy Frech",None,80,Light,24,23,"8-8,10",637,0,,78725,Visual survey,334591,4922605,1,Point UTM Only,10,F,
+16489,2003-05-31,2003,5,31,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,17:12:00,44,2,"Jeffie McNeil, Troy Frech",None,80,Light,24,23,"2,3-2,10",381,0,,78727,Visual survey,335012,4922434,1,Point,10,F,20+
+16489,2003-05-31,2003,5,31,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,17:34:00,52,2,"Jeffie McNeil, Troy Frech",None,80,Light,22,23,"8-8,9",639,0,,78728,Incidental to radio tracking,335030,4922434,1,Point,10,M,
+16490,2003-06-04,2003,6,4,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,11:58:00,24,2,"Jeffie McNeil, Jen, Tara",None,80,Light,24,16,"2,3-2,11",382,0,,38067,Visual survey,334817,4922452,1,Point,10,F,
+16490,2003-06-04,2003,6,4,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,12:50:00,52,2,"Jeffie McNeil, Jen, Tara",None,80,Light,24,,"2,3-3,11",389,0,,37961,Visual survey,334895,4922379,1,Point,10,F,20+
+16682,2005-07-07,2005,7,7,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,11:37:00,100,2,"Jeffie McNeil, Natacha Fontaine Seguin",None,100,Calm,21,20,"2,3-3,10",388,0,,78896,Incidental to trapping,334574,4922606,1,Point,10,F,20+
+16682,2005-07-07,2005,7,7,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,11:37:00,100,2,"Jeffie McNeil, Natacha Fontaine Seguin",None,100,Calm,21,20,"2,3-8,11",394,0,,78897,Incidental to trapping,334585,4922625,1,Point,10,F,20+
+16683,2005-07-08,2005,7,8,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,14:00:00,20,2,"Jeffie McNeil, Mike Lawton",None,80,Calm,24,21,"2,3-8,9",395,0,,78900,Incidental to trapping,334925,4922441,1,Point,10,F,18
+16687,2005-07-11,2005,7,11,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Pull Traps,12:57:00,94,2,"Jeffie McNeil, Natacha Fontaine-Sqguin",None,95,Calm,25,20,"2,3-2,10",381,0,,78927,Incidental to trapping,335016,4922439,1,Point,10,F,20+
+16687,2005-07-11,2005,7,11,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Pull Traps,12:57:00,94,2,"Jeffie McNeil, Natacha Fontaine-Sqguin",None,95,Calm,25,20,"8-8,9",639,0,,78928,Incidental to trapping,334956,4922474,1,Point,10,M,
+16687,2005-07-11,2005,7,11,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Pull Traps,14:36:00,80,2,"Jeffie McNeil, Natacha Fontaine-Sqguin",None,95,Calm,24,22,"11-10,11",260,0,,78933,Incidental to trapping,334607,4922610,1,Point,10,M,26
+16687,2005-07-11,2005,7,11,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Pull Traps,14:36:00,80,2,"Jeffie McNeil, Natacha Fontaine-Sqguin",None,95,Calm,24,22,"2,3-3,10",388,0,,78934,Incidental to trapping,334607,4922610,1,Point,10,F,20+
+16707,2005-06-21,2005,6,21,ML (McGowan Lake),EB (East Brook),WP (Woodland Pool),Check Traps,19:00:00,10,2,"Jeffie McNeil, Tom Herman",None,40,Moderate,19,21,"2,9-1,10",418,0,,78963,Incidental to trapping,337235,4921931,1,Point,10,M,
+16721,1996-07-19,1996,7,19,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,13:45:00,60,2,"Jeffie McNeil, Nat McMaster",None,,Moderate,26,26,unknown,718,0,,78968,Incidental to trapping,336949,4922364,1,Within section,25,,20+
+588,2004-07-12,2004,7,12,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,13:00:00,90,2,"Jeffie McNeil, Josie Todd",,0,,26,25,,,,,,,,,,,,,
+589,2004-07-13,2004,7,13,ML (McGowan Lake),WB (West Bog),,Visual Survey,13:00:00,10,1,Jeffie McNeil,,0,,26.5,25,,,,,,,,,,,,,
+589,2004-07-13,2004,7,13,ML (McGowan Lake),WB (West Bog),,Check Traps,13:15:00,15,1,Jeffie McNeil,,0,,27,25,,,,,,,,,,,,,
+593,2004-07-27,2004,7,27,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Set Traps,16:20:00,100,2,"Jeffie McNeil, Troy Frech",,0,,27,28,,,,,,,,,,,,,
+593,2004-07-27,2004,7,27,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Set Traps,17:10:00,100,2,"Jeffie McNeil, Troy Frech",,0,,27,28,,,,,,,,,,,,,
+594,2004-07-28,2004,7,28,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,14:59:00,38,1,Jeffie McNeil,,0,,23,19,,,,,,,,,,,,,
+595,2004-07-29,2004,7,29,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Bait and Check Traps,13:33:00,15,1,Jeffie McNeil,,0,,24,22,,,,,,,,,,,,,
+595,2004-07-29,2004,7,29,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Bait and Check Traps,13:48:00,18,1,Jeffie McNeil,,0,,26,25,,,,,,,,,,,,,
+596,2004-07-30,2004,7,30,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,11:39:00,32,2,"Jeffie McNeil, Daniel McNeil",,0,,25,24,,,,,,,,,,,,,
+596,2004-07-30,2004,7,30,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,11:55:00,20,2,"Jeffie McNeil, Daniel McNeil",,0,,25,26,,,,,,,,,,,,,
+597,2004-07-31,2004,7,31,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Pull Traps,13:59:00,86,2,"Jeffie McNeil, Troy Frech",,0,,29,27,,,,,,,,,,,,,
+598,2006-06-03,2006,6,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Pull Traps,20:25:00,30,2,"Jeffie McNeil, Daniel McNeil",Mod - Heavy Rain,100,Calm,12,17,,,,,,,,,,,,,
+1379,2004-06-09,2004,6,9,ML (McGowan Lake),WF (Westfield Bog),MB (Main Bog),Set Traps,14:45:00,45,1,Guillaume Bourque,,0,,0,0,,,,,,,,,,,,,
+1379,2004-06-09,2004,6,9,ML (McGowan Lake),WF (Westfield Bog),T1,Set Traps,15:30:00,30,1,Guillaume Bourque,,0,,33,17,,,,,,,,,,,,,
+1384,2004-06-10,2004,6,10,ML (McGowan Lake),WF (Westfield Bog),T1,Check Traps,12:30:00,60,2,Guillaume Bourque and Brennan Caverhill,,0,,0,0,,,,,,,,,,,,,
+1384,2004-06-10,2004,6,10,ML (McGowan Lake),WF (Westfield Bog),MB (Main Bog),Check Traps,13:00:00,90,2,Guillaume Bourque and Brennan Caverhill,,0,,0,0,,,,,,,,,,,,,
+1391,2004-06-11,2004,6,11,ML (McGowan Lake),WF (Westfield Bog),T1,Check Traps,11:00:00,30,1,Guillaume Bourque,,0,,0,0,,,,,,,,,,,,,
+1391,2004-06-11,2004,6,11,ML (McGowan Lake),WF (Westfield Bog),MB (Main Bog),Check Traps,11:30:00,110,1,Guillaume Bourque,,0,,0,0,,,,,,,,,,,,,
+1395,2004-06-12,2004,6,12,ML (McGowan Lake),WF (Westfield Bog),T1,Bait and Check Traps,20:10:00,20,1,Guillaume Bourque,,0,,0,0,,,,,,,,,,,,,
+1395,2004-06-12,2004,6,12,ML (McGowan Lake),WF (Westfield Bog),MB (Main Bog),Bait and Check Traps,20:30:00,20,1,Guillaume Bourque,,0,,0,0,,,,,,,,,,,,,
+1399,2004-06-13,2004,6,13,ML (McGowan Lake),WF (Westfield Bog),T1,Pull Traps,12:15:00,15,1,Guillaume Bourque,,0,,0,0,,,,,,,,,,,,,
+1399,2004-06-13,2004,6,13,ML (McGowan Lake),WF (Westfield Bog),MB (Main Bog),Pull Traps,12:30:00,75,1,Guillaume Bourque,,0,,0,0,,,,,,,,,,,,,
+1760,2005-07-09,2005,7,9,ML (McGowan Lake),MM (Mount Merrit Brook),P2 (Pond 2),Set Traps,14:30:00,45,3,"Guillaume Bourque, JP Hastey and Mike Lawton",,0,,0,0,,,,,,,,,,,,,
+1760,2005-07-09,2005,7,9,ML (McGowan Lake),MM (Mount Merrit Brook),P1 (Pond 1),Set Traps,14:45:00,45,3,"Guillaume Bourque, JP Hastey and Mike Lawton",,0,,0,0,,,,,,,,,,,,,
+1766,2005-07-10,2005,7,10,ML (McGowan Lake),MM (Mount Merrit Brook),P1 (Pond 1),Bait and Check Traps,13:40:00,120,2,Guillaume Bourque and JP Hastey,,0,,20,20,,,,,,,,,,,,,
+1766,2005-07-10,2005,7,10,ML (McGowan Lake),MM (Mount Merrit Brook),P2 (Pond 2),Bait and Check Traps,14:40:00,40,2,Guillaume Bourque and JP Hastey,,0,,20,21,,,,,,,,,,,,,
+1769,2005-07-11,2005,7,11,ML (McGowan Lake),MM (Mount Merrit Brook),P1 (Pond 1),Pull Traps,15:50:00,50,2,Guillaume Bourque and Jeffie McNeil,,0,,23,22,,,,,,,,,,,,,
+1769,2005-07-11,2005,7,11,ML (McGowan Lake),MM (Mount Merrit Brook),P2 (Pond 2),Pull Traps,16:15:00,16,2,Guillaume Bourque and Jeffie McNeil,,0,,23,22,,,,,,,,,,,,,
+2002,2007-04-01,2007,4,1,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:06:00,28,2,"Jeffie McNeil, Troy Frech",None,0,Light,8,4,,,,,,,,,,,,,
+2005,2007-04-23,2007,4,23,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,15:36:00,22,1,Jeffie McNeil,None,5,Moderate,24,15,,,,,,,,,,,,,
+2005,2007-04-23,2007,4,23,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,17:27:00,5,1,Jeffie McNeil,None,10,Light,22,12,,,,,,,,,,,,,
+2005,2007-04-23,2007,4,23,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,17:33:00,5,1,Jeffie McNeil,None,10,Light,22,15,,,,,,,,,,,,,
+2005,2007-04-23,2007,4,23,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,15:15:00,10,1,Jeffie McNeil,None,5,Light,24,14,,,,,,,,,,,,,
+2005,2007-04-23,2007,4,23,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,15:26:00,10,1,Jeffie McNeil,None,5,Light,24,12,,,,,,,,,,,,,
+2008,2007-06-03,2007,6,3,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,15:22:00,16,2,"Jeffie McNeil, Troy Frech",None,90,Moderate,18,18,,,,,,,,,,,,,
+2008,2007-06-03,2007,6,3,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,15:30:00,10,2,"Jeffie McNeil, Troy Frech",None,90,Light,18,19,,,,,,,,,,,,,
+2008,2007-06-03,2007,6,3,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,16:10:00,10,2,"Jeffie McNeil, Troy Frech",None,100,Moderate,16,19,,,,,,,,,,,,,
+2008,2007-06-03,2007,6,3,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Radio Tracking,17:05:00,20,2,"Jeffie McNeil, Troy Frech",None,100,Moderate,16,18,,,,,,,,,,,,,
+2008,2007-06-03,2007,6,3,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Radio Tracking,17:15:00,10,2,"Jeffie McNeil, Troy Frech",None,90,Light,16,18,,,,,,,,,,,,,
+2008,2007-06-03,2007,6,3,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Radio Tracking,17:20:00,10,2,"Jeffie McNeil, Troy Frech",None,80,Light,16,19,,,,,,,,,,,,,
+2008,2007-06-03,2007,6,3,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Radio Tracking,17:30:00,10,2,"Jeffie McNeil, Troy Frech",None,70,Light,17,18,,,,,,,,,,,,,
+2009,2007-06-06,2007,6,6,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Visual Survey,13:00:00,30,2,"Jeffie McNeil, Hanni Borgemann",None,90,Light,24,0,,,,,,,,,,,,,
+2009,2007-06-06,2007,6,6,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Visual Survey,13:15:00,60,2,"Jeffie McNeil, Hanni Borgemann",None,90,Light,24,21,,,,,,,,,,,,,
+2009,2007-06-06,2007,6,6,ML (McGowan Lake),EB (East Brook),C4 (Cove 4),Visual Survey,13:45:00,60,2,"Jeffie McNeil, Hanni Borgemann",None,90,Light,24,21,,,,,,,,,,,,,
+2009,2007-06-06,2007,6,6,ML (McGowan Lake),EB (East Brook),BP (Borgmann Pond),Visual Survey,14:30:00,10,2,"Jeffie McNeil, Hanni Borgemann",None,90,Light,24,0,,,,,,,,,,,,,
+2010,2007-06-05,2007,6,5,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Radio Tracking,14:22:00,8,1,Jeffie McNeil,None,70,Light,26,17,,,,,,,,,,,,,
+2011,2007-07-06,2007,7,6,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Visual Survey,20:52:00,8,1,Jeffie McNeil,Light Rain,100,Light,18,23,,,,,,,,,,,,,
+2012,2007-06-07,2007,6,7,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:17:00,6,2,"Jeffie McNeil, Troy Frech",None,0,Calm,19,22,,,,,,,,,,,,,
+2013,2007-06-08,2007,6,8,ML (McGowan Lake),JT (Joe Tom Brook),Smoothy's Cluster,Radio Tracking,21:05:00,5,1,Jeffie McNeil,None,0,Calm,22,22,,,,,,,,,,,,,
+2013,2007-06-08,2007,6,8,ML (McGowan Lake),JT (Joe Tom Brook),Smoothy's Cluster,Radio Tracking,21:20:00,5,1,Jeffie McNeil,None,0,Calm,21,24,,,,,,,,,,,,,
+2014,2007-06-08,2007,6,8,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:45:00,5,1,Jeffie McNeil,None,0,Light,23,24,,,,,,,,,,,,,
+2014,2007-06-08,2007,6,8,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Radio Tracking,19:50:00,5,1,Jeffie McNeil,None,0,Light,23,0,,,,,,,,,,,,,
+2014,2007-06-08,2007,6,8,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Radio Tracking,20:15:00,15,1,Jeffie McNeil,None,0,Light,23,0,,,,,,,,,,,,,
+2017,2007-06-08,2007,6,8,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Visual Survey,21:50:00,10,1,"Troy Frech, Jeffie McNeil",None,0,Calm,0,0,,,,,,,,,,,,,
+2018,2007-06-09,2007,6,9,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,17:55:00,20,2,"Jeffie McNeil, Troy Frech",None,10,Light,24,26,,,,,,,,,,,,,
+2018,2007-06-09,2007,6,9,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,18:05:00,10,2,"Jeffie McNeil, Troy Frech",None,10,Light,24,26,,,,,,,,,,,,,
+2018,2007-06-09,2007,6,9,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Radio Tracking,18:10:00,10,2,"Jeffie McNeil, Troy Frech",None,10,Light,0,0,,,,,,,,,,,,,
+2018,2007-06-09,2007,6,9,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Radio Tracking,18:15:00,10,2,"Jeffie McNeil, Troy Frech",None,10,Light,0,0,,,,,,,,,,,,,
+2019,2007-06-09,2007,6,9,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Visual Survey,22:04:00,6,1,Troy Frech,None,90,Calm,18,0,,,,,,,,,,,,,
+2022,2007-06-09,2007,6,9,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:50:00,5,1,Jeffie McNeil,None,0,Light,22,25,,,,,,,,,,,,,
+2022,2007-06-09,2007,6,9,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Radio Tracking,19:56:00,5,1,Jeffie McNeil,None,0,Light,22,25,,,,,,,,,,,,,
+2022,2007-06-09,2007,6,9,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:01:00,9,1,Jeffie McNeil,None,0,Light,22,24,,,,,,,,,,,,,
+2022,2007-06-09,2007,6,9,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Radio Tracking,20:10:00,10,1,Jeffie McNeil,None,0,Light,22,0,,,,,,,,,,,,,
+2022,2007-06-09,2007,6,9,ML (McGowan Lake),WB (West Bog),E1 (Elizabeth Island 1),Radio Tracking,20:25:00,5,1,Jeffie McNeil,None,0,Light,22,23,,,,,,,,,,,,,
+2023,2007-06-10,2007,6,10,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Set Traps,10:49:00,16,2,"Jeffie McNeil, Troy Frech",None,80,Calm,22,23,,,,,,,,,,,,,
+2023,2007-06-10,2007,6,10,ML (McGowan Lake),EB (East Brook),BP (Borgmann Pond),Set Traps,11:00:00,20,2,"Jeffie McNeil, Troy Frech",None,80,Calm,23,21,,,,,,,,,,,,,
+2028,2007-06-10,2007,6,10,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Check Traps,22:21:00,2,1,Troy Frech,None,100,Calm,0,0,,,,,,,,,,,,,
+2029,2007-06-10,2007,6,10,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:50:00,5,1,Jeffie McNeil,None,80,Calm,26,23,,,,,,,,,,,,,
+2029,2007-06-10,2007,6,10,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,19:58:00,2,1,Jeffie McNeil,None,80,Calm,0,0,,,,,,,,,,,,,
+2030,2007-06-10,2007,6,10,ML (McGowan Lake),WB (West Bog),LP (Lucy Peninsula),Radio Tracking,21:12:00,3,1,Jeffie McNeil,,0,,0,0,,,,,,,,,,,,,
+2031,2007-06-11,2007,6,11,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Check Traps,18:11:00,1,1,Jeffie McNeil,Mod - Heavy Rain,100,Light,20,21,,,,,,,,,,,,,
+2031,2007-06-11,2007,6,11,ML (McGowan Lake),EB (East Brook),BP (Borgmann Pond),Check Traps,18:16:00,1,1,Jeffie McNeil,Mod - Heavy Rain,100,Light,20,22,,,,,,,,,,,,,
+2038,2007-06-12,2007,6,12,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Pull Traps,12:20:00,25,1,Jeffie McNeil,None,100,Light,18,19,,,,,,,,,,,,,
+2038,2007-06-12,2007,6,12,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Check Traps,12:48:00,1,1,Jeffie McNeil,None,100,Light,0,0,,,,,,,,,,,,,
+2043,2007-06-13,2007,6,13,ML (McGowan Lake),EB (East Brook),BP (Borgmann Pond),Pull Traps,19:40:00,10,2,"Jeffie McNeil, Megan Crowley",Drizzle / Mist,100,Calm,17,17.5,,,,,,,,,,,,,
+2043,2007-06-13,2007,6,13,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Pull Traps,19:48:00,4,2,"Jeffie McNeil, Megan Crowley",Drizzle / Mist,100,Calm,17,18,,,,,,,,,,,,,
+2049,2007-06-15,2007,6,15,ML (McGowan Lake),WB (West Bog),NC (North Cove),Radio Tracking,20:28:00,2,1,"Jeffie McNeil, Tara Imlay",None,100,Light,18,23,,,,,,,,,,,,,
+2049,2007-06-15,2007,6,15,ML (McGowan Lake),WB (West Bog),NC (North Cove),Radio Tracking,21:48:00,11,1,"Jeffie McNeil, Tara Imlay",None,100,Light,18,22,,,,,,,,,,,,,
+2049,2007-06-15,2007,6,15,ML (McGowan Lake),WB (West Bog),C6 (Cove 6),Radio Tracking,22:45:00,5,1,"Jeffie McNeil, Tara Imlay",None,100,Light,0,0,,,,,,,,,,,,,
+2049,2007-06-15,2007,6,15,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,23:45:00,10,2,"Jeffie McNeil, Tara Imlay",None,100,Light,0,0,,,,,,,,,,,,,
+2049,2007-06-15,2007,6,15,ML (McGowan Lake),WB (West Bog),DP (Deans Passage),Radio Tracking,00:20:00,20,2,"Jeffie McNeil, Tara Imlay",None,100,Light,0,0,,,,,,,,,,,,,
+2049,2007-06-15,2007,6,15,ML (McGowan Lake),WB (West Bog),C8 (Cove 8),Radio Tracking,00:30:00,10,2,"Jeffie McNeil, Tara Imlay",Drizzle / Mist,100,Light,0,0,,,,,,,,,,,,,
+2050,2007-06-15,2007,6,15,ML (McGowan Lake),EB (East Brook),BP (Borgmann Pond),Radio Tracking,19:40:00,4,2,"Jeffie McNeil, Tara Imlay",None,80,Light,18,0,,,,,,,,,,,,,
+2050,2007-06-15,2007,6,15,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,19:48:00,14,2,"Jeffie McNeil, Tara Imlay",None,80,Light,18,0,,,,,,,,,,,,,
+2054,2007-06-14,2007,6,14,ML (McGowan Lake),WB (West Bog),WR (Woods Road),Radio Tracking,21:40:00,20,2,"Troy Frech, Chris Wagner",None,0,Calm,10,0,,,,,,,,,,,,,
+2061,2007-06-16,2007,6,16,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:58:00,2,1,"Jeffie McNeil, Troy Frech",None,70,Light,0,0,,,,,,,,,,,,,
+2062,2007-06-16,2007,6,16,ML (McGowan Lake),JT (Joe Tom Brook),LI (Lumpy Island),Radio Tracking,00:40:00,10,2,"Troy Frech, Jeffie McNeil",Drizzle / Mist,100,Calm,0,0,,,,,,,,,,,,,
+2065,2007-06-17,2007,6,17,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,20:00:00,20,2,"Jeffie McNeil, Troy Frech",None,40,Calm,24,24,,,,,,,,,,,,,
+2068,2007-06-18,2007,6,18,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Radio Tracking,21:45:00,3,1,Jeffie McNeil,None,0,Calm,18,0,,,,,,,,,,,,,
+2093,2007-06-22,2007,6,22,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:10:00,20,2,"Jeffie McNeil, Hanni Borgmann",None,100,Calm,22,0,,,,,,,,,,,,,
+2093,2007-06-22,2007,6,22,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Visual Survey,21:35:00,20,2,"Jeffie McNeil, Hanni Borgmann",None,100,Calm,0,0,,,,,,,,,,,,,
+2093,2007-06-22,2007,6,22,ML (McGowan Lake),EB (East Brook),CF (Cabin Road Fork),Radio Tracking,22:00:00,10,2,"Jeffie McNeil, Hanni Borgmann",None,100,Calm,0,0,,,,,,,,,,,,,
+2097,2007-06-22,2007,6,22,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,22:50:00,32,2,"Troy Frech, Daniel McNeil, Jeffie McNeil, Hanni Borgmann",None,0,Calm,0,0,,,,,,,,,,,,,
+2105,2007-06-16,2007,6,16,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,00:18:00,25,1,Peter Kydd,None,70,Calm,16,20,,,,,,,,,,,,,
+2106,2007-06-18,2007,6,18,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Radio Tracking,15:17:00,64,2,"Peter Kydd, Jennifer McKinnon",None,5,Calm,23,23,,,,,,,,,,,,,
+2106,2007-06-18,2007,6,18,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,16:50:00,16,2,"Peter Kydd, Jennifer McKinnon",None,5,Calm,23,23,,,,,,,,,,,,,
+2108,2007-06-21,2007,6,21,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Radio Tracking,13:20:00,30,2,"Jennifer McKinnon, Peter Kydd",None,100,Light,22,21,,,,,,,,,,,,,
+2108,2007-06-21,2007,6,21,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,14:00:00,30,2,"Jennifer McKinnon, Peter Kydd",None,100,Light,22,21,,,,,,,,,,,,,
+2116,2007-06-26,2007,6,26,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:00:00,150,2,"Tara Imlay, Mike Lawton",None,20,Light,26,19,,,,,,,,,,,,,
+2121,2007-06-29,2007,6,29,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:00:00,30,2,"David Beauchesne, Peter Kydd",None,5,Calm,20,24.5,,,,,,,,,,,,,
+2174,2007-08-09,2007,8,9,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Radio Tracking,16:45:00,10,1,Jeffie McNeil,None,2,Light,26,24,,,,,,,,,,,,,
+2175,2007-07-04,2007,7,4,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,19:00:00,20,2,"Jeffie McNeil, Troy Frech",None,20,Strong,21,24,,,,,,,,,,,,,
+2175,2007-07-04,2007,7,4,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Set Traps,19:25:00,20,2,"Jeffie McNeil, Troy Frech",None,20,Moderate,21,24,,,,,,,,,,,,,
+2175,2007-07-04,2007,7,4,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Set Traps,19:36:00,48,2,"Jeffie McNeil, Troy Frech",None,20,Moderate,20,24,,,,,,,,,,,,,
+2175,2007-07-04,2007,7,4,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Set Traps,20:00:00,70,2,"Jeffie McNeil, Troy Frech",None,20,Strong,18,23,,,,,,,,,,,,,
+2175,2007-07-04,2007,7,4,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Set Traps,20:35:00,80,2,"Jeffie McNeil, Troy Frech",None,20,Moderate,16,23,,,,,,,,,,,,,
+2177,2007-07-05,2007,7,5,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,14:50:00,10,1,Jeffie McNeil,Mod - Heavy Rain,100,Moderate,17,19,,,,,,,,,,,,,
+2177,2007-07-05,2007,7,5,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,15:00:00,10,1,Jeffie McNeil,Mod - Heavy Rain,100,Moderate,17,19,,,,,,,,,,,,,
+2177,2007-07-05,2007,7,5,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Check Traps,15:10:00,12,1,Jeffie McNeil,Mod - Heavy Rain,100,Moderate,17,17,,,,,,,,,,,,,
+2177,2007-07-05,2007,7,5,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Check Traps,15:22:00,10,1,Jeffie McNeil,Mod - Heavy Rain,100,Moderate,17,18,,,,,,,,,,,,,
+2177,2007-07-05,2007,7,5,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Check Traps,15:32:00,14,1,Jeffie McNeil,Mod - Heavy Rain,100,Moderate,16,18,,,,,,,,,,,,,
+2178,2007-07-06,2007,7,6,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,19:16:00,10,2,"Jeffie McNeil, Troy Frech",None,100,Light,20,20,,,,,,,,,,,,,
+2178,2007-07-06,2007,7,6,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Bait and Check Traps,19:28:00,22,2,"Jeffie McNeil, Troy Frech",None,100,Calm,20,21,,,,,,,,,,,,,
+2178,2007-07-06,2007,7,6,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Bait and Check Traps,19:40:00,34,2,"Jeffie McNeil, Troy Frech",None,90,Calm,21,21,,,,,,,,,,,,,
+2178,2007-07-06,2007,7,6,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Bait and Check Traps,19:57:00,40,2,"Jeffie McNeil, Troy Frech",None,80,Calm,21,21,,,,,,,,,,,,,
+2179,2007-07-07,2007,7,7,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,12:24:00,6,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,22,21,,,,,,,,,,,,,
+2179,2007-07-07,2007,7,7,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,12:27:00,8,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,22,21,,,,,,,,,,,,,
+2179,2007-07-07,2007,7,7,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Visual Survey,12:32:00,20,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,22,23,,,,,,,,,,,,,
+2179,2007-07-07,2007,7,7,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Pull Traps,12:42:00,40,2,"Jeffie McNeil, Troy Frech",None,60,Light,22,23,,,,,,,,,,,,,
+2179,2007-07-07,2007,7,7,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Radio Tracking,13:02:00,18,2,"Jeffie McNeil, Troy Frech",None,80,Moderate,22,23,,,,,,,,,,,,,
+2179,2007-07-07,2007,7,7,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Pull Traps,13:30:00,26,2,"Jeffie McNeil, Troy Frech",None,90,Moderate,21,23,,,,,,,,,,,,,
+2179,2007-07-07,2007,7,7,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Pull Traps,13:43:00,24,2,"Jeffie McNeil, Troy Frech",None,90,Light,22,23,,,,,,,,,,,,,
+2326,2007-09-30,2007,9,30,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Radio Tracking,14:15:00,10,2,"Jeffie McNeil, Troy Frech",None,5,Light,18,17,,,,,,,,,,,,,
+2327,2007-10-21,2007,10,21,ML (McGowan Lake),EB (East Brook),M1 (Meadow 1),Radio Tracking,14:15:00,30,2,"Jeffie McNeil, Troy Frech",None,40,Moderate,17,0,,,,,,,,,,,,,
+2330,2007-09-05,2007,9,5,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,13:45:00,5,1,Jeffie McNeil,None,20,Light,18,0,,,,,,,,,,,,,
+2337,2007-10-24,2007,10,24,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,18:15:00,30,2,"Jeffie McNeil, Troy Frech",None,100,Calm,12,13,,,,,,,,,,,,,
+2343,2007-06-23,2007,6,23,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:05:00,180,3,"Tara Imlay, Chris Wagner, Maelle Lepoutre",None,95,Calm,20,22,,,,,,,,,,,,,
+2344,2007-06-18,2007,6,18,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Radio Tracking,20:16:00,3,1,Jeffie McNeil,None,10,Calm,22,23,,,,,,,,,,,,,
+2345,2007-10-16,2007,10,16,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,16:45:00,38,1,Jeffie McNeil,None,5,Light,12.5,9,,,,,,,,,,,,,
+2347,2007-07-03,2007,7,3,ML (McGowan Lake),DL (Deans Lake),DB (Dean Bog),Radio Tracking,13:30:00,20,1,Peter Kydd,None,45,Calm,23,20,,,,,,,,,,,,,
+2347,2007-07-03,2007,7,3,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Radio Tracking,13:50:00,324,1,Peter Kydd,None,50,Calm,23,21,,,,,,,,,,,,,
+2347,2007-07-03,2007,7,3,ML (McGowan Lake),DL (Deans Lake),MI (Medway Inflow),Radio Tracking,14:15:00,30,1,Peter Kydd,None,60,Calm,23,19,,,,,,,,,,,,,
+2347,2007-07-03,2007,7,3,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Radio Tracking,14:45:00,22,1,Peter Kydd,None,60,Calm,22,21,,,,,,,,,,,,,
+2347,2007-07-03,2007,7,3,ML (McGowan Lake),DL (Deans Lake),DB (Dean Bog),Radio Tracking,15:07:00,23,1,Peter Kydd,None,55,Calm,23,20,,,,,,,,,,,,,
+2348,2007-07-08,2007,7,8,ML (McGowan Lake),DL (Deans Lake),DB (Dean Bog),Radio Tracking,11:45:00,30,1,Peter Kydd,None,85,Calm,19,20,,,,,,,,,,,,,
+2348,2007-07-08,2007,7,8,ML (McGowan Lake),DL (Deans Lake),BK (Deans Brook),Radio Tracking,12:15:00,75,1,Peter Kydd,None,85,Calm,19,19,,,,,,,,,,,,,
+2457,2007-10-31,2007,10,31,ML (McGowan Lake),WB (West Bog),GP (Gravel Pit),Radio Tracking,12:24:00,4,2,"Abbey Camaclang, Royden Messer, Jose Lefevbre",None,0,Calm,8.5,0,,,,,,,,,,,,,
+2500,2007-09-14,2007,9,14,ML (McGowan Lake),WB (West Bog),E1 (Elizabeth Island 1),Radio Tracking,14:13:00,40,2,"Abbey Camaclang, Jeffie McNeil",None,0,Light,24,26,,,,,,,,,,,,,
+2643,2008-04-06,2008,4,6,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:15:00,30,2,"Troy Frech, Jeffie McNeil",None,80,Calm,8,0,,,,,,,,,,,,,
+2648,2008-04-20,2008,4,20,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,13:35:00,120,3,"Jeffie McNeil, Rachel Thibideau, Andree-Anne Halle",None,0,Calm,18,14,,,,,,,,,,,,,
+2648,2008-04-20,2008,4,20,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,14:15:00,45,3,"Jeffie McNeil, Rachel Thibideau, Andree-Anne Halle",None,0,Calm,18,12,,,,,,,,,,,,,
+2649,2008-04-18,2008,4,18,ML (McGowan Lake),WB (West Bog),WR (Woods Road),Visual Survey,13:30:00,80,1,Jeffie McNeil,None,0,Light,18,8,,,,,,,,,,,,,
+2656,2008-04-27,2008,4,27,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Radio Tracking,12:40:00,153,3,"Troy Frech, Rachel Thibodeau, Andree-Anne Halle",None,30,Calm,16,0,,,,,,,,,,,,,
+2660,2008-05-03,2008,5,3,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,12:38:00,14,2,"Jeffie McNeil, Troy Frech",None,100,Calm,11,0,,,,,,,,,,,,,
+2660,2008-05-03,2008,5,3,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,13:30:00,10,2,"Jeffie McNeil, Troy Frech",None,30,Calm,12,0,,,,,,,,,,,,,
+2671,2008-05-15,2008,5,15,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,13:35:00,5,1,Jeffie McNeil,None,0,Calm,0,0,,,,,,,,,,,,,
+2672,2008-05-16,2008,5,16,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,11:37:00,22,2,"Jeffie McNeil, Lilianne Arsenault",None,5,Calm,21,18,,,,,,,,,,,,,
+2672,2008-05-16,2008,5,16,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,11:52:00,26,2,"Jeffie McNeil, Lilianne Arsenault",None,5,Calm,21,18,,,,,,,,,,,,,
+2685,2008-06-02,2008,6,2,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,16:40:00,10,1,Jeffie McNeil,None,50,Light,24,23,,,,,,,,,,,,,
+2685,2008-06-02,2008,6,2,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Radio Tracking,17:55:00,15,1,Jeffie McNeil,None,30,Calm,22,0,,,,,,,,,,,,,
+2685,2008-06-02,2008,6,2,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,18:45:00,15,1,Jeffie McNeil,None,10,Calm,19,20,,,,,,,,,,,,,
+2686,2008-06-03,2008,6,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,18:30:00,5,1,Jeffie McNeil,None,80,Moderate,26,25,,,,,,,,,,,,,
+2693,2008-06-04,2008,6,4,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,16:45:00,10,1,Jeffie McNeil,None,100,Calm,24,22,,,,,,,,,,,,,
+2693,2008-06-04,2008,6,4,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,17:00:00,5,1,Jeffie McNeil,None,100,Calm,24,0,,,,,,,,,,,,,
+2694,2008-06-04,2008,6,4,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,19:54:00,12,2,"Jeffie McNeil, Andree-Anne Halle",Light Rain,100,Calm,21,22,,,,,,,,,,,,,
+2697,2008-06-05,2008,6,5,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Radio Tracking,19:50:00,20,2,"Jeffie McNeil, Rachel Thibodeau",None,0,Calm,22,21,,,,,,,,,,,,,
+2697,2008-06-05,2008,6,5,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Radio Tracking,22:15:00,20,2,"Jeffie McNeil, Rachel Thibodeau",None,0,Calm,0,0,,,,,,,,,,,,,
+2697,2008-06-05,2008,6,5,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,22:25:00,40,2,"Jeffie McNeil, Rachel Thibodeau",None,0,Calm,0,0,,,,,,,,,,,,,
+2697,2008-06-05,2008,6,5,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Radio Tracking,22:45:00,10,2,"Jeffie McNeil, Rachel Thibodeau",None,0,Calm,0,0,,,,,,,,,,,,,
+2707,2008-06-06,2008,6,6,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,19:45:00,30,2,"Jesse Saroli, Veronica Belmonte",None,100,Light,17,20,,,,,,,,,,,,,
+2710,2008-06-06,2008,6,6,ML (McGowan Lake),SD (South Deans),C5 (Cove 5),Radio Tracking,22:45:00,18,1,Troy Frech,None,100,Calm,,,,,,,,,,,,,,,
+2715,2008-06-08,2008,6,8,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:00:00,120,2,"Veronica Belmonte, Lilianne Arsenault",None,95,Calm,26,0,,,,,,,,,,,,,
+2717,2008-06-08,2008,6,8,ML (McGowan Lake),SD (South Deans),C5 (Cove 5),Radio Tracking,23:20:00,-2790,2,"Rachel Thibodeau,Tom Herman",None,20,Calm,27,0,,,,,,,,,,,,,
+2725,2008-06-09,2008,6,9,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,19:55:00,70,2,"Peter Kydd, Lilianne Arsenault",None,75,Calm,24,0,,,,,,,,,,,,,
+2727,2008-06-09,2008,6,9,ML (McGowan Lake),EB (East Brook),PW (Peninsula SW Shore),Radio Tracking,22:05:00,15,1,Jeffie McNeil,None,60,Strong,0,0,,,,,,,,,,,,,
+2730,2008-06-10,2008,6,10,ML (McGowan Lake),SD (South Deans),C5 (Cove 5),Radio Tracking,22:15:00,15,3,"Troy Frech, Andree-Anne Halle, Rachel Thibodeau, J.F. Desroches",None,100,Moderate,0,0,,,,,,,,,,,,,
+2736,2008-06-11,2008,6,11,ML (McGowan Lake),SD (South Deans),C5 (Cove 5),Radio Tracking,20:35:00,20,2,"Troy Frech, Rachel Thibodeau",None,0,Calm,23,0,,,,,,,,,,,,,
+2736,2008-06-11,2008,6,11,ML (McGowan Lake),SD (South Deans),C5 (Cove 5),Radio Tracking,22:17:00,20,2,"Troy Frech, Rachel Thibodeau",None,0,Calm,0,0,,,,,,,,,,,,,
+2737,2008-06-11,2008,6,11,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:40:00,80,2,"Andree-Anne Halle, Peter Kydd",None,0,Calm,25,22,,,,,,,,,,,,,
+2749,2008-06-13,2008,6,13,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:57:00,6,2,"Jeffie McNeil, Lilianne Arsenault",None,2,Calm,20,23,,,,,,,,,,,,,
+2750,2008-06-14,2008,6,14,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:54:00,8,2,"Jeffie McNeil, Rachel Thibodeau",None,10,Calm,20,23,,,,,,,,,,,,,
+2751,2008-06-14,2008,6,14,ML (McGowan Lake),ML (Mid Lake),LI (Lumpy Island),Radio Tracking,21:33:00,4,2,"Jeffie McNeil, Rachel Thibodeau",None,2,Light,17,20.5,,,,,,,,,,,,,
+2753,2008-06-15,2008,6,15,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:55:00,4,1,Jeffie McNeil,None,60,Calm,21,23,,,,,,,,,,,,,
+2755,2008-06-13,2008,6,13,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,21:15:00,20,2,"Rachel Thibodeau, Peter Kydd",None,0,Calm,15,18,,,,,,,,,,,,,
+2755,2008-06-13,2008,6,13,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Radio Tracking,21:25:00,10,2,"Rachel Thibodeau, Peter Kydd",None,0,Calm,15,18,,,,,,,,,,,,,
+2756,2008-06-13,2008,6,13,ML (McGowan Lake),WB (West Bog),HR (Henry Road),Radio Tracking,21:39:00,48,2,"Troy Frech, Andree-Anne Halle",None,0,Light,13,0,,,,,,,,,,,,,
+2757,2008-06-13,2008,6,13,ML (McGowan Lake),SD (South Deans),C5 (Cove 5),Radio Tracking,20:58:00,10,2,"Troy Frech, Andree-Anne Halle",None,0,Light,17,0,,,,,,,,,,,,,
+2761,2008-06-15,2008,6,15,ML (McGowan Lake),WB (West Bog),MM (Mt Merrit Road),Radio Tracking,21:32:00,13,1,"Troy Frech, Rachel Thibodeau, Lilanne Arsenault",None,0,Calm,21,0,,,,,,,,,,,,,
+2763,2008-06-16,2008,6,16,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Radio Tracking,19:50:00,26,2,"Lilianne Arsenault, Rachel Thibodeau",None,100,Light,21,0,,,,,,,,,,,,,
+2766,2008-06-12,2008,6,12,ML (McGowan Lake),SD (South Deans),C5 (Cove 5),Radio Tracking,19:47:00,10,1,"Jose Lefebvre, Lilianne Arsenault",None,0,Light,19,0,,,,,,,,,,,,,
+2768,2008-06-12,2008,6,12,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:50:00,10,2,"Jeffie McNeil, Andree-Anne Halle",None,0,Light,21,19,,,,,,,,,,,,,
+2768,2008-06-12,2008,6,12,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:01:00,8,2,"Jeffie McNeil, Andree-Anne Halle",None,0,Light,21,22,,,,,,,,,,,,,
+2770,2008-06-16,2008,6,16,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:53:00,2,1,Jeffie McNeil,None,100,Calm,22,21.5,,,,,,,,,,,,,
+2771,2008-06-17,2008,6,17,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:20:00,58,2,"Ashley Wendt, Peter Kydd",None,100,Calm,17,20,,,,,,,,,,,,,
+2771,2008-06-17,2008,6,17,ML (McGowan Lake),EB (East Brook),C4 (Cove 4),Radio Tracking,20:49:00,22,2,"Ashley Wendt, Peter Kydd",None,100,Calm,17,20,,,,,,,,,,,,,
+2771,2008-06-17,2008,6,17,ML (McGowan Lake),EB (East Brook),PW (Peninsula SW Shore),Radio Tracking,21:00:00,70,2,"Ashley Wendt, Peter Kydd",None,100,Calm,16,19.5,,,,,,,,,,,,,
+2777,2008-06-18,2008,6,18,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Radio Tracking,19:50:00,70,2,"Peter Kydd, Dirk vanLooon",None,100,Calm,17,19,,,,,,,,,,,,,
+2777,2008-06-18,2008,6,18,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:30:00,40,2,"Peter Kydd, Dirk vanLooon",None,100,Calm,17,19,,,,,,,,,,,,,
+2793,2008-06-20,2008,6,20,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:15:00,90,3,"Jesse Saroli, Peter Kydd, Benna Keogloe",None,15,Calm,21,19,,,,,,,,,,,,,
+2793,2008-06-20,2008,6,20,ML (McGowan Lake),EB (East Brook),WP (Woodland Pool),Radio Tracking,20:55:00,60,3,"Jesse Saroli, Peter Kydd, Benna Keogloe",None,10,Calm,20,16,,,,,,,,,,,,,
+2913,2008-06-20,2008,6,20,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:58:00,3,1,Jeffie McNeil,None,30,Light,19,21,,,,,,,,,,,,,
+2919,2008-06-25,2008,6,25,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,14:00:00,15,1,Jeffie McNeil,None,5,Light,26,23,,,,,,,,,,,,,
+2925,2008-07-08,2008,7,8,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,11:46:00,10,1,Jeffie McNeil,None,20,Calm,29,20,,,,,,,,,,,,,
+2926,2008-07-10,2008,7,10,ML (McGowan Lake),WB (West Bog),WR (Woods Road),Radio Tracking,12:05:00,128,2,"Jeffie McNeil, Jessica Lankshear",None,100,Calm,20.5,0,,,,,,,,,,,,,
+2930,2008-07-15,2008,7,15,ML (McGowan Lake),WB (West Bog),1A (West Bog 1A),Radio Tracking,18:50:00,20,2,"Jeffie McNeil, Troy Frech",None,70,Calm,26,21,,,,,,,,,,,,,
+2930,2008-07-15,2008,7,15,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,19:25:00,5,1,"Jeffie McNeil, Troy Frech",None,70,Calm,26,0,,,,,,,,,,,,,
+2930,2008-07-15,2008,7,15,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Radio Tracking,19:30:00,3,1,"Jeffie McNeil, Troy Frech",None,70,Calm,26,0,,,,,,,,,,,,,
+2930,2008-07-15,2008,7,15,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Radio Tracking,19:33:00,5,1,"Jeffie McNeil, Troy Frech",None,70,Calm,26,0,,,,,,,,,,,,,
+2930,2008-07-15,2008,7,15,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:00:00,10,1,"Jeffie McNeil, Troy Frech",None,70,Calm,26,0,,,,,,,,,,,,,
+2954,2008-07-18,2008,7,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,10:25:00,10,1,Jeffie McNeil,None,90,Calm,24,19,,,,,,,,,,,,,
+2954,2008-07-18,2008,7,18,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,11:45:00,5,1,Jeffie McNeil,None,70,Calm,25,0,,,,,,,,,,,,,
+2954,2008-07-18,2008,7,18,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,11:50:00,10,1,Jeffie McNeil,None,70,Calm,27,0,,,,,,,,,,,,,
+2954,2008-07-18,2008,7,18,ML (McGowan Lake),WB (West Bog),NC (North Cove),Radio Tracking,12:30:00,30,1,Jeffie McNeil,NN,80,Calm,31,28,,,,,,,,,,,,,
+2955,2008-07-21,2008,7,21,ML (McGowan Lake),MM (Mount Merrit Brook),M2 (Meadow 2),Radio Tracking,12:20:00,40,1,Jeffie McNeil,None,100,Calm,22,0,,,,,,,,,,,,,
+2956,2008-07-21,2008,7,21,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,13:55:00,5,1,Jeffie McNeil,None,100,Calm,23,0,,,,,,,,,,,,,
+2956,2008-07-21,2008,7,21,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Visual Survey,14:15:00,15,1,Jeffie McNeil,None,100,Calm,23,25,,,,,,,,,,,,,
+2956,2008-07-21,2008,7,21,ML (McGowan Lake),WB (West Bog),GP (Gravel Pit),Radio Tracking,15:30:00,2,1,Jeffie McNeil,None,100,Calm,23,0,,,,,,,,,,,,,
+4248,2008-08-01,2008,8,1,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,12:09:00,3,1,Jeffie McNeil,None,100,Light,24,23,,,,,,,,,,,,,
+4253,2008-06-23,2008,6,23,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Set Traps,15:37:00,183,3,"Jeffie McNeil, Veronica Belmonte, Lilianne Arsenault",None,95,Moderate,27,26,,,,,,,,,,,,,
+4253,2008-06-23,2008,6,23,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Set Traps,17:15:00,21,3,"Jeffie McNeil, Veronica Belmonte, Lilianne Arsenault",None,85,Moderate,25,28,,,,,,,,,,,,,
+4254,2008-06-24,2008,6,24,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Check Traps,10:47:00,22,2,"Veronica Belmonte, Lilianne Arsenault",None,100,Calm,22,22,,,,,,,,,,,,,
+4254,2008-06-24,2008,6,24,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,11:09:00,120,2,"Veronica Belmonte, Lilianne Arsenault",None,100,Calm,22,22,,,,,,,,,,,,,
+4255,2008-06-25,2008,6,25,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Check Traps,16:52:00,12,2,"Jesse Saroli, Lilianne Arsenault",None,5,Light,25,28,,,,,,,,,,,,,
+4255,2008-06-25,2008,6,25,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,17:06:00,38,2,"Jesse Saroli, Lilianne Arsenault",None,5,Moderate,25,27,,,,,,,,,,,,,
+4256,2008-06-26,2008,6,26,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Bait and Check Traps,16:37:00,12,2,"Veronica Belmonte, Lilianne Arsenault",None,85,Moderate,26,25,,,,,,,,,,,,,
+4257,2008-06-27,2008,6,27,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Pull Traps,11:21:00,8,2,"Veronica Belmonte, Lilianne Arsenault",None,100,Light,21,20,,,,,,,,,,,,,
+4275,2008-09-07,2008,9,7,ML (McGowan Lake),WB (West Bog),GP (Gravel Pit),Radio Tracking,16:10:00,100,2,"Jeffie McNeil, Troy Frech",None,100,Light,23,0,,,,,,,,,,,,,
+4287,2008-08-19,2008,8,19,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,11:15:00,120,8,"Jeffie McNeil, Harold Clapp, Diane Clapp, Brennan Caverhill, Sherman Boates, Tom Herman, David Morse, Lynn Morse",None,100,Calm,23.5,21,,,,,,,,,,,,,
+4289,2008-08-27,2008,8,27,ML (McGowan Lake),MM (Mount Merrit Brook),WM (Woodland Meadow),Radio Tracking,13:30:00,30,1,Jeffie McNeil,None,5,Light,25,0,,,,,,,,,,,,,
+4302,2008-09-27,2008,9,27,ML (McGowan Lake),WB (West Bog),GP (Gravel Pit),Radio Tracking,15:59:00,32,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Light,19,0,,,,,,,,,,,,,
+4304,2008-09-30,2008,9,30,ML (McGowan Lake),WB (West Bog),WR (Woods Road),Radio Tracking,14:35:00,18,1,Jeffie McNeil,None,50,Calm,21,0,,,,,,,,,,,,,
+4304,2008-09-30,2008,9,30,ML (McGowan Lake),WB (West Bog),GP (Gravel Pit),Radio Tracking,14:58:00,6,1,Jeffie McNeil,None,40,Calm,23,0,,,,,,,,,,,,,
+4340,2007-08-14,2007,8,14,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,12:50:00,5,1,Jeffie McNeil,None,30,Light,27,0,,,,,,,,,,,,,
+4344,2008-10-02,2008,10,2,ML (McGowan Lake),WB (West Bog),GP (Gravel Pit),Radio Tracking,14:35:00,12,1,Jeffie McNeil,Drizzle / Mist,100,Moderate,19,0,,,,,,,,,,,,,
+4349,2008-10-09,2008,10,9,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Radio Tracking,18:41:00,28,2,"Jeffie McNeil, Troy Frech",None,100,Light,16,14,,,,,,,,,,,,,
+4645,2006-05-28,2006,5,28,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,18:42:00,76,2,"Jeffie McNeil, Troy Frech",None,25,Calm,26,26,,,,,,,,,,,,,
+4645,2006-05-28,2006,5,28,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,19:42:00,16,2,"Jeffie McNeil, Troy Frech",None,30,Calm,24,26,,,,,,,,,,,,,
+4648,2006-05-29,2006,5,29,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Radio Tracking,19:38:00,7,1,Jeffie McNeil,None,40,Light,25,26,,,,,,,,,,,,,
+4658,2006-05-31,2006,5,31,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,20:17:00,12,2,"Jeffie McNeil, Tom Herman",None,80,Calm,22,21,,,,,,,,,,,,,
+4664,2006-06-01,2006,6,1,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Bait and Check Traps,18:57:00,12,1,Jeffie McNeil,None,90,Calm,23,23,,,,,,,,,,,,,
+4664,2006-06-01,2006,6,1,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Bait and Check Traps,19:17:00,10,1,Jeffie McNeil,None,70,Calm,22,24,,,,,,,,,,,,,
+4665,2006-06-02,2006,6,2,ML (McGowan Lake),EB (East Brook),CF (Cabin Road Fork),Radio Tracking,21:45:00,10,2,"Tom Herman, Daniel McNeil",Light Rain,100,Calm,19,0,,,,,,,,,,,,,
+4665,2006-06-02,2006,6,2,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Radio Tracking,22:05:00,60,2,"Tom Herman, Daniel McNeil",Light Rain,100,Calm,19,0,,,,,,,,,,,,,
+4669,2006-06-02,2006,6,2,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,20:55:00,16,2,"Jeffie McNeil, Troy Frech",Mod - Heavy Rain,100,Calm,19,21,,,,,,,,,,,,,
+10013,2006-06-04,2006,6,4,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,20:14:00,6,1,"Jeffie McNeil, Tom Herman",Mod - Heavy Rain,100,Light,15,16,,,,,,,,,,,,,
+10013,2006-06-04,2006,6,4,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:25:00,5,1,"Jeffie McNeil, Tom Herman",,0,,15,16,,,,,,,,,,,,,
+10027,2006-06-06,2006,6,6,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,20:32:00,6,2,"Jeffie McNeil, Daniel McNeil",,0,,0,0,,,,,,,,,,,,,
+10027,2006-06-06,2006,6,6,ML (McGowan Lake),WB (West Bog),1A (West Bog 1A),Radio Tracking,20:35:00,6,2,"Jeffie McNeil, Daniel McNeil",,0,,0,0,,,,,,,,,,,,,
+10027,2006-06-06,2006,6,6,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:50:00,10,2,"Jeffie McNeil, Daniel McNeil",,0,,0,0,,,,,,,,,,,,,
+10036,2006-06-09,2006,6,9,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Radio Tracking,20:45:00,6,2,"Jeffie McNeil, Tom Herman",None,100,Calm,0,0,,,,,,,,,,,,,
+10036,2006-06-09,2006,6,9,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:53:00,4,2,"Jeffie McNeil, Tom Herman",,0,,0,0,,,,,,,,,,,,,
+10038,2006-06-08,2006,6,8,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:35:00,10,2,"Tom Herman, Daniel McNeil",None,100,Light,15,15,,,,,,,,,,,,,
+10038,2006-06-08,2006,6,8,ML (McGowan Lake),WB (West Bog),E1 (Elizabeth Island 1),Radio Tracking,20:50:00,10,2,"Tom Herman, Daniel McNeil",,0,,0,0,,,,,,,,,,,,,
+10038,2006-06-08,2006,6,8,ML (McGowan Lake),WB (West Bog),HC (Henrietta Cove),Radio Tracking,21:00:00,10,2,"Tom Herman, Daniel McNeil",,0,,0,0,,,,,,,,,,,,,
+10047,2006-06-10,2006,6,10,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Radio Tracking,20:10:00,4,2,"Jeffie McNeil, Tom Herman",None,80,Light,0,0,,,,,,,,,,,,,
+10055,2006-06-12,2006,6,12,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,15:15:00,30,2,"Jeffie McNeil, Tom Herman",None,5,Light,25,0,,,,,,,,,,,,,
+10056,2006-06-12,2006,6,12,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Radio Tracking,20:29:00,2,2,"Jeffie McNeil, Daniel McNeil",,0,,0,0,,,,,,,,,,,,,
+10058,2006-06-13,2006,6,13,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,20:30:00,4,2,"Jeffie McNeil, Daniel McNeil",None,20,Calm,22,21,,,,,,,,,,,,,
+10058,2006-06-13,2006,6,13,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:35:00,30,2,"Jeffie McNeil, Daniel McNeil",,0,,0,0,,,,,,,,,,,,,
+10069,2006-06-16,2006,6,16,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:40:00,6,2,"Jeffie McNeil, Tom Herman",,0,,0,0,,,,,,,,,,,,,
+10077,2006-06-17,2006,6,17,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Radio Tracking,20:25:00,6,2,"Jeffie McNeil, Tom Herman",None,0,Calm,0,0,,,,,,,,,,,,,
+10077,2006-06-17,2006,6,17,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:35:00,6,2,"Jeffie McNeil, Tom Herman",None,0,Calm,0,0,,,,,,,,,,,,,
+10083,2006-06-20,2006,6,20,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Radio Tracking,20:30:00,10,1,Jeffie McNeil,None,100,Light,21,0,,,,,,,,,,,,,
+10083,2006-06-20,2006,6,20,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,20:50:00,10,1,Jeffie McNeil,,0,,0,0,,,,,,,,,,,,,
+10083,2006-06-20,2006,6,20,ML (McGowan Lake),EB (East Brook),C4 (Cove 4),Radio Tracking,21:00:00,15,1,Jeffie McNeil,,0,,0,0,,,,,,,,,,,,,
+10083,2006-06-20,2006,6,20,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Radio Tracking,21:18:00,9,1,Jeffie McNeil,,0,,0,0,,,,,,,,,,,,,
+10084,2006-06-19,2006,6,19,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Radio Tracking,22:16:00,48,2,"Jeffie McNeil, Tom Herman",,0,,0,0,,,,,,,,,,,,,
+10086,2006-06-21,2006,6,21,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,15:09:00,6,1,Jeffie McNeil,None,0,,0,0,,,,,,,,,,,,,
+10086,2006-06-21,2006,6,21,ML (McGowan Lake),EB (East Brook),C4 (Cove 4),Radio Tracking,15:15:00,15,1,Jeffie McNeil,None,0,,0,0,,,,,,,,,,,,,
+10098,2006-06-25,2006,6,25,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:40:00,5,1,Jeffie McNeil,,0,,0,0,,,,,,,,,,,,,
+10101,2006-06-28,2006,6,28,ML (McGowan Lake),WB (West Bog),1A (West Bog 1A),Visual Survey,20:15:00,10,1,Jeffie McNeil,None,40,Calm,26,24,,,,,,,,,,,,,
+10101,2006-06-28,2006,6,28,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,20:35:00,15,1,Jeffie McNeil,None,40,Calm,26,25,,,,,,,,,,,,,
+10114,2008-06-06,2008,6,6,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,18:00:00,10,2,"Jeffie McNeil, Troy Frech",None,100,Calm,20.5,0,,,,,,,,,,,,,
+10115,2008-06-07,2008,6,7,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,17:50:00,10,1,Troy Frech,None,90,Calm,0,0,,,,,,,,,,,,,
+10115,2008-06-07,2008,6,7,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,18:46:00,14,1,Troy Frech,None,90,Calm,0,0,,,,,,,,,,,,,
+10116,2009-04-03,2009,4,3,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:50:00,50,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Calm,10,1,,,,,,,,,,,,,
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,13:00:00,15,1,"Jeffie McNeil, Troy Frech",None,0,Calm,12,,,,,,,,,,,,,,
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:00:00,15,1,"Jeffie McNeil, Troy Frech",None,0,Calm,12,,,,,,,,,,,,,,
+10118,2009-04-18,2009,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:31:00,78,2,"Jeffie McNeil, Troy Frech",None,0,Calm,12,9,,,,,,,,,,,,,
+10119,2009-04-20,2009,4,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:38:00,30,1,Jeffie McNeil,None,5,Calm,17,13,,,,,,,,,,,,,
+10119,2009-04-20,2009,4,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,14:08:00,16,1,Jeffie McNeil,None,5,Calm,17,13,,,,,,,,,,,,,
+10119,2009-04-20,2009,4,20,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Radio Tracking,14:24:00,16,1,Jeffie McNeil,None,5,Light,16,12,,,,,,,,,,,,,
+10119,2009-04-20,2009,4,20,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,16:25:00,20,1,Jeffie McNeil,None,0,Calm,16,15,,,,,,,,,,,,,
+10154,2009-04-25,2009,4,25,ML (McGowan Lake),WB (West Bog),WR (Woods Road),Visual Survey,12:00:00,40,1,Troy Frech,None,0,Light,,,,,,,,,,,,,,,
+10154,2009-04-25,2009,4,25,ML (McGowan Lake),WB (West Bog),HR (Henry Road),Visual Survey,13:40:00,15,1,Troy Frech,None,0,Calm,,,,,,,,,,,,,,,
+10171,2009-01-06,2009,1,6,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,13:00:00,60,2,"Jeffie McNeil, Troy Frech",None,30,Light,5,,,,,,,,,,,,,,
+10174,2009-05-31,2009,5,31,ML (McGowan Lake),SD (South Deans),PP (Pats Point),Radio Tracking,20:35:00,5,1,"Jeffie McNeil, Troy Frech",None,70,Calm,,,,,,,,,,,,,,,
+10175,2009-05-31,2009,5,31,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,19:00:00,20,1,Jeffie McNeil,None,70,Light,24,22,,,,,,,,,,,,,
+10175,2009-05-31,2009,5,31,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,19:20:00,10,1,Jeffie McNeil,None,70,Light,22,22,,,,,,,,,,,,,
+10179,2009-06-01,2009,6,1,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,20:35:00,10,2,"Jeffie McNeil, Erik L'Heureux",None,5,Light,13,21,,,,,,,,,,,,,
+10184,2009-06-02,2009,6,2,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,20:48:00,10,2,"Jeffie McNeil, Erik L'Heureux",None,0,Calm,,21,,,,,,,,,,,,,
+10192,2009-06-04,2009,6,4,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,18:32:00,6,2,"Jeffie McNeil, Troy Frech",None,30,Calm,23,,,,,,,,,,,,,,
+10204,2009-06-08,2009,6,8,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,19:15:00,20,1,Jeffie McNeil,None,30,Light,20,22,,,,,,,,,,,,,
+10204,2009-06-08,2009,6,8,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,23:05:00,10,1,Jeffie McNeil,None,0,Calm,12,19,,,,,,,,,,,,,
+10215,2009-06-09,2009,6,9,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,23:33:00,12,2,"Jeffie McNeil, Troy Frech, Kirsten Campbell",None,100,Calm,12,19,,,,,,,,,,,,,
+10216,2009-06-10,2009,6,10,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Bait and Check Traps,19:20:00,12,2,"Jeffie McNeil, Troy Frech",None,100,Moderate,11,16,,,,,,,,,,,,,
+10227,2009-06-06,2009,6,6,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,23:12:00,12,2,"Jeffie McNeil, Troy Frech, Megan Crowley",None,70,Calm,13,17.5,,,,,,,,,,,,,
+10232,2009-06-11,2009,6,11,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,19:14:00,10,1,Jeffie McNeil,Light Rain,100,Calm,16,16,,,,,,,,,,,,,
+10246,2009-06-12,2009,6,12,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,19:45:00,10,1,Jeffie McNeil,None,100,Light,18,17,,,,,,,,,,,,,
+10246,2009-06-12,2009,6,12,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,00:05:00,8,1,Jeffie McNeil,None,100,Calm,16,16,,,,,,,,,,,,,
+10261,2009-06-14,2009,6,14,ML (McGowan Lake),WB (West Bog),E1 (Elizabeth Island 1),Radio Tracking,22:05:00,2,2,"Jeffie McNeil, Lilianne Arsenault",Drizzle / Mist,100,Calm,15,,,,,,,,,,,,,,
+10288,2009-06-17,2009,6,17,ML (McGowan Lake),WB (West Bog),NB (North Cove Beach),Radio Tracking,21:42:00,2,2,"Jeffie McNeil, Lilianne Arsenault",None,0,Calm,15,,,,,,,,,,,,,,
+10288,2009-06-17,2009,6,17,ML (McGowan Lake),WB (West Bog),NC (North Cove),Radio Tracking,23:10:00,2,1,"Jeffie McNeil, Lilianne Arsenault",None,0,Calm,10,,,,,,,,,,,,,,
+10319,2009-06-16,2009,6,16,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Visual Survey,14:00:00,10,1,Jeffie McNeil,None,50,Calm,20,,,,,,,,,,,,,,
+10324,2009-06-15,2009,6,15,ML (McGowan Lake),WB (West Bog),NC (North Cove),Radio Tracking,23:23:00,1,1,Jeffie McNeil,None,0,Calm,,,,,,,,,,,,,,,
+10333,2009-06-18,2009,6,18,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Radio Tracking,00:45:00,5,1,Jeffie McNeil,None,40,Calm,,,,,,,,,,,,,,,
+10335,2009-06-19,2009,6,19,ML (McGowan Lake),KM (Kempt),Mt (Mt Merrit Road),Radio Tracking,20:30:00,60,2,"Kirsten Campbell,Tom Herman, Erik L'Heureux",None,100,Light,,,,,,,,,,,,,,,
+10335,2009-06-19,2009,6,19,ML (McGowan Lake),KM (Kempt),Mt (Mt Merrit Road),Radio Tracking,22:11:00,50,2,"Kirsten Campbell,Tom Herman, Erik L'Heureux",None,,Calm,,,,,,,,,,,,,,,
+10336,2009-06-19,2009,6,19,ML (McGowan Lake),WB (West Bog),WR (Woods Road),Radio Tracking,21:34:00,60,2,"Kirsten Campbell, Tom Herman, Erik L'Heureux",None,100,Calm,,,,,,,,,,,,,,,
+10336,2009-06-19,2009,6,19,ML (McGowan Lake),WB (West Bog),GP (Gravel Pit),Radio Tracking,22:08:00,6,2,"Kirsten Campbell, Tom Herman, Erik L'Heureux",None,,Calm,,,,,,,,,,,,,,,
+10338,2009-06-24,2009,6,24,ML (McGowan Lake),KM (Kempt),LS (Little Swamp),Radio Tracking,16:32:00,116,2,"Brad Toms, Erik L'Heureux",None,23,Light,28,,,,,,,,,,,,,,
+10517,2009-06-23,2009,6,23,ML (McGowan Lake),KM (Kempt),Mt (Mt Merrit Road),Radio Tracking,19:50:00,230,2,"Cecile Vuillermet, Erik L'Heureux, Troy Frech",None,100,Calm,21,,,,,,,,,,,,,,
+10517,2009-06-23,2009,6,23,ML (McGowan Lake),KM (Kempt),MR (Martin Road),Radio Tracking,22:15:00,38,2,"Cecile Vuillermet, Erik L'Heureux, Troy Frech",None,100,Calm,21,,,,,,,,,,,,,,
+10517,2009-06-23,2009,6,23,ML (McGowan Lake),KM (Kempt),Mt (Mt Merrit Road),Radio Tracking,22:42:00,39,3,"Cecile Vuillermet, Erik L'Heureux, Troy Frech",Mod - Heavy Rain,0,Calm,21,,,,,,,,,,,,,,
+10517,2009-06-23,2009,6,23,ML (McGowan Lake),KM (Kempt),MI (MTRI),Radio Tracking,22:56:00,12,3,"Cecile Vuillermet, Erik L'Heureux, Troy Frech",None,0,Calm,,,,,,,,,,,,,,,
+10517,2009-06-23,2009,6,23,ML (McGowan Lake),KM (Kempt),H8 (Highway 8),Radio Tracking,23:05:00,54,3,"Cecile Vuillermet, Erik L'Heureux, Troy Frech",None,0,Calm,,,,,,,,,,,,,,,
+10517,2009-06-23,2009,6,23,ML (McGowan Lake),KM (Kempt),MI (MTRI),Radio Tracking,23:24:00,9,3,"Cecile Vuillermet, Erik L'Heureux, Troy Frech",Drizzle / Mist,0,Calm,,,,,,,,,,,,,,,
+10517,2009-06-23,2009,6,23,ML (McGowan Lake),KM (Kempt),Mt (Mt Merrit Road),Radio Tracking,23:33:00,-4239,3,"Cecile Vuillermet, Erik L'Heureux, Troy Frech",None,0,Calm,20,,,,,,,,,,,,,,
+10518,2009-06-23,2009,6,23,ML (McGowan Lake),AN (Albany New),AN (Albany New Road),Radio Tracking,00:02:00,18,3,"Cecille Vuillermet, Erik L'Heureux, Troy Frech",None,,,,,,,,,,,,,,,,,
+10747,1996-06-29,1996,6,29,ML (McGowan Lake),KM (Kempt),HO (Holdrights Lake),Set Traps,14:30:00,240,2,"Jeffie McNeil, Nat McMaster",None,0,,0,0,,,,,,,,,,,,,
+10748,1996-06-30,1996,6,30,ML (McGowan Lake),KM (Kempt),HO (Holdrights Lake),Check Traps,09:30:00,60,2,"Jeffie McNeil, Nat McMaster",None,0,Calm,0,0,,,,,,,,,,,,,
+10749,1996-07-01,1996,7,1,ML (McGowan Lake),KM (Kempt),HO (Holdrights Lake),Pull Traps,15:30:00,80,2,"Jeffie McNeil, Nat McMaster",None,0,Light,0,22,,,,,,,,,,,,,
+10772,2010-06-11,2010,6,11,ML (McGowan Lake),AN (Albany New),MM (Mt Merrit Brook),Set Traps,14:30:00,240,1,Colin Gray,None,30,Calm,23,20,,,,,,,,,,,,,
+10773,2010-06-12,2010,6,12,ML (McGowan Lake),AN (Albany New),MW (Mt Merrit Brook West),Check Traps,09:00:00,90,1,Colin Gray,None,5,Calm,23,19,,,,,,,,,,,,,
+10774,2010-06-13,2010,6,13,ML (McGowan Lake),AN (Albany New),MW (Mt Merrit Brook West),Bait and Check Traps,10:00:00,120,1,Colin Gray,None,5,Light,24,21,,,,,,,,,,,,,
+10775,2010-06-14,2010,6,14,ML (McGowan Lake),AN (Albany New),MW (Mt Merrit Brook West),Pull Traps,10:00:00,120,1,Colin Gray,None,100,Calm,21,18,,,,,,,,,,,,,
+10776,2010-06-17,2010,6,17,ML (McGowan Lake),MM (Mount Merrit Brook),M6 (Meadow 6),Set Traps,10:00:00,300,1,Colin Gray,Light Rain,100,Light,16,17,,,,,,,,,,,,,
+10777,2010-06-18,2010,6,18,ML (McGowan Lake),MM (Mount Merrit Brook),M6 (Meadow 6),Check Traps,10:30:00,240,2,"Colin Gray, Jim Morse",None,0,Calm,19,0,,,,,,,,,,,,,
+10778,2010-06-19,2010,6,19,ML (McGowan Lake),MM (Mount Merrit Brook),M6 (Meadow 6),Bait and Check Traps,10:00:00,150,1,Colin Gray,None,10,Calm,23,20,,,,,,,,,,,,,
+10779,2010-06-20,2010,6,20,ML (McGowan Lake),MM (Mount Merrit Brook),M6 (Meadow 6),Check Traps,10:00:00,150,1,Colin Gray,Light Rain,100,Light,23,21,,,,,,,,,,,,,
+10780,2010-06-21,2010,6,21,ML (McGowan Lake),MM (Mount Merrit Brook),M6 (Meadow 6),Pull Traps,10:00:00,240,1,Colin Gray,Drizzle / Mist,100,Calm,22,21,,,,,,,,,,,,,
+11035,2010-07-15,2010,7,15,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Set Traps,11:45:00,30,1,Colin Gray,None,20,Calm,30,30,,,,,,,,,,,,,
+11035,2010-07-15,2010,7,15,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Set Traps,12:15:00,255,1,Colin Gray,None,20,Calm,32,30,,,,,,,,,,,,,
+11036,2010-07-16,2010,7,16,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Check Traps,09:40:00,80,2,"Colin Gray, Evan Thibault",None,100,Calm,20,22,,,,,,,,,,,,,
+11036,2010-07-16,2010,7,16,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Check Traps,10:30:00,240,2,"Colin Gray, Evan Thibault",None,100,Calm,24,24,,,,,,,,,,,,,
+11037,2010-07-17,2010,7,17,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Pull Traps,14:00:00,40,2,"Colin Gray, Mary Lou Conohan",None,10,Light,28,26,,,,,,,,,,,,,
+11045,2010-06-25,2010,6,25,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,15:00:00,60,3,"Colin Gray, Jeffie McNeil, Troy Frech",None,20,Calm,29,30,,,,,,,,,,,,,
+11045,2010-06-25,2010,6,25,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,15:30:00,300,3,"Colin Gray, Jeffie McNeil, Troy Frech",None,90,Light,28,29,,,,,,,,,,,,,
+11045,2010-06-25,2010,6,25,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,17:10:00,10,1,"Colin Gray, Jeffie McNeil, Troy Frech",None,,,,,,,,,,,,,,,,,
+11045,2010-06-25,2010,6,25,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Set Traps,17:20:00,10,1,"Colin Gray, Jeffie McNeil, Troy Frech",None,,,,,,,,,,,,,,,,,
+11047,2010-06-26,2010,6,26,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,14:15:00,30,2,"Colin Gray, Mary Lou Conohan",,,,,,,,,,,,,,,,,,
+11047,2010-06-26,2010,6,26,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Check Traps,14:30:00,30,2,"Colin Gray, Mary Lou Conohan",,,,,,,,,,,,,,,,,,
+11048,2010-06-27,2010,6,27,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Bait and Check Traps,11:35:00,290,2,"Colin Gray, Jim Moorse",None,100,Calm,24,21,,,,,,,,,,,,,
+11048,2010-06-27,2010,6,27,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Bait and Check Traps,14:00:00,30,2,"Colin Gray, Jim Moorse",,,,,,,,,,,,,,,,,,
+11048,2010-06-27,2010,6,27,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Bait and Check Traps,14:15:00,30,2,"Colin Gray, Jim Moorse",,,,,,,,,,,,,,,,,,
+11049,2010-06-28,2010,6,28,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Pull Traps,16:00:00,15,1,Colin Gray,,,,,,,,,,,,,,,,,,
+11049,2010-06-28,2010,6,28,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Pull Traps,16:15:00,15,1,Colin Gray,,,,,,,,,,,,,,,,,,
+11738,2011-05-27,2011,5,27,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,14:20:00,12,2,"Jeffie McNeil, JC Dubriuel",None,100,Calm,24,19,,,,,,,,,,,,,
+11743,2011-06-01,2011,6,1,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,17:10:00,10,2,"Jeffie McNeil, Sherri Carter",None,90,Moderate,21,,,,,,,,,,,,,,
+11743,2011-06-01,2011,6,1,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,17:50:00,10,2,"Jeffie McNeil, Sherri Carter",None,100,Moderate,20,,,,,,,,,,,,,,
+11743,2011-06-01,2011,6,1,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,18:45:00,30,2,"Jeffie McNeil, Sherri Carter",None,50,Moderate,21,22,,,,,,,,,,,,,
+11746,2011-06-02,2011,6,2,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Radio Tracking,17:15:00,10,2,"Jeffie McNeil, Sherri Carter",None,60,Light,25,20,,,,,,,,,,,,,
+11746,2011-06-02,2011,6,2,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Radio Tracking,17:20:00,10,2,"Jeffie McNeil, Sherri Carter",None,60,Light,,,,,,,,,,,,,,,
+11746,2011-06-02,2011,6,2,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,18:00:00,20,2,"Jeffie McNeil, Sherri Carter",None,90,Moderate,20,,,,,,,,,,,,,,
+11750,2011-06-04,2011,6,4,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,20:47:00,16,2,"Jeffie McNeil, Jean-Christophe Dubreuil",None,100,Calm,16,17,,,,,,,,,,,,,
+11760,2011-06-05,2011,6,5,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Radio Tracking,20:15:00,2,1,Jeffie McNeil,None,95,Light,18,22,,,,,,,,,,,,,
+11857,2011-06-10,2011,6,10,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,20:00:00,5,1,Jeffie McNeil,None,2,Calm,19,,,,,,,,,,,,,,
+11861,2011-06-11,2011,6,11,ML (McGowan Lake),ML (Mid Lake),LO(Long Island),Radio Tracking,21:45:00,3,1,Jeffie McNeil,None,80,Calm,16,20,,,,,,,,,,,,,
+11861,2011-06-11,2011,6,11,ML (McGowan Lake),ML (Mid Lake),LI (Lumpy Island),Radio Tracking,22:06:00,1,1,Jeffie McNeil,None,80,Calm,15,21,,,,,,,,,,,,,
+11893,2011-06-06,2011,6,6,ML (McGowan Lake),WB (West Bog),1A (West Bog 1A),Radio Tracking,21:18:00,7,1,Troy Frech,None,80,Calm,,,,,,,,,,,,,,,
+11909,2011-06-11,2011,6,11,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,20:00:00,5,1,Jeffie McNeil,None,80,Light,,,,,,,,,,,,,,,
+11909,2011-06-11,2011,6,11,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,20:10:00,5,1,Jeffie McNeil,None,80,Light,,,,,,,,,,,,,,,
+11917,2011-06-13,2011,6,13,ML (McGowan Lake),WB (West Bog),MK (Mirkwood),Radio Tracking,19:58:00,33,1,Rachel Thibodeau,Drizzle / Mist,100,Light,13,,,,,,,,,,,,,,
+11947,2011-07-06,2011,7,6,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,13:05:00,50,1,Brad Toms,None,25,Moderate,,,,,,,,,,,,,,,
+11948,2011-07-05,2011,7,5,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,15:05:00,40,1,Brad Toms,None,50,Moderate,27,,,,,,,,,,,,,,
+11949,2011-07-04,2011,7,4,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Set Traps,14:50:00,180,2,"Brad Toms, Leah Vienot",None,100,Moderate,24,,,,,,,,,,,,,,
+11949,2011-07-04,2011,7,4,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Set Traps,16:20:00,180,2,"Brad Toms, Leah Vienot",,,,,,,,,,,,,,,,,,
+11953,2011-07-12,2011,7,12,ML (McGowan Lake),DL (Deans Lake),BK (Deans Brook),Set Traps,14:45:00,170,1,Brad Toms,None,100,Moderate,22,20.8,,,,,,,,,,,,,
+11960,2011-07-13,2011,7,13,ML (McGowan Lake),DL (Deans Lake),BK (Deans Brook),Check Traps,14:01:00,194,1,Brad Toms,None,25,Light,24.1,23,,,,,,,,,,,,,
+11977,2011-06-21,2011,6,21,ML (McGowan Lake),DL (Deans Lake),,Radio Tracking,20:45:00,210,3,"Jesse Saroli, Benna Keoghoe, Lindsey Beals",None,75,Light,17,19,,,,,,,,,,,,,
+11984,2011-06-25,2011,6,25,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Radio Tracking,21:00:00,30,2,"Jeffie McNeil, Troy Frech",None,100,Light,13,14,,,,,,,,,,,,,
+12004,2011-07-14,2011,7,14,ML (McGowan Lake),DL (Deans Lake),BP (Beaver Pond),Check Traps,14:40:00,30,1,Brad Toms,None,100,Moderate,19.7,20.5,,,,,,,,,,,,,
+12005,2011-07-15,2011,7,15,ML (McGowan Lake),DL (Deans Lake),BP (Beaver Pond),Check Traps,13:30:00,240,3,"Brad Toms, Sherri Carter, Heather Carter",None,10,Moderate,24.1,,,,,,,,,,,,,,
+12006,2011-07-16,2011,7,16,ML (McGowan Lake),DL (Deans Lake),BP (Beaver Pond),Pull Traps,15:50:00,100,1,Brad Toms,None,100,Light,22.1,20.3,,,,,,,,,,,,,
+12062,2011-07-25,2011,7,25,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,14:22:00,50,1,Jeffie McNeil,None,15,Calm,27,28,,,,,,,,,,,,,
+12062,2011-07-25,2011,7,25,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,15:30:00,100,1,Jeffie McNeil,None,20,Light,27,26,,,,,,,,,,,,,
+12062,2011-07-25,2011,7,25,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Set Traps,17:10:00,30,1,Jeffie McNeil,None,10,Light,26,26,,,,,,,,,,,,,
+12064,2011-07-26,2011,7,26,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,11:45:00,20,4,"Jeffie McNeil, Sherri Carter, Steve Mockford, Jose Lefebvre",None,100,Calm,19,22,,,,,,,,,,,,,
+12064,2011-07-26,2011,7,26,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Check Traps,12:00:00,20,4,"Jeffie McNeil, Sherri Carter, Steve Mockford, Jose Lefebvre",None,100,Calm,18,21,,,,,,,,,,,,,
+12076,2011-07-28,2011,7,28,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Bait and Check Traps,14:46:00,4,1,Jeffie McNeil,None,90,Light,22,24,,,,,,,,,,,,,
+12076,2011-07-28,2011,7,28,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Radio Tracking,14:50:00,5,1,Jeffie McNeil,None,95,Light,22,22,,,,,,,,,,,,,
+12077,2011-07-29,2011,7,29,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Pull Traps,14:00:00,20,2,"Jeffie McNeil, Sherri Carter",None,50,Light,26,25,,,,,,,,,,,,,
+12114,2011-06-28,2011,6,28,ML (McGowan Lake),ML (Mid Lake),LP (Lucy Peninsula),Radio Tracking,20:38:00,12,1,Jeffie McNeil,None,90,Calm,23,,,,,,,,,,,,,,
+12114,2011-06-28,2011,6,28,ML (McGowan Lake),ML (Mid Lake),LO(Long Island),Radio Tracking,21:07:00,1,1,Jeffie McNeil,None,90,Calm,23,23,,,,,,,,,,,,,
+12115,2011-06-28,2011,6,28,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Radio Tracking,21:30:00,2,1,Jeffie McNeil,None,90,Calm,21,,,,,,,,,,,,,,
+12125,2011-07-01,2011,7,1,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Radio Tracking,20:17:00,110,1,Troy Frech. Jeffie McNeil,None,50,Calm,25,,,,,,,,,,,,,,
+12136,2011-06-22,2011,6,22,ML (McGowan Lake),SD (South Deans),PP (Pats Point),Radio Tracking,19:45:00,75,1,Jesse Saroli,None,25,Light,11,,,,,,,,,,,,,,
+12150,2011-06-30,2011,6,30,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Radio Tracking,20:15:00,3,1,Jeffie McNeil,None,20,Calm,24,,,,,,,,,,,,,,
+12160,2011-07-22,2011,7,22,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Set Traps,10:30:00,150,1,Colin Gray,None,70,Light,32,25,,,,,,,,,,,,,
+12160,2011-07-22,2011,7,22,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Set Traps,13:00:00,120,1,Colin Gray,None,40,Light,32,26,,,,,,,,,,,,,
+12161,2011-07-23,2011,7,23,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Check Traps,07:00:00,60,1,Colin Gray,None,40,Calm,23,26,,,,,,,,,,,,,
+12161,2011-07-23,2011,7,23,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Check Traps,08:00:00,90,1,Colin Gray,None,40,Calm,24,26,,,,,,,,,,,,,
+12162,2011-07-24,2011,7,24,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Bait and Check Traps,09:00:00,60,1,Colin Gray,None,20,Light,25,26,,,,,,,,,,,,,
+12162,2011-07-24,2011,7,24,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Bait and Check Traps,10:00:00,100,1,Colin Gray,None,20,Light,25,26,,,,,,,,,,,,,
+12163,2011-07-25,2011,7,25,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Pull Traps,08:45:00,95,1,Colin Gray,None,0,Calm,18,24,,,,,,,,,,,,,
+12173,2011-07-29,2011,7,29,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Set Traps,16:30:00,225,1,Colin Gray,None,40,Calm,25,20,,,,,,,,,,,,,
+12175,2011-07-31,2011,7,31,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Bait and Check Traps,10:00:00,150,1,Colin Gray,None,0,Light,21,19,,,,,,,,,,,,,
+12176,2011-08-01,2011,8,1,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Pull Traps,08:00:00,150,1,Colin Gray,None,5,Calm,21,19,,,,,,,,,,,,,
+12464,2011-08-16,2011,8,16,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Check Traps,10:45:00,20,2,"Jesse Saroli, Sherri Carter",None,70,Light,24,,,,,,,,,,,,,,
+12464,2011-08-16,2011,8,16,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,10:55:00,120,2,"Jesse Saroli, Sherri Carter",None,40,Moderate,26,,,,,,,,,,,,,,
+12467,2011-08-15,2011,8,15,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,12:10:00,202,2,"Jeffie McNeil, Sherri Carter",None,100,Light,23,21,,,,,,,,,,,,,
+12485,2011-07-27,2011,7,27,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Check Traps,13:25:00,20,4,"Jeffie McNeil, Lyndsay Mahoney, Sherri Carter, Sarah Walton",None,100,Calm,20,21,,,,,,,,,,,,,
+12841,2012-03-19,2012,3,19,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:40:00,20,1,Jeffie McNeil,None,0,Calm,16,,,,,,,,,,,,,,
+12847,2012-03-22,2012,3,22,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,15:45:00,20,2,"Jeffie McNeil, Colin Gray",None,0,Light,27,16,,,,,,,,,,,,,
+12849,2012-03-21,2012,3,21,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,14:32:00,5,1,Brad Toms,None,5,Light,21.1,,,,,,,,,,,,,,
+12863,2012-05-11,2012,5,11,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,14:14:00,30,2,Brad Toms and Hannah Blanchard,None,25,Light,18,,,,,,,,,,,,,,
+12865,2012-04-10,2012,4,10,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,15:31:00,24,1,Brad Toms,None,25,Moderate,16.5,,,,,,,,,,,,,,
+12884,2012-05-14,2012,5,14,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,14:41:00,14,1,Jeffie McNeil,None,100,Moderate,22,16,,,,,,,,,,,,,
+12884,2012-05-14,2012,5,14,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,14:56:00,3,1,Jeffie McNeil,None,100,Moderate,22,,,,,,,,,,,,,,
+12884,2012-05-14,2012,5,14,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,15:00:00,10,1,Jeffie McNeil,None,100,Light,21,,,,,,,,,,,,,,
+12993,2012-05-25,2012,5,25,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,15:20:00,25,1,Jeffie McNeil,None,15,Light,23,20,,,,,,,,,,,,,
+12993,2012-05-25,2012,5,25,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,15:46:00,5,1,Jeffie McNeil,None,20,Light,24,20,,,,,,,,,,,,,
+12993,2012-05-25,2012,5,25,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,15:51:00,9,1,Jeffie McNeil,None,20,Light,24,23,,,,,,,,,,,,,
+12993,2012-05-25,2012,5,25,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,16:00:00,40,1,Jeffie McNeil,None,10,Light,24,26,,,,,,,,,,,,,
+12993,2012-05-25,2012,5,25,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,16:40:00,25,1,Jeffie McNeil,None,10,Light,24,26,,,,,,,,,,,,,
+12993,2012-05-25,2012,5,25,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Visual Survey,17:05:00,20,1,Jeffie McNeil,None,5,Light,,,,,,,,,,,,,,,
+12993,2012-05-25,2012,5,25,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,17:25:00,20,1,Jeffie McNeil,None,5,Light,20,25,,,,,,,,,,,,,
+12994,2012-05-26,2012,5,26,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,18:10:00,10,1,Jeffie McNeil,None,0,Calm,23,,,,,,,,,,,,,,
+12994,2012-05-26,2012,5,26,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,18:20:00,5,1,Jeffie McNeil,None,0,Calm,23,,,,,,,,,,,,,,
+12996,2012-05-28,2012,5,28,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,18:18:00,17,1,Jeffie McNeil,None,100,Calm,18,20,,,,,,,,,,,,,
+13022,2012-05-29,2012,5,29,ML (McGowan Lake),WB (West Bog),GP (Gravel Pit),Visual Survey,19:35:00,10,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Light,12,,,,,,,,,,,,,,
+13022,2012-05-29,2012,5,29,ML (McGowan Lake),WB (West Bog),HR (Henry Road),Visual Survey,19:45:00,90,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Calm,13,,,,,,,,,,,,,,
+13778,2012-08-29,2012,8,29,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,16:30:00,10,1,Jeffie McNeil,None,0,Moderate,21,,,,,,,,,,,,,,
+13880,2012-04-01,2012,4,1,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,11:30:00,50,2,"Jeffie McNeil, Harold Clapp",None,0,Calm,9,4,,,,,,,,,,,,,
+13940,2013-03-14,2013,3,14,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,14:30:00,10,1,Jeffie McNeil,None,20,Light,9,,,,,,,,,,,,,,
+14008,2013-04-16,2013,4,16,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,15:00:00,10,1,Jeffie McNeil,None,80,Light,11,,,,,,,,,,,,,,
+14017,2013-04-22,2013,4,22,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,14:15:00,11,1,Jeffie McNeil,None,40,Light,11,,,,,,,,,,,,,,
+14114,2013-05-31,2013,5,31,ML (McGowan Lake),WB (West Bog),NC (North Cove),Visual Survey,20:05:00,10,1,Jeffie McNeil,None,40,Light,24,25,,,,,,,,,,,,,
+14174,2013-06-13,2013,6,13,ML (McGowan Lake),ML (Mid Lake),LP (Lucy Peninsula),Bait and Check Traps,20:44:00,6,1,Jeffie McNeil,None,80,Light,12,15,,,,,,,,,,,,,
+15021,2013-07-19,2013,7,19,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,11:20:00,200,2,"Colin Gray, Sarah Adams",None,100,Light,22,21,,,,,,,,,,,,,
+15021,2013-07-19,2013,7,19,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Set Traps,13:00:00,30,2,"Colin Gray, Sarah Adams",,,,,,,,,,,,,,,,,,
+15021,2013-07-19,2013,7,19,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Set Traps,13:15:00,45,3,"Colin Gray, Sarah Adams",,,,,,,,,,,,,,,,,,
+15021,2013-07-19,2013,7,19,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,13:30:00,45,3,"Colin Gray, Sarah Adams",,,,,,,,,,,,,,,,,,
+15021,2013-07-19,2013,7,19,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,13:45:00,225,3,"Colin Gray, Sarah Adams",,,,,,,,,,,,,,,,,,
+15022,2013-07-20,2013,7,20,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,07:55:00,30,3,"Colin Gray, Marion Brunel, Sarah Adams",,,,,,,,,,,,,,,,,,
+15022,2013-07-20,2013,7,20,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Check Traps,08:45:00,30,3,"Colin Gray, Marion Brunel, Sarah Adams",,,,,,,,,,,,,,,,,,
+15022,2013-07-20,2013,7,20,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Check Traps,08:55:00,30,3,"Colin Gray, Marion Brunel, Sarah Adams",,,,,,,,,,,,,,,,,,
+15022,2013-07-20,2013,7,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,09:05:00,75,3,"Colin Gray, Marion Brunel, Sarah Adams",,,,,,,,,,,,,,,,,,
+15024,2013-07-22,2013,7,22,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,06:45:00,15,1,Colin Gray,None,2,Calm,12,19,,,,,,,,,,,,,
+15024,2013-07-22,2013,7,22,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Check Traps,07:00:00,10,1,Colin Gray,,,,,,,,,,,,,,,,,,
+15025,2013-07-23,2013,7,23,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Check Traps,08:00:00,20,2,"Sarah Adams, Marion Brunel",,,,,,,,,,,,,,,,,,
+15026,2013-07-24,2013,7,24,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Bait and Check Traps,09:45:00,15,1,Colin Gray,,,,,,,,,,,,,,,,,,
+15026,2013-07-24,2013,7,24,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Bait and Check Traps,10:00:00,15,1,Colin Gray,,,,,,,,,,,,,,,,,,
+15026,2013-07-24,2013,7,24,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Bait and Check Traps,10:15:00,10,1,Colin Gray,,,,,,,,,,,,,,,,,,
+15027,2013-07-25,2013,7,25,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Pull Traps,08:00:00,30,2,"Colin Gray, Meredith Brison-Brown",,,,,,,,,,,,,,,,,,
+15147,2013-10-03,2013,10,3,ML (McGowan Lake),WB (West Bog),GP (Gravel Pit),Dog and visual survey,15:35:00,10,1,Jeffie McNeil,None,0,Strong,20,,,,,,,,,,,,,,
+15168,2014-01-13,2014,1,13,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,14:10:00,5,1,Jeffie McNeil,None,,,,,,,,,,,,,,,,,
+15446,2014-03-29,2014,3,29,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,11:20:00,15,3,"Jeffie McNeil, Troy Frech, Seth McFrech",None,100,Calm,6,,,,,,,,,,,,,,
+15446,2014-03-29,2014,3,29,ML (McGowan Lake),WB (West Bog),1C (West Bog 1C),Visual Survey,11:35:00,24,1,"Jeffie McNeil, Troy Frech, Seth McFrech",None,100,Calm,6,,,,,,,,,,,,,,
+15447,2014-04-07,2014,4,7,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,13:50:00,80,4,"Jeffie McNeil, Harold Clapp, Diane Clapp, Camille Tedesco, Boomer",None,0,Calm,12,,,,,,,,,,,,,,
+15452,2013-05-06,2013,5,6,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,13:40:00,60,2,"Jeffie McNeil, Fernanda Tavares",None,0,Light,18,20,,,,,,,,,,,,,
+15478,2014-04-18,2014,4,18,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Dog and visual survey,12:27:00,23,1,"Jeffie McNeil, Boomer dog",None,5,Light,7,5,,,,,,,,,,,,,
+15480,2014-05-29,2014,5,29,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Dog and visual survey,14:10:00,30,3,"Jeffie McNeil, Travis Landry, Wesley Pitts",None,10,Calm,19,18,,,,,,,,,,,,,
+15609,2014-07-14,2014,7,14,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,13:30:00,48,2,"Wesley Pitts, Sarah Adams",None,100,Calm,20,20,,,,,,,,,,,,,
+15609,2014-07-14,2014,7,14,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Set Traps,13:54:00,20,2,"Wesley Pitts, Sarah Adams",None,100,Calm,19,21,,,,,,,,,,,,,
+15609,2014-07-14,2014,7,14,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Set Traps,14:17:00,26,2,"Wesley Pitts, Sarah Adams",None,100,Calm,19,21,,,,,,,,,,,,,
+15609,2014-07-14,2014,7,14,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,14:30:00,90,2,"Wesley Pitts, Sarah Adams",None,100,Calm,19,19,,,,,,,,,,,,,
+15609,2014-07-14,2014,7,14,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,15:15:00,40,2,"Wesley Pitts, Sarah Adams",None,100,Calm,19,19,,,,,,,,,,,,,
+15615,2014-07-15,2014,7,15,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Check Traps,11:05:00,12,3,"Wesley Pitts, Sarah Adams, Travis Landry",None,90,Light,24,25,,,,,,,,,,,,,
+15615,2014-07-15,2014,7,15,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Check Traps,11:09:00,15,3,"Wesley Pitts, Sarah Adams, Travis Landry",None,95,Light,24,23,,,,,,,,,,,,,
+15615,2014-07-15,2014,7,15,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,11:14:00,69,3,"Wesley Pitts, Sarah Adams, Travis Landry",None,95,Light,24,23,,,,,,,,,,,,,
+15616,2014-07-16,2014,7,16,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Bait and Check Traps,13:54:00,12,2,"Wesley Pitts, Sarah Adams",None,90,Moderate,23,24,,,,,,,,,,,,,
+15616,2014-07-16,2014,7,16,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Bait and Check Traps,14:00:00,22,2,"Wesley Pitts, Sarah Adams",None,100,Light,25,24,,,,,,,,,,,,,
+15616,2014-07-16,2014,7,16,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Bait and Check Traps,15:11:00,30,2,"Wesley Pitts, Sarah Adams",None,100,Light,25,25,,,,,,,,,,,,,
+15619,2014-07-17,2014,7,17,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Check Traps,10:02:00,14,2,"Wesley Pitts, Sarah Adams",Light Rain,100,Light,20,20,,,,,,,,,,,,,
+15619,2014-07-17,2014,7,17,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Check Traps,10:09:00,22,2,"Wesley Pitts, Sarah Adams",Light Rain,100,Light,20,21,,,,,,,,,,,,,
+15621,2014-07-18,2014,7,18,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Pull Traps,08:15:00,14,2,"Wesley Pitts, Sarah Adams",None,80,Calm,16,19,,,,,,,,,,,,,
+15621,2014-07-18,2014,7,18,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Pull Traps,08:44:00,10,2,"Wesley Pitts, Sarah Adams",None,80,Calm,20,20,,,,,,,,,,,,,
+15621,2014-07-18,2014,7,18,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Pull Traps,09:10:00,20,2,"Wesley Pitts, Sarah Adams",None,90,Calm,20,20,,,,,,,,,,,,,
+15716,1997-07-15,1997,7,15,ML (McGowan Lake),AN (Albany New),M2 (Mt. Merritt Brook 2),Pull Traps,15:20:00,212,2,"Jeffie McNeil, Troy Frech",None,20,Calm,29,26,,,,,,,,,,,,,
+15728,2006-08-13,2006,8,13,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,14:15:00,20,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,23,,,,,,,,,,,,,,
+15728,2006-08-13,2006,8,13,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,14:25:00,10,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,23,,,,,,,,,,,,,,
+15728,2006-08-13,2006,8,13,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Visual Survey,14:30:00,10,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,23,,,,,,,,,,,,,,
+15728,2006-08-13,2006,8,13,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Set Traps,14:35:00,170,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,23,25,,,,,,,,,,,,,
+15728,2006-08-13,2006,8,13,ML (McGowan Lake),JT (Joe Tom Brook),IM (Inner Meadow),Set Traps,16:00:00,30,2,"Jeffie McNeil, Troy Frech",None,,,,,,,,,,,,,,,,,
+15728,2006-08-13,2006,8,13,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Set Traps,16:20:00,44,2,"Jeffie McNeil, Troy Frech",None,,,,,,,,,,,,,,,,,
+15728,2006-08-13,2006,8,13,ML (McGowan Lake),JT (Joe Tom Brook),SL (Sawdust Lake),Set Traps,16:42:00,32,2,"Jeffie McNeil, Troy Frech",None,,,,,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,12:05:00,20,2,"Jeffie McNeil, Troy Frech",None,50,Moderate,24,20,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,12:15:00,10,2,"Jeffie McNeil, Troy Frech",None,50,Moderate,24,,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Visual Survey,12:20:00,30,2,"Jeffie McNeil, Troy Frech",None,50,Moderate,24,,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Check Traps,12:35:00,80,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,23,19,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),IM (Inner Meadow),Check Traps,13:20:00,20,2,"Jeffie McNeil, Troy Frech",None,60,Moderate,23,,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Check Traps,13:33:00,22,2,"Jeffie McNeil, Troy Frech",None,70,Moderate,24,21,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Check Traps,13:44:00,12,2,"Jeffie McNeil, Troy Frech",None,70,Moderate,24,21,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),SL (Sawdust Lake),Visual Survey,14:10:00,40,2,"Jeffie McNeil, Troy Frech",None,70,Moderate,24,,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Visual Survey,14:30:00,42,2,"Jeffie McNeil, Troy Frech",None,80,Moderate,25,23,,,,,,,,,,,,,
+15729,2006-08-14,2006,8,14,ML (McGowan Lake),JT (Joe Tom Brook),O0 (Offshoot 0),Visual Survey,14:52:00,36,2,"Jeffie McNeil, Troy Frech",None,80,Moderate,,,,,,,,,,,,,,,
+15731,2006-08-15,2006,8,15,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,18:46:00,8,2,"Jeffie McNeil, Troy Frech",None,100,Light,21,19,,,,,,,,,,,,,
+15731,2006-08-15,2006,8,15,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Check Traps,18:58:00,14,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Light,21,19,,,,,,,,,,,,,
+15731,2006-08-15,2006,8,15,ML (McGowan Lake),JT (Joe Tom Brook),SL (Sawdust Lake),Check Traps,19:07:00,4,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Light,21,,,,,,,,,,,,,,
+15731,2006-08-15,2006,8,15,ML (McGowan Lake),JT (Joe Tom Brook),IM (Inner Meadow),Check Traps,19:15:00,10,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Light,21,,,,,,,,,,,,,,
+15732,2006-08-16,2006,8,16,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,19:18:00,20,2,"Jeffie McNeil, Troy Frech",None,0,Calm,22,24,,,,,,,,,,,,,
+15732,2006-08-16,2006,8,16,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,19:28:00,8,2,"Jeffie McNeil, Troy Frech",None,0,Calm,22,,,,,,,,,,,,,,
+15732,2006-08-16,2006,8,16,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Visual Survey,19:32:00,14,2,"Jeffie McNeil, Troy Frech",None,0,Calm,22,,,,,,,,,,,,,,
+15732,2006-08-16,2006,8,16,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Bait and Check Traps,19:39:00,82,2,"Jeffie McNeil, Troy Frech",None,0,Calm,22,24,,,,,,,,,,,,,
+15732,2006-08-16,2006,8,16,ML (McGowan Lake),JT (Joe Tom Brook),IM (Inner Meadow),Bait and Check Traps,20:22:00,16,2,"Jeffie McNeil, Troy Frech",None,0,Calm,21,,,,,,,,,,,,,,
+15732,2006-08-16,2006,8,16,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Bait and Check Traps,20:33:00,24,2,"Jeffie McNeil, Troy Frech",None,0,Calm,20,23,,,,,,,,,,,,,
+15732,2006-08-16,2006,8,16,ML (McGowan Lake),JT (Joe Tom Brook),SL (Sawdust Lake),Bait and Check Traps,20:45:00,32,2,"Jeffie McNeil, Troy Frech",None,0,Calm,20,,,,,,,,,,,,,,
+15733,2006-08-17,2006,8,17,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,18:00:00,30,2,"Jeffie McNeil, Troy Frech",None,0,Calm,28,25,,,,,,,,,,,,,
+15733,2006-08-17,2006,8,17,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,18:15:00,10,2,"Jeffie McNeil, Troy Frech",None,0,Calm,28,,,,,,,,,,,,,,
+15733,2006-08-17,2006,8,17,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Visual Survey,18:20:00,10,2,"Jeffie McNeil, Troy Frech",None,0,Calm,28,,,,,,,,,,,,,,
+15733,2006-08-17,2006,8,17,ML (McGowan Lake),JT (Joe Tom Brook),IM (Inner Meadow),Pull Traps,19:07:00,36,2,"Jeffie McNeil, Troy Frech",None,0,Calm,,,,,,,,,,,,,,,
+15733,2006-08-17,2006,8,17,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Pull Traps,19:27:00,42,2,"Jeffie McNeil, Troy Frech",None,0,Calm,,,,,,,,,,,,,,,
+15733,2006-08-17,2006,8,17,ML (McGowan Lake),JT (Joe Tom Brook),SL (Sawdust Lake),Pull Traps,19:48:00,4,2,"Jeffie McNeil, Troy Frech",None,0,Calm,,,,,,,,,,,,,,,
+15733,2006-08-17,2006,8,17,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Radio Tracking,19:50:00,20,2,"Jeffie McNeil, Troy Frech",None,0,Calm,,,,,,,,,,,,,,,
+15780,2014-07-29,2014,7,29,ML (McGowan Lake),WB (West Bog),HP (Henry Road Pond),Set Traps,16:10:00,14,2,"Wesley Pitts, Sarah Adams",None,50,Calm,23,20,,,,,,,,,,,,,
+15781,2014-07-30,2014,7,30,ML (McGowan Lake),WB (West Bog),HP (Henry Road Pond),Check Traps,18:30:00,18,2,"Wesley Pitts, Alicia Pray-Leslie",None,80,Calm,22,,,,,,,,,,,,,,
+15782,2014-07-31,2014,7,31,ML (McGowan Lake),WB (West Bog),HP (Henry Road Pond),Check Traps,15:05:00,25,5,"Wesley Pitts, Travis Landry, Alicia Pray-Leslie, Sarah Adams, Mallory Heim",None,50,Calm,24,,,,,,,,,,,,,,
+15783,2014-08-01,2014,8,1,ML (McGowan Lake),WB (West Bog),HP (Henry Road Pond),Pull Traps,13:10:00,10,1,Wesley Pitts,None,50,Calm,23,,,,,,,,,,,,,,
+15894,1997-05-24,1997,5,24,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Visual Survey,12:00:00,30,1,Jeffie McNeil,None,5,Moderate,15,13,,,,,,,,,,,,,
+15894,1997-05-24,1997,5,24,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Visual Survey,12:30:00,15,1,Jeffie McNeil,None,,Calm,15,15,,,,,,,,,,,,,
+15896,1997-07-31,1997,7,31,ML (McGowan Lake),SM (South McGowan),DC (Dam Cove),Set Traps,14:30:00,60,2,"Jeffie McNeil, Troy Frech",None,60,Calm,,,,,,,,,,,,,,,
+15897,1997-08-01,1997,8,1,ML (McGowan Lake),SM (South McGowan),DC (Dam Cove),Check Traps,17:50:00,26,1,"Jeffie McNeil, Troy Frech",None,80,Moderate,28,,,,,,,,,,,,,,
+15898,1997-08-02,1997,8,2,ML (McGowan Lake),SM (South McGowan),DC (Dam Cove),Pull Traps,14:13:00,38,2,"Jeffie McNeil, Troy Frech",None,10,Moderate,,28,,,,,,,,,,,,,
+15901,1997-08-03,1997,8,3,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Check Traps,15:30:00,60,2,"Jeffie McNeil, Troy Frech",None,80,Calm,23,24,,,,,,,,,,,,,
+15902,1997-08-04,1997,8,4,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Pull Traps,15:30:00,60,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Light,,,,,,,,,,,,,,,
+15911,2000-04-15,2000,4,15,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Visual Survey,12:00:00,50,2,"Jeffie McNeil, Troy Frech",None,80,Strong,16,9,,,,,,,,,,,,,
+15912,2000-04-15,2000,4,15,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,14:00:00,30,2,"Jeffie McNeil, Troy Frech",None,80,Strong,16,13,,,,,,,,,,,,,
+15914,2000-04-21,2000,4,21,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,12:50:00,20,2,"Jeffie McNeil, Troy Frech",,,,,,,,,,,,,,,,,,
+15914,2000-04-21,2000,4,21,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,13:10:00,10,2,"Jeffie McNeil, Troy Frech",,,,,,,,,,,,,,,,,,
+15914,2000-04-21,2000,4,21,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,13:20:00,20,2,"Jeffie McNeil, Troy Frech",None,60,Light,15,9,,,,,,,,,,,,,
+15914,2000-04-21,2000,4,21,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,14:30:00,40,2,"Jeffie McNeil, Troy Frech",None,60,Light,15,,,,,,,,,,,,,,
+15916,2000-04-28,2000,4,28,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,12:30:00,10,2,"Jeffie McNeil, Troy Frech",None,100,Calm,,,,,,,,,,,,,,,
+15916,2000-04-28,2000,4,28,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Radio Tracking,14:50:00,20,2,"Jeffie McNeil, Troy Frech",None,100,Calm,10,8,,,,,,,,,,,,,
+15916,2000-04-28,2000,4,28,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,15:50:00,20,2,"Jeffie McNeil, Troy Frech",,,,,,,,,,,,,,,,,,
+15916,2000-04-28,2000,4,28,ML (McGowan Lake),WB (West Bog),1A (West Bog 1A),Radio Tracking,16:10:00,10,2,"Jeffie McNeil, Troy Frech",,,,,,,,,,,,,,,,,,
+15917,2000-04-28,2000,4,28,ML (McGowan Lake),EB (East Brook),PP (Peninsula Pond),Visual Survey,14:15:00,10,2,"Jeffie McNeil, Troy Frech",None,100,Calm,,,,,,,,,,,,,,,
+15918,2000-04-29,2000,4,29,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Visual Survey,14:15:00,40,2,"Jeffie McNeil, Troy Frech",None,60,Light,,,,,,,,,,,,,,,
+15919,2000-04-29,2000,4,29,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,15:10:00,20,2,"Jeffie McNeil, Troy Frech",None,60,Light,17,10,,,,,,,,,,,,,
+15920,2000-05-03,2000,5,3,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,12:55:00,5,1,Jeffie McNeil,None,10,Light,17,,,,,,,,,,,,,,
+15920,2000-05-03,2000,5,3,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,13:50:00,30,1,Jeffie McNeil,None,10,Light,17,,,,,,,,,,,,,,
+15968,2001-08-21,2001,8,21,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,16:00:00,75,1,Jeffie McNeil,Mod - Heavy Rain,100,Calm,24,23,,,,,,,,,,,,,
+15969,2001-08-22,2001,8,22,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,12:50:00,70,1,Jeffie McNeil,None,40,Calm,28,26,,,,,,,,,,,,,
+16036,2014-09-28,2014,9,28,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:20:00,30,3,"Jeffie McNeil, Troy Frech, Seth McFrech",None,0,Calm,,,,,,,,,,,,,,,
+16097,2001-06-09,2001,6,9,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,14:30:00,210,2,"Jeffie McNeil, Troy Frech",None,80,Calm,,,,,,,,,,,,,,,
+16101,2001-06-12,2001,6,12,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Pull Traps,14:05:00,9,1,Jeffie McNeil,None,80,Calm,24,21,,,,,,,,,,,,,
+16101,2001-06-12,2001,6,12,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Pull Traps,15:50:00,40,1,Jeffie McNeil,Light Rain,100,Calm,21,21,,,,,,,,,,,,,
+16101,2001-06-12,2001,6,12,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,16:31:00,14,1,Jeffie McNeil,None,70,Calm,24,21,,,,,,,,,,,,,
+16111,2002-06-11,2002,6,11,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,13:10:00,80,2,"Jeffie McNeil, Ian Morrison",Mod - Heavy Rain,100,Calm,12,16,,,,,,,,,,,,,
+16112,2002-06-11,2002,6,11,ML (McGowan Lake),WB (West Bog),WR (Woods Road),Radio Tracking,21:10:00,20,2,"Jeffie McNeil, Troy Frech",None,100,Light,,,,,,,,,,,,,,,
+16113,2002-06-11,2002,6,11,ML (McGowan Lake),SD (South Deans),PP (Pats Point),Radio Tracking,20:40:00,20,2,Jeffie McNeil. Troy Frech,None,100,Light,13,,,,,,,,,,,,,,
+16117,2002-06-13,2002,6,13,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Check Traps,16:38:00,74,2,"Jeffie McNeil, Kim Inglis",None,30,Calm,27,22,,,,,,,,,,,,,
+16121,2002-07-05,2002,7,5,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Set Traps,15:09:00,120,2,"Jeffie McNeil, Kim Inglis",None,40,Light,31,30,,,,,,,,,,,,,
+16121,2002-07-05,2002,7,5,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Set Traps,16:09:00,68,2,"Jeffie McNeil, Kim Inglis",None,40,Light,31,30,,,,,,,,,,,,,
+16122,2002-07-06,2002,7,6,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,17:09:00,22,2,"Jeffie McNeil, Troy Frech",None,90,Light,24,25,,,,,,,,,,,,,
+16122,2002-07-06,2002,7,6,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,17:20:00,14,2,"Jeffie McNeil, Troy Frech",None,90,Light,24,25,,,,,,,,,,,,,
+16133,2002-08-20,2002,8,20,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,10:23:00,23,1,"Jeffie McNeil, Kim Inglis",None,70,Calm,25,23,,,,,,,,,,,,,
+16135,2002-08-21,2002,8,21,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,10:33:00,7,1,"Jeffie McNeil, Janine Beckett",None,0,Calm,24,23,,,,,,,,,,,,,
+16135,2002-08-21,2002,8,21,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,10:40:00,15,1,"Jeffie McNeil, Janine Beckett",None,0,Calm,24,23,,,,,,,,,,,,,
+16135,2002-08-21,2002,8,21,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,10:55:00,18,1,"Jeffie McNeil, Janine Beckett",None,0,Calm,24,22,,,,,,,,,,,,,
+16288,2015-04-24,2015,4,24,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:37:00,56,2,Laura Kersey and Kim Dubois,Drizzle / Mist,100,Calm,9,3,,,,,,,,,,,,,
+16290,2015-04-25,2015,4,25,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,12:52:00,60,2,Kim dubois and Gabrielle Théroux,None,100,Calm,5,4,,,,,,,,,,,,,
+16292,2015-04-26,2015,4,26,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,13:15:00,60,3,"Kim Dubois, Gabrielle Théroux and Emily Patterson",None,100,Calm,9,4,,,,,,,,,,,,,
+16316,2015-05-03,2015,5,3,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,13:35:00,24,3,"Jeffie McNeil, Troy Frech, Seth McFrech",None,5,Calm,20,,,,,,,,,,,,,,
+16318,2015-05-14,2015,5,14,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,14:45:00,10,1,Jeffie McNeil,None,0,Light,,,,,,,,,,,,,,,
+16318,2015-05-14,2015,5,14,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Visual Survey,17:10:00,6,1,Jeffie McNeil,None,0,Light,,,,,,,,,,,,,,,
+16318,2015-05-14,2015,5,14,ML (McGowan Lake),WB (West Bog),LB (Leatherleaf Bog),Dog and visual survey,17:18:00,32,1,Jeffie McNeil,None,0,Light,,,,,,,,,,,,,,,
+16334,2015-05-30,2015,5,30,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,15:05:00,10,1,Jeffie McNeil,None,80,Light,24,,,,,,,,,,,,,,
+16363,2003-07-04,2003,7,4,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Set Traps,10:00:00,58,1,Jeffie McNeil,None,100,Light,21,19,,,,,,,,,,,,,
+16364,2003-07-05,2003,7,5,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,10:47:00,3,1,Jeffie McNeil,,,,,,,,,,,,,,,,,,
+16364,2003-07-05,2003,7,5,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,11:20:00,5,1,Jeffie McNeil,,,,,,,,,,,,,,,,,,
+16364,2003-07-05,2003,7,5,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,11:25:00,5,1,Jeffie McNeil,,,,,,,,,,,,,,,,,,
+16457,2015-06-15,2015,6,15,ML (McGowan Lake),WB (West Bog),C6 (Cove 6),Visual Survey,21:16:00,4,1,Jeffie McNeil,None,5,Calm,13,,,,,,,,,,,,,,
+16462,2015-06-17,2015,6,17,ML (McGowan Lake),WB (West Bog),BC (West Bog Cove),Visual Survey,22:35:00,15,1,"Jeffie McNeil, Harold Clapp, Mathew Teris",None,0,Calm,11,,,,,,,,,,,,,,
+16484,2015-07-07,2015,7,7,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,14:48:00,6,3,"James Neish, Kim Dubois, Oscar Thiebaut Rizzoni",None,50,Calm,29,24,,,,,,,,,,,,,
+16484,2015-07-07,2015,7,7,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Visual Survey,14:50:00,6,3,"James Neish, Kim Dubois, Oscar Thiebaut Rizzoni",None,50,Calm,29,24,,,,,,,,,,,,,
+16484,2015-07-07,2015,7,7,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,14:52:00,6,3,"James Neish, Kim Dubois, Oscar Thiebaut Rizzoni",None,50,Calm,29,24,,,,,,,,,,,,,
+16484,2015-07-07,2015,7,7,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Set Traps,14:54:00,69,3,"James Neish, Kim Dubois, Oscar Thiebaut Rizzoni",None,50,Calm,29,24,,,,,,,,,,,,,
+16484,2015-07-07,2015,7,7,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Set Traps,17:10:00,15,3,"James Neish, Kim Dubois, Oscar Thiebaut Rizzoni",None,50,Calm,31,23,,,,,,,,,,,,,
+16484,2015-07-07,2015,7,7,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Set Traps,17:15:00,39,3,"James Neish, Kim Dubois, Oscar Thiebaut Rizzoni",None,50,Calm,29,26,,,,,,,,,,,,,
+16484,2015-07-07,2015,7,7,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,17:28:00,9,3,"James Neish, Kim Dubois, Oscar Thiebaut Rizzoni",None,50,Light,29,27,,,,,,,,,,,,,
+16487,2003-05-28,2003,5,28,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,13:10:00,15,1,Jeffie McNeil,Drizzle / Mist,100,Calm,14,13,,,,,,,,,,,,,
+16488,2003-05-13,2003,5,13,ML (McGowan Lake),DL (Deans Lake),SS (Schroders Swamp),Visual Survey,15:25:00,30,2,"Jeffie McNeil, Troy Frech",None,80,Calm,24,21,,,,,,,,,,,,,
+16489,2003-05-31,2003,5,31,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Radio Tracking,16:40:00,4,2,"Jeffie McNeil, Troy Frech",None,80,Light,24,23,,,,,,,,,,,,,
+16490,2003-06-04,2003,6,4,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,12:10:00,80,2,"Jeffie McNeil, Jen, Tara",None,80,Light,24,,,,,,,,,,,,,,
+16592,2015-07-08,2015,7,8,ML (McGowan Lake),WB (West Bog),HR (Henry Road),Radio Tracking,15:08:00,57,3,"Kim Dubois, Krista Jager and Oscar Thiebaut Rizzoni",Light Rain,100,Light,26,,,,,,,,,,,,,,
+16592,2015-07-08,2015,7,8,ML (McGowan Lake),WB (West Bog),RR (Rifle Range),Visual Survey,15:29:00,21,3,"Kim Dubois, Krista Jager and Oscar Thiebaut Rizzoni",Light Rain,100,Light,26,,,,,,,,,,,,,,
+16592,2015-07-08,2015,7,8,ML (McGowan Lake),WB (West Bog),MM (Mount Merrit Road),Radio Tracking,15:36:00,147,3,"Kim Dubois, Krista Jager and Oscar Thiebaut Rizzoni",Light Rain,100,Light,26,,,,,,,,,,,,,,
+16593,2015-07-08,2015,7,8,ML (McGowan Lake),AN (Albany New),AN (Albany New Road),Radio Tracking,14:36:00,45,3,"Kim Dubois, Krista Jager and Oscar Thiebaut Rizzoni",None,100,Light,25,,,,,,,,,,,,,,
+16594,2015-07-02,2015,7,2,ML (McGowan Lake),WB (West Bog),RR (Rifle Range),Radio Tracking,13:55:00,6,2,Kim Dubois and Oscar Thiebaut Rizzoni,None,10,Calm,28,,,,,,,,,,,,,,
+16594,2015-07-02,2015,7,2,ML (McGowan Lake),WB (West Bog),HR (Henry Road),Radio Tracking,14:00:00,56,2,Kim Dubois and Oscar Thiebaut Rizzoni,None,10,Calm,28,,,,,,,,,,,,,,
+16595,2015-07-08,2015,7,8,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,10:42:00,8,4,"James Neish, Oscar Thiebaut Rizzoni, Krista Jager, Kim Jager",None,100,Light,22,24,,,,,,,,,,,,,
+16595,2015-07-08,2015,7,8,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Check Traps,10:44:00,40,4,"James Neish, Oscar Thiebaut Rizzoni, Krista Jager, Kim Jager",None,100,Light,22,23,,,,,,,,,,,,,
+16595,2015-07-08,2015,7,8,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Check Traps,10:54:00,40,4,"James Neish, Oscar Thiebaut Rizzoni, Krista Jager, Kim Jager",None,100,Light,22,23,,,,,,,,,,,,,
+16595,2015-07-08,2015,7,8,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,12:28:00,24,4,"James Neish, Oscar Thiebaut Rizzoni, Krista Jager, Kim Jager",None,100,Light,26,25,,,,,,,,,,,,,
+16595,2015-07-08,2015,7,8,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Visual Survey,12:34:00,16,4,"James Neish, Oscar Thiebaut Rizzoni, Krista Jager, Kim Jager",None,100,Light,26,24,,,,,,,,,,,,,
+16595,2015-07-08,2015,7,8,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,12:36:00,8,4,"James Neish, Oscar Thiebaut Rizzoni, Krista Jager, Kim Jager",None,100,Light,26,24,,,,,,,,,,,,,
+16596,2015-07-09,2015,7,9,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,08:55:00,3,1,James Neish,None,80,Calm,16,15,,,,,,,,,,,,,
+16596,2015-07-09,2015,7,9,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Visual Survey,08:58:00,3,1,James Neish,None,80,Calm,16,21,,,,,,,,,,,,,
+16596,2015-07-09,2015,7,9,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,09:01:00,4,1,James Neish,None,80,Calm,16,21,,,,,,,,,,,,,
+16596,2015-07-09,2015,7,9,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Bait and Check Traps,12:25:00,45,1,James Neish,None,70,Calm,23,23,,,,,,,,,,,,,
+16596,2015-07-09,2015,7,9,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Bait and Check Traps,13:10:00,39,1,James Neish,None,70,Calm,25,23,,,,,,,,,,,,,
+16596,2015-07-09,2015,7,9,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Bait and Check Traps,14:31:00,22,1,James Neish,None,60,Calm,27,24,,,,,,,,,,,,,
+16596,2015-07-09,2015,7,9,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,14:53:00,6,1,James Neish,None,60,Calm,25,26,,,,,,,,,,,,,
+16597,2015-07-10,2015,7,10,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Pull Traps,14:44:00,16,2,"Oscar Thiebault,  Kim Dubois",None,45,Calm,28,23,,,,,,,,,,,,,
+16598,2015-07-21,2015,7,21,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Set Traps,13:15:00,46,2,"Jeffie McNeil, Troy Frech",None,100,Light,22,23,,,,,,,,,,,,,
+16598,2015-07-21,2015,7,21,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Set Traps,13:38:00,54,2,"Jeffie McNeil, Troy Frech",None,100,Calm,23,22,,,,,,,,,,,,,
+16598,2015-07-21,2015,7,21,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Set Traps,14:05:00,94,2,"Jeffie McNeil, Troy Frech",None,100,Light,23,24,,,,,,,,,,,,,
+16599,2015-07-22,2015,7,22,ML (McGowan Lake),JT (Joe Tom Brook),SL (Sawdust Lake),Radio Tracking,09:50:00,9,1,Jeffie McNeil,Drizzle / Mist,100,Calm,17,19,,,,,,,,,,,,,
+16599,2015-07-22,2015,7,22,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Check Traps,10:00:00,16,1,Jeffie McNeil,Drizzle / Mist,100,Calm,17,19,,,,,,,,,,,,,
+16599,2015-07-22,2015,7,22,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Check Traps,10:16:00,35,1,Jeffie McNeil,None,100,Calm,18,19,,,,,,,,,,,,,
+16599,2015-07-22,2015,7,22,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Visual Survey,13:30:00,10,1,Jeffie McNeil,None,100,Calm,21,21,,,,,,,,,,,,,
+16599,2015-07-22,2015,7,22,ML (McGowan Lake),JT (Joe Tom Brook),SL (Sawdust Lake),Visual Survey,13:40:00,20,1,Jeffie McNeil,None,100,Calm,22,21,,,,,,,,,,,,,
+16600,2015-07-23,2015,7,23,ML (McGowan Lake),JT (Joe Tom Brook),O0 (Offshoot 0),Bait and Check Traps,10:25:00,22,1,Jeffie McNeil,None,5,Light,21,20,,,,,,,,,,,,,
+16600,2015-07-23,2015,7,23,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Bait and Check Traps,10:47:00,18,1,Jeffie McNeil,None,5,Light,21,21,,,,,,,,,,,,,
+16600,2015-07-23,2015,7,23,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Bait and Check Traps,11:05:00,25,1,Jeffie McNeil,None,10,Light,21,21,,,,,,,,,,,,,
+16600,2015-07-23,2015,7,23,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Visual Survey,12:45:00,5,1,Jeffie McNeil,None,20,Moderate,21,22,,,,,,,,,,,,,
+16600,2015-07-23,2015,7,23,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Visual Survey,12:50:00,5,1,Jeffie McNeil,None,20,Moderate,22,22.5,,,,,,,,,,,,,
+16600,2015-07-23,2015,7,23,ML (McGowan Lake),JT (Joe Tom Brook),SL (Sawdust Lake),Visual Survey,12:55:00,20,1,Jeffie McNeil,None,20,Moderate,22,22,,,,,,,,,,,,,
+16605,2015-07-24,2015,7,24,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Check Traps,10:31:00,12,2,"Jeffie McNeil, Colin Gray",None,80,Calm,21,19.5,,,,,,,,,,,,,
+16605,2015-07-24,2015,7,24,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Check Traps,10:37:00,26,2,"Jeffie McNeil, Colin Gray",None,80,Calm,21,20,,,,,,,,,,,,,
+16607,2015-07-30,2015,7,30,ML (McGowan Lake),AN (Albany New),ME (Medway River East),Visual Survey,12:12:00,29,1,James Neish,None,15,Calm,28,22,,,,,,,,,,,,,
+16607,2015-07-30,2015,7,30,ML (McGowan Lake),AN (Albany New),ME (Medway River East),Bait and Check Traps,10:55:00,77,1,James Neish,None,10,Calm,23,22,,,,,,,,,,,,,
+16607,2015-07-30,2015,7,30,ML (McGowan Lake),AN (Albany New),ME (Medway River East),Visual Survey,13:05:00,32,1,James Neish,None,15,Calm,24,22,,,,,,,,,,,,,
+16607,2015-07-30,2015,7,30,ML (McGowan Lake),AN (Albany New),,Visual Survey,13:37:00,37,1,James Neish,None,15,Calm,27,22,,,,,,,,,,,,,
+16607,2015-07-30,2015,7,30,ML (McGowan Lake),AN (Albany New),ME (Medway River East),Visual Survey,14:14:00,30,1,James Neish,None,5,Calm,28,23,,,,,,,,,,,,,
+16607,2015-07-30,2015,7,30,ML (McGowan Lake),AN (Albany New),ME (Medway River East),Bait and Check Traps,14:44:00,70,1,James Neish,None,20,Calm,29,23,,,,,,,,,,,,,
+16635,2015-07-13,2015,7,13,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Set Traps,11:25:00,285,3,"James Neish, Oscar Thiebaut Rizzoni, Harold Clapp",None,10,Calm,29,22,,,,,,,,,,,,,
+16635,2015-07-13,2015,7,13,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Set Traps,13:05:00,141,3,"James Neish, Oscar Thiebaut Rizzoni, Harold Clapp",None,10,Calm,28,27,,,,,,,,,,,,,
+16635,2015-07-13,2015,7,13,ML (McGowan Lake),DL (Deans Lake),DB (Dean Bog),Set Traps,14:01:00,111,3,"James Neish, Oscar Thiebaut Rizzoni, Harold Clapp",None,10,Calm,31,26,,,,,,,,,,,,,
+16635,2015-07-13,2015,7,13,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Set Traps,14:38:00,57,3,"James Neish, Oscar Thiebaut Rizzoni, Harold Clapp",None,10,Calm,30,25,,,,,,,,,,,,,
+16635,2015-07-13,2015,7,13,ML (McGowan Lake),DL (Deans Lake),BP (Beaver Pond),Set Traps,15:06:00,102,3,"James Neish, Oscar Thiebaut Rizzoni, Harold Clapp",None,10,Calm,29,26,,,,,,,,,,,,,
+16635,2015-07-13,2015,7,13,ML (McGowan Lake),DL (Deans Lake),BP (Beaver Pond),Set Traps,15:40:00,40,2,"James Neish, Oscar Thiebaut Rizzoni, Harold Clapp",None,10,Calm,30,26,,,,,,,,,,,,,
+16636,2015-07-14,2015,7,14,ML (McGowan Lake),DL (Deans Lake),BP (Beaver Pond),Check Traps,09:30:00,60,2,Harold and Diane Clapp,None,0,Calm,19,22,,,,,,,,,,,,,
+16636,2015-07-14,2015,7,14,ML (McGowan Lake),DL (Deans Lake),DB (Dean Bog),Check Traps,10:00:00,40,2,Harold and Diane Clapp,None,0,Calm,22,25,,,,,,,,,,,,,
+16636,2015-07-14,2015,7,14,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Check Traps,10:20:00,20,2,Harold and Diane Clapp,None,0,Light,22,25,,,,,,,,,,,,,
+16636,2015-07-14,2015,7,14,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Check Traps,10:30:00,30,2,Harold and Diane Clapp,None,0,Light,22,25,,,,,,,,,,,,,
+16636,2015-07-14,2015,7,14,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Check Traps,10:45:00,150,2,Harold and Diane Clapp,None,0,Light,25,26,,,,,,,,,,,,,
+16637,2015-07-14,2015,7,14,ML (McGowan Lake),KM (Kempt),MR (Martin Road),Radio Tracking,12:45:00,150,2,Harold and Diane Clapp,None,,,,,,,,,,,,,,,,,
+16638,2015-07-15,2015,7,15,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Bait and Check Traps,11:20:00,100,2,Harold Clapp and Mallory Heim,None,100,Light,25,23,,,,,,,,,,,,,
+16638,2015-07-15,2015,7,15,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Bait and Check Traps,12:15:00,20,2,Harold Clapp and Mallory Heim,None,100,Calm,28,25,,,,,,,,,,,,,
+16638,2015-07-15,2015,7,15,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Bait and Check Traps,12:30:00,20,2,Harold Clapp and Mallory Heim,None,90,Light,26,25,,,,,,,,,,,,,
+16638,2015-07-15,2015,7,15,ML (McGowan Lake),DL (Deans Lake),BP (Beaver Pond),Bait and Check Traps,13:30:00,72,2,Harold Clapp and Mallory Heim,None,60,Calm,22,25,,,,,,,,,,,,,
+16639,2015-07-15,2015,7,15,ML (McGowan Lake),,,Radio Tracking,08:30:00,120,1,Harold Clapp,None,100,Calm,20,,,,,,,,,,,,,,
+16639,2015-07-15,2015,7,15,ML (McGowan Lake),,,Radio Tracking,14:30:00,90,1,Harold Clapp,None,50,Calm,26,,,,,,,,,,,,,,
+16640,2005-09-10,2005,9,10,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Visual Survey,14:54:00,16,1,Jeffie McNeil,None,20,Moderate,19,,,,,,,,,,,,,,
+16640,2005-09-10,2005,9,10,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Visual Survey,15:10:00,10,1,Jeffie McNeil,None,20,Moderate,19,,,,,,,,,,,,,,
+16640,2005-09-10,2005,9,10,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Radio Tracking,15:20:00,7,1,Jeffie McNeil,None,20,Moderate,19,,,,,,,,,,,,,,
+16640,2005-09-10,2005,9,10,ML (McGowan Lake),JT (Joe Tom Brook),ML (Meadow Lake),Radio Tracking,15:27:00,10,1,Jeffie McNeil,None,20,Moderate,19,,,,,,,,,,,,,,
+16640,2005-09-10,2005,9,10,ML (McGowan Lake),JT (Joe Tom Brook),MB (Meadow Brook),Radio Tracking,15:37:00,10,1,Jeffie McNeil,None,20,Moderate,19,,,,,,,,,,,,,,
+16640,2005-09-10,2005,9,10,ML (McGowan Lake),JT (Joe Tom Brook),O1 (Offshoot 1),Radio Tracking,15:47:00,8,1,Jeffie McNeil,None,20,Moderate,19,,,,,,,,,,,,,,
+16640,2005-09-10,2005,9,10,ML (McGowan Lake),JT (Joe Tom Brook),SL (Sawdust Lake),Radio Tracking,15:55:00,8,1,Jeffie McNeil,None,20,Moderate,19,,,,,,,,,,,,,,
+16640,2005-09-10,2005,9,10,ML (McGowan Lake),JT (Joe Tom Brook),B2 (Brook 2),Radio Tracking,16:15:00,5,1,Jeffie McNeil,None,20,Moderate,19,,,,,,,,,,,,,,
+16640,2005-09-10,2005,9,10,ML (McGowan Lake),JT (Joe Tom Brook),B1 (Brook 1),Radio Tracking,16:20:00,13,1,Jeffie McNeil,None,20,Moderate,19,,,,,,,,,,,,,,
+16641,2015-07-28,2015,7,28,ML (McGowan Lake),AN (Albany New),ME (Medway River East),Set Traps,09:55:00,234,2,"James Neish, Oscar Thiebaut Rizzoni",Drizzle / Mist,100,Calm,21,20,,,,,,,,,,,,,
+16642,2015-07-29,2015,7,29,ML (McGowan Lake),AN (Albany New),ME (Medway River East),Check Traps,09:44:00,120,2,"James Neish, Oscar Thiebaut Rizzoni",None,99,Calm,19,19.5,,,,,,,,,,,,,
+16643,2015-07-28,2015,7,28,ML (McGowan Lake),MM (Mount Merrit Brook),M1 (Meadow 1),Set Traps,12:00:00,160,1,Jeffie McNeil,Mod - Heavy Rain,100,Light,21,20,,,,,,,,,,,,,
+16643,2015-07-28,2015,7,28,ML (McGowan Lake),MM (Mount Merrit Brook),P1 (Pond 1),Set Traps,14:40:00,25,1,Jeffie McNeil,Drizzle / Mist,100,Light,21,21,,,,,,,,,,,,,
+16645,2015-07-29,2015,7,29,ML (McGowan Lake),MM (Mount Merrit Brook),P1 (Pond 1),Check Traps,10:26:00,8,1,Jeffie McNeil (Boomer),None,20,Light,20,20,,,,,,,,,,,,,
+16645,2015-07-29,2015,7,29,ML (McGowan Lake),MM (Mount Merrit Brook),P1 (Pond 1),Radio Tracking,10:34:00,6,1,Jeffie McNeil (Boomer),None,20,Light,20,20,,,,,,,,,,,,,
+16645,2015-07-29,2015,7,29,ML (McGowan Lake),MM (Mount Merrit Brook),M1 (Meadow 1),Check Traps,10:45:00,15,1,Jeffie McNeil (Boomer),None,20,Calm,20,19,,,,,,,,,,,,,
+16645,2015-07-29,2015,7,29,ML (McGowan Lake),MM (Mount Merrit Brook),M1 (Meadow 1),Visual Survey,11:00:00,20,1,Jeffie McNeil (Boomer),None,5,Calm,22,19,,,,,,,,,,,,,
+16645,2015-07-29,2015,7,29,ML (McGowan Lake),MM (Mount Merrit Brook),M1 (Meadow 1),Check Traps,11:20:00,18,1,Jeffie McNeil (Boomer),None,0,Calm,23,19,,,,,,,,,,,,,
+16645,2015-07-29,2015,7,29,ML (McGowan Lake),MM (Mount Merrit Brook),M1 (Meadow 1),Dog and visual survey,11:38:00,22,1,Jeffie McNeil (Boomer),None,2,Light,23,19,,,,,,,,,,,,,
+16645,2015-07-29,2015,7,29,ML (McGowan Lake),MM (Mount Merrit Brook),P1 (Pond 1),Dog and visual survey,12:00:00,25,1,Jeffie McNeil (Boomer),None,1,Light,23,21,,,,,,,,,,,,,
+16680,2015-07-31,2015,7,31,ML (McGowan Lake),AN (Albany New),ME (Medway River East),Pull Traps,09:15:00,136,1,James Neish,None,100,Light,22,22,,,,,,,,,,,,,
+16682,2005-07-07,2005,7,7,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,12:28:00,10,2,"Jeffie McNeil, Natacha Fontaine Seguin",None,100,Calm,21,20,,,,,,,,,,,,,
+16682,2005-07-07,2005,7,7,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,12:36:00,126,2,"Jeffie McNeil, Natacha Fontaine Seguin",None,100,Calm,20,19,,,,,,,,,,,,,
+16682,2005-07-07,2005,7,7,ML (McGowan Lake),WB (West Bog),2M (West Bog 2M),Visual Survey,13:40:00,10,2,"Jeffie McNeil, Natacha Fontaine Seguin",None,100,Calm,20,19,,,,,,,,,,,,,
+16682,2005-07-07,2005,7,7,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,13:45:00,10,2,"Jeffie McNeil, Natacha Fontaine Seguin",None,100,Calm,20,20,,,,,,,,,,,,,
+16683,2005-07-08,2005,7,8,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,12:45:00,94,2,"Jeffie McNeil, Mike Lawton",None,100,Calm,24,19,,,,,,,,,,,,,
+16683,2005-07-08,2005,7,8,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,13:45:00,30,2,"Jeffie McNeil, Mike Lawton",None,100,Calm,24,21,,,,,,,,,,,,,
+16683,2005-07-08,2005,7,8,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,14:10:00,10,2,"Jeffie McNeil, Mike Lawton",None,80,Calm,24,21,,,,,,,,,,,,,
+16683,2005-07-08,2005,7,8,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,14:15:00,46,2,"Jeffie McNeil, Mike Lawton",None,80,Calm,24,21,,,,,,,,,,,,,
+16685,2015-07-16,2015,7,16,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Check Traps,12:22:00,16,2,"James Neish, Jeffie McNeil, Ethan Whynot",None,10,Light,23,26,,,,,,,,,,,,,
+16685,2015-07-16,2015,7,16,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Check Traps,13:20:00,170,2,"James Neish, Jeffie McNeil, Ethan Whynot",None,10,Light,23,23,,,,,,,,,,,,,
+16687,2005-07-11,2005,7,11,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Pull Traps,12:55:00,4,2,"Jeffie McNeil, Natacha Fontaine-Sqguin",None,95,Calm,25,20,,,,,,,,,,,,,
+16690,2015-08-24,2015,8,24,ML (McGowan Lake),KM (Kempt),H8 (Highway 8),Radio Tracking,19:15:00,5,1,James Neish,None,50,Calm,25,,,,,,,,,,,,,,
+16698,2005-06-13,2005,6,13,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Set Traps,15:45:00,120,2,"Jeffie McNeil, Julia Cormier",None,80,Light,30,18,,,,,,,,,,,,,
+16698,2005-06-13,2005,6,13,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Radio Tracking,16:45:00,10,2,"Jeffie McNeil, Julia Cormier",None,80,Light,30,18,,,,,,,,,,,,,
+16698,2005-06-13,2005,6,13,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Set Traps,16:55:00,120,2,"Jeffie McNeil, Julia Cormier",None,80,Light,30,28,,,,,,,,,,,,,
+16699,2005-06-14,2005,6,14,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,13:45:00,40,2,"Julia Landry, Julia Cormier",None,98,Moderate,20,22,,,,,,,,,,,,,
+16699,2005-06-14,2005,6,14,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,14:30:00,30,2,"Julia Landry, Julia Cormier",None,98,Moderate,20,20,,,,,,,,,,,,,
+16699,2005-06-14,2005,6,14,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Radio Tracking,14:45:00,60,2,"Julia Landry, Julia Cormier",None,,,20,,,,,,,,,,,,,,
+16700,2015-07-17,2015,7,17,ML (McGowan Lake),DL (Deans Lake),BP (Beaver Pond),Pull Traps,10:00:00,30,2,"James Neish, Oscar Theibault Rizzoni",None,10,Calm,18,16,,,,,,,,,,,,,
+16700,2015-07-17,2015,7,17,ML (McGowan Lake),DL (Deans Lake),DB (Dean Bog),Pull Traps,10:25:00,38,2,"James Neish, Oscar Theibault Rizzoni",None,10,Calm,21,19,,,,,,,,,,,,,
+16700,2015-07-17,2015,7,17,ML (McGowan Lake),DL (Deans Lake),LC (Lucys Cove),Pull Traps,10:44:00,18,2,"James Neish, Oscar Theibault Rizzoni",None,10,Calm,21,20,,,,,,,,,,,,,
+16700,2015-07-17,2015,7,17,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Pull Traps,11:03:00,20,2,"James Neish, Oscar Theibault Rizzoni",None,10,Calm,22,24,,,,,,,,,,,,,
+16700,2015-07-17,2015,7,17,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Pull Traps,11:24:00,72,2,"James Neish, Oscar Theibault Rizzoni",None,15,Calm,22,23,,,,,,,,,,,,,
+16701,2005-06-15,2005,6,15,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,19:06:00,20,2,"Jeffie McNeil, Troy Frech",None,100,Strong,16,13,,,,,,,,,,,,,
+16701,2005-06-15,2005,6,15,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,19:16:00,18,2,"Jeffie McNeil, Troy Frech",None,100,Strong,16,16,,,,,,,,,,,,,
+16701,2005-06-15,2005,6,15,ML (McGowan Lake),EB (East Brook),PR (Peninsula Road),Radio Tracking,19:30:00,40,2,"Jeffie McNeil, Troy Frech",,,,16,,,,,,,,,,,,,,
+16702,2005-06-16,2005,6,16,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Bait and Check Traps,18:34:00,19,1,"Troy Frech, Jeffie McNeil",None,100,Moderate,16,13,,,,,,,,,,,,,
+16702,2005-06-16,2005,6,16,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Bait and Check Traps,18:54:00,12,1,"Troy Frech, Jeffie McNeil",None,100,Light,16,13,,,,,,,,,,,,,
+16703,2005-06-17,2005,6,17,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,18:46:00,28,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Light,15,13,,,,,,,,,,,,,
+16703,2005-06-17,2005,6,17,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,19:00:00,16,2,"Jeffie McNeil, Troy Frech",Drizzle / Mist,100,Light,15,14,,,,,,,,,,,,,
+16704,2005-06-18,2005,6,18,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Radio Tracking,18:57:00,5,1,"Jeffie McNeil, Troy Frech",None,50,Calm,,,,,,,,,,,,,,,
+16704,2005-06-18,2005,6,18,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Bait and Check Traps,19:02:00,18,1,"Jeffie McNeil, Troy Frech",None,50,Calm,,,,,,,,,,,,,,,
+16704,2005-06-18,2005,6,18,ML (McGowan Lake),EB (East Brook),WP (Woodland Pool),Set Traps,18:55:00,15,1,"Jeffie McNeil, Troy Frech",None,50,Light,,,,,,,,,,,,,,,
+16705,2005-06-19,2005,6,19,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Bait and Check Traps,18:57:00,17,1,"Troy Frech, Jeffie McNeil",None,100,Calm,16,15,,,,,,,,,,,,,
+16706,2005-06-20,2005,6,20,ML (McGowan Lake),EB (East Brook),WP (Woodland Pool),Check Traps,16:21:00,9,1,Jeffie McNeil,None,20,Calm,23,19,,,,,,,,,,,,,
+16706,2005-06-20,2005,6,20,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,16:40:00,10,1,Jeffie McNeil,None,20,Calm,23,19,,,,,,,,,,,,,
+16706,2005-06-20,2005,6,20,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,16:50:00,10,1,Jeffie McNeil,None,20,Calm,23,18,,,,,,,,,,,,,
+16707,2005-06-21,2005,6,21,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Pull Traps,16:42:00,116,2,"Jeffie McNeil, Tom Herman",None,40,Moderate,25,14,,,,,,,,,,,,,
+16707,2005-06-21,2005,6,21,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Pull Traps,17:40:00,94,2,"Jeffie McNeil, Tom Herman",None,40,Moderate,19,16,,,,,,,,,,,,,
+16708,2005-06-22,2005,6,22,ML (McGowan Lake),EB (East Brook),WP (Woodland Pool),Pull Traps,18:45:00,30,2,"Jeffie McNeil, Troy Frech",None,100,Calm,19,16,,,,,,,,,,,,,
+16709,1996-07-09,1996,7,9,ML (McGowan Lake),MM (Mount Merrit Brook),M5 (Meadow 5),Set Traps,14:30:00,180,2,"Jeffie McNeil, Nat McMaster",None,100,,24,19.5,,,,,,,,,,,,,
+16710,1996-07-10,1996,7,10,ML (McGowan Lake),MM (Mount Merrit Brook),M5 (Meadow 5),Check Traps,09:00:00,64,2,"Jeffie McNeil, Nat McMaster",None,,,19.5,18.5,,,,,,,,,,,,,
+16711,1996-07-11,1996,7,11,ML (McGowan Lake),MM (Mount Merrit Brook),M5 (Meadow 5),Pull Traps,12:15:00,110,2,"Jeffie McNeil, Nat McMaster",None,,,25,21,,,,,,,,,,,,,
+16711,1996-07-11,1996,7,11,ML (McGowan Lake),MM (Mount Merrit Brook),M6 (Meadow 6),Set Traps,14:10:00,220,2,"Jeffie McNeil, Nat McMaster",None,,Moderate,23,24,,,,,,,,,,,,,
+16712,2015-07-30,2015,7,30,ML (McGowan Lake),MM (Mount Merrit Brook),P1 (Pond 1),Pull Traps,09:14:00,30,2,"Jeffie McNeil, Lily Marin",None,0,Calm,,,,,,,,,,,,,,,
+16712,2015-07-30,2015,7,30,ML (McGowan Lake),MM (Mount Merrit Brook),M1 (Meadow 1),Pull Traps,09:29:00,122,2,"Jeffie McNeil, Lily Marin",None,0,Calm,,,,,,,,,,,,,,,
+16713,1996-07-12,1996,7,12,ML (McGowan Lake),MM (Mount Merrit Brook),M6 (Meadow 6),Check Traps,09:20:00,58,2,"Jeffie McNeil, Nat McMaster",None,,Calm,23,19,,,,,,,,,,,,,
+16714,1996-07-13,1996,7,13,ML (McGowan Lake),MM (Mount Merrit Brook),M1 (Meadow 1),Pull Traps,09:00:00,120,2,"Nat McMaster, Dave Oikle",Mod - Heavy Rain,,,17,18,,,,,,,,,,,,,
+16715,1996-07-13,1996,7,13,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Set Traps,11:30:00,300,2,"Nat McMaster, Dave Oickle",,,,,,,,,,,,,,,,,,
+16716,1996-07-15,1996,7,15,ML (McGowan Lake),WB (West Bog),2A (West Bog 2A),Set Traps,16:40:00,100,2,"Jeffie McNeil, Nat McMaster",Drizzle / Mist,100,,,,,,,,,,,,,,,,
+16716,1996-07-15,1996,7,15,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Set Traps,17:30:00,120,2,"Jeffie McNeil, Nat McMaster",Drizzle / Mist,100,,,,,,,,,,,,,,,,
+16718,1996-07-16,1996,7,16,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Check Traps,11:15:00,90,2,"Jeffie McNeil, Nat McMaster",Drizzle / Mist,100,,,,,,,,,,,,,,,,
+16719,1996-07-17,1996,7,17,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Pull Traps,10:25:00,52,2,"Jeffie McNeil, Nat McMaster",None,,,,,,,,,,,,,,,,,
+16720,1996-07-18,1996,7,18,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Set Traps,18:30:00,60,2,"Jeffie McNeil, Nat McMaster",None,,,,,,,,,,,,,,,,,
+16720,1996-07-18,1996,7,18,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Set Traps,19:00:00,90,1,"Jeffie McNeil, Nat McMaster",None,,,,,,,,,,,,,,,,,
+16721,1996-07-19,1996,7,19,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,14:15:00,64,2,"Jeffie McNeil, Nat McMaster",None,,Moderate,26,20,,,,,,,,,,,,,
+16722,1996-07-20,1996,7,20,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Pull Traps,10:05:00,60,2,"Jeffie McNeil, Nat McMaster",None,,Strong,18,,,,,,,,,,,,,,
+16723,2015-08-13,2015,8,13,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,10:28:00,18,2,"Jeffie McNeil, Earl Acker",None,80,Calm,24,22,,,,,,,,,,,,,
+16723,2015-08-13,2015,8,13,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,10:40:00,8,2,"Jeffie McNeil, Earl Acker",None,80,Light,24,21,,,,,,,,,,,,,
+16723,2015-08-13,2015,8,13,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Visual Survey,14:04:00,-288,2,"Jeffie McNeil, Earl Acker",None,90,Calm,24,21,,,,,,,,,,,,,
+16723,2015-08-13,2015,8,13,ML (McGowan Lake),WB (West Bog),2B (West Bog 2B),Radio Tracking,11:40:00,100,2,"Jeffie McNeil, Earl Acker",None,80,Light,24,,,,,,,,,,,,,,
+16723,2015-08-13,2015,8,13,ML (McGowan Lake),WB (West Bog),1M (West Bog 1M),Visual Survey,12:30:00,10,2,"Jeffie McNeil, Earl Acker",None,80,Light,26,,,,,,,,,,,,,,
+16723,2015-08-13,2015,8,13,ML (McGowan Lake),WB (West Bog),LL (Little Lake),Visual Survey,12:35:00,14,2,"Jeffie McNeil, Earl Acker",None,70,Light,26,,,,,,,,,,,,,,
+16723,2015-08-13,2015,8,13,ML (McGowan Lake),WB (West Bog),1B (West Bog 1B),Visual Survey,12:42:00,10,2,"Jeffie McNeil, Earl Acker",None,70,Light,26,,,,,,,,,,,,,,
+16728,2013-08-08,2013,8,8,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Set Traps,09:30:00,240,2,"Colin Gray, Leah Veniot",None,10,Calm,18,22,,,,,,,,,,,,,
+16728,2013-08-08,2013,8,8,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Set Traps,11:30:00,60,2,"Colin Gray, Leah Veniot",None,,,,,,,,,,,,,,,,,
+16728,2013-08-08,2013,8,8,ML (McGowan Lake),DL (Deans Lake),MM (Medway Mouth),Set Traps,12:00:00,30,2,"Colin Gray, Leah Veniot",None,,,,,,,,,,,,,,,,,
+16729,2013-08-09,2013,8,9,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Check Traps,11:00:00,60,1,Colin Gray,Mod - Heavy Rain,100,Light,20,22,,,,,,,,,,,,,
+16729,2013-08-09,2013,8,9,ML (McGowan Lake),DL (Deans Lake),MM (Medway Mouth),Check Traps,12:00:00,60,1,Colin Gray,Mod - Heavy Rain,100,Light,20,22,,,,,,,,,,,,,
+16730,2013-08-10,2013,8,10,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Bait and Check Traps,08:00:00,90,1,Colin Gray,None,80,Light,21,19,,,,,,,,,,,,,
+16730,2013-08-10,2013,8,10,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Bait and Check Traps,09:30:00,30,1,Colin Gray,,,,,,,,,,,,,,,,,,
+16730,2013-08-10,2013,8,10,ML (McGowan Lake),DL (Deans Lake),MM (Medway Mouth),Bait and Check Traps,10:00:00,30,1,Colin Gray,,,,,,,,,,,,,,,,,,
+16731,2013-08-11,2013,8,11,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Check Traps,10:30:00,30,1,Colin Gray,None,,,,,,,,,,,,,,,,,
+16731,2013-08-11,2013,8,11,ML (McGowan Lake),DL (Deans Lake),MM (Medway Mouth),Check Traps,11:00:00,30,1,Colin Gray,None,,,,,,,,,,,,,,,,,
+16733,2013-08-12,2013,8,12,ML (McGowan Lake),DL (Deans Lake),DC (Dean's Lake North Coves),Pull Traps,07:30:00,90,1,Colin Gray,None,80,Calm,18,22,,,,,,,,,,,,,
+16733,2013-08-12,2013,8,12,ML (McGowan Lake),DL (Deans Lake),LN (Lucy's Cove North),Pull Traps,09:00:00,30,1,Colin Gray,,,,,,,,,,,,,,,,,,
+16733,2013-08-12,2013,8,12,ML (McGowan Lake),DL (Deans Lake),MM (Medway Mouth),Pull Traps,09:30:00,30,1,Colin Gray,,,,,,,,,,,,,,,,,,
+16735,2006-07-09,2006,7,9,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Set Traps,18:40:00,54,2,"Jeffie McNeil, Troy Frech",None,20,Light,25,24,,,,,,,,,,,,,
+16735,2006-07-09,2006,7,9,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Set Traps,19:07:00,122,2,"Jeffie McNeil, Troy Frech",None,10,Calm,23,17,,,,,,,,,,,,,
+16736,2006-07-10,2006,7,10,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Check Traps,14:15:00,20,2,"Jeffie McNeil, Tom Herman",None,85,Light,24,22,,,,,,,,,,,,,
+16736,2006-07-10,2006,7,10,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,14:25:00,20,2,"Jeffie McNeil, Tom Herman",None,85,Light,24,19,,,,,,,,,,,,,
+16736,2006-07-10,2006,7,10,ML (McGowan Lake),EB (East Brook),M1 (Meadow 1),Set Traps,15:10:00,50,2,"Jeffie McNeil, Tom Herman",None,85,Light,24,21,,,,,,,,,,,,,
+16737,2006-07-11,2006,7,11,ML (McGowan Lake),EB (East Brook),M1 (Meadow 1),Set Traps,13:43:00,5,1,"Troy Frech, Jeffie McNeil",None,20,Light,29,27,,,,,,,,,,,,,
+16737,2006-07-11,2006,7,11,ML (McGowan Lake),EB (East Brook),C3 (Cove 3),Pull Traps,13:16:00,10,1,"Troy Frech, Jeffie McNeil",None,20,Light,29,,,,,,,,,,,,,,
+16737,2006-07-11,2006,7,11,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Bait and Check Traps,13:31:00,29,1,"Troy Frech, Jeffie McNeil",None,20,Light,29,,,,,,,,,,,,,,
+16738,2006-07-12,2006,7,12,ML (McGowan Lake),EB (East Brook),M1 (Meadow 1),Check Traps,18:20:00,50,2,"Jeffie McNeil, Troy Frech",None,,,28,25,,,,,,,,,,,,,
+16738,2006-07-12,2006,7,12,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Check Traps,18:55:00,10,2,"Jeffie McNeil, Troy Frech",None,100,Calm,27,19,,,,,,,,,,,,,
+16739,2006-07-13,2006,7,13,ML (McGowan Lake),EB (East Brook),SS (Shrub Swamp),Pull Traps,17:11:00,90,3,"Jeffie McNeil, Tom Herman, Nathan Fuller",None,100,Light,,,,,,,,,,,,,,,
+16751,2015-04-22,2015,4,22,ML (McGowan Lake),WB (West Bog),1S (West Bog 1S),Visual Survey,12:15:00,20,1,Jeffie McNeil,None,30,Calm,13,2,,,,,,,,,,,,,
