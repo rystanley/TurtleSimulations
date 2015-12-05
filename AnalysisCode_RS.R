@@ -3,6 +3,7 @@ library(dplyr)
 library(boot)
 library(ggplot2)
 library(lubridate)
+library(segmented)
 
 ## Turtle monitoring analysis
 tdata <- read.csv("TurtleData.csv",header=T,sep=",")
@@ -134,7 +135,7 @@ for(i in years){
 ggplot(df,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
   stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)
 #no 2015
-ggplot(filter(df,year!=2015),aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+ggplot(filter(df,year==2008),aes(x=cum_effort/60,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
   stat_smooth()
 
 ggplot(df,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
@@ -167,7 +168,17 @@ for(j in events){
 }
 
 ggplot(df2,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
-  stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)
+  stat_smooth(formula = segmented.mod)+geom_hline(aes(yintercept=number.unique),lty=2)
+
+fit=lm(total_turtles~cum_effort,data=df2)
+segmented.mod=segmented(fit,seg.Z=~cum_effort,psi=40000)
+inflectionpoint <- as.numeric(segmented.mod$psi.history[5])
+
+dat2 <- data.frame(cum_effort=df2$cum_effort,total_turtles=broken.line(segmented.mod)$fit)
+
+ggplot(df2,aes(x=cum_effort/60,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+  geom_hline(aes(yintercept=number.unique),lty=2)+geom_line(data=dat2)+
+  geom_vline(aes(xintercept=inflectionpoint/60),lty=2)+labs(x="Hours of effort",y="Cumulative effort")
 
 ggplot(df2,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
   stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)+scale_y_log10()+scale_x_log10()+annotation_logticks(sides="bl")
