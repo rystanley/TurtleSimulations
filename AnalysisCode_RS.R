@@ -1,10 +1,19 @@
 #libraries
 library(dplyr)
 library(boot)
+library(ggplot2)
+library(lubridate)
 
 ## Turtle monitoring analysis
 tdata <- read.csv("TurtleData.csv",header=T,sep=",")
 tdata$AgeAtCapture <- as.numeric(as.character(tdata$AgeAtCapture))
+
+#kill the negative effort
+tdata <- tdata[-which(tdata$effort<0),]
+
+#time filtering
+tdata$ymd <- ymd(paste(tdata$year,tdata$month,tdata$day,sep="-"))
+tz(tdata$ymd) <- "" #no timezone
 
 #filter the data
 length(which(tdata$effort<0)) #how many we are getting rid of
@@ -78,13 +87,93 @@ turtle.data=tdata[-which(tdata$AgeAtCapture==""),]
 #percent we are tossing out
 length(which(turtle.data$AgeAtCapture %in% as.character(c(1:18))))/nrow(turtle.data)*100
 
-turtle.data <- tdata[-which(tdata$AgeAtCapture=="" | tdata$AgeAtCapture %in% as.character(c(1:18))),] #19 + turtles
+turtle.data <- tdata[-which(tdata$AgeAtCapture %in% as.character(c(1:18))),] #19 + turtles ** assume that non-aged fit this rule
 
 number.unique <- length(unique(turtle.data$turtleid));number.unique
 
+#unique sample event
+turtle.data$event <- paste(as.character(turtle.data$effortid),turtle.data$section,turtle.data$timestart,sep="_")
+
+#time ordering
+turtle.data <- turtle.data[order(turtle.data$ymd),]
+
+#total effort in minutes
+turtle.data$teffort <- turtle.data$effort*turtle.data$observers
 
 
+years <- unique(turtle.data$year)
 
 
+df=NULL # total dataframe shell
+for(i in years){
+  temp <- filter(turtle.data,year==i)
+  events <- unique(temp$event)  
+  
+  unique.turtles <- NA # starting a vector for the new turtles in a given year (i)
+  effort.log <- NULL # growing log of effort for each sequential sample event within a year (i)
+
+  
+  for(j in events){
+      temp2 <- subset(temp,event==j)
+      unique.turtles <- c(unique.turtles,temp2$turtleid) #vector of turtles
+      unique.turtles <- unique.turtles[!duplicated(unique.turtles)] # get rid of duplicated incase of recapture
+      effort.log <- sum(c(effort.log,sum(temp2$teffort))) # total cumulative effort
+      new.turtles <- temp2$turtleid[is.element(temp2$turtleid,unique.turtles)] # the new turtles added
+      
+      out <- data.frame(year=i,event=j,ymd=temp2$ymd[1],effort=sum(temp2$teffort),cum_effort=effort.log,
+                        total_turtles=sum(!is.na(unique.turtles)),
+                        new_turtles=sum(!is.na(new.turtles)))
+      df=rbind(df,out)
+      
+    }
+}
+
+,colour=factor(year)scale_x_log10()+annotation_logticks(sides="b")+
+
+#all years
+ggplot(df,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+  stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)
+#no 2015
+ggplot(filter(df,year!=2015),aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+  stat_smooth()
+
+ggplot(df,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+  stat_smooth()+facet_wrap(~year,nrow=10)
+
+ggplot(filter(df,year!=2015),aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+  stat_smooth()+facet_wrap(~year,nrow=10)
 
 
+#composite of all years
+
+events <- unique(turtle.data$event)  
+
+unique.turtles <- NA # starting a vector for the new turtles in a given year (i)
+effort.log <- NULL # growing log of effort for each sequential sample event within a year (i)
+df2=NULL
+
+for(j in events){
+  temp2 <- subset(turtle.data,event==j)
+  unique.turtles <- c(unique.turtles,temp2$turtleid) #vector of turtles
+  unique.turtles <- unique.turtles[!duplicated(unique.turtles)] # get rid of duplicated incase of recapture
+  effort.log <- sum(c(effort.log,sum(temp2$teffort))) # total cumulative effort
+  new.turtles <- temp2$turtleid[is.element(temp2$turtleid,unique.turtles)] # the new turtles added
+  
+  out <- data.frame(year=i,event=j,ymd=temp2$ymd[1],effort=sum(temp2$teffort),cum_effort=effort.log,
+                    total_turtles=sum(!is.na(unique.turtles)),
+                    new_turtles=sum(!is.na(new.turtles)))
+  df2=rbind(df2,out)
+  
+}
+
+ggplot(df2,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+  stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)
+
+ggplot(df2,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+  stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)+scale_y_log10()+scale_x_log10()+annotation_logticks(sides="bl")
+
+ggplot(df2,aes(x=log10(cum_effort),y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+  stat_smooth()
+
+ggplot(df2,aes(x=cum_effort,y=log10(total_turtles)))+geom_point()+theme_bw()+theme(legend.position="none")+
+  stat_smooth()
