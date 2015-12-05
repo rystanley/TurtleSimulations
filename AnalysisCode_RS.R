@@ -22,7 +22,7 @@ filter(activity.year,activity=="Visual Survey")
 plot(unique.turtles$ut~year.turtles)
 
 
-#Unique turtle IDS
+#Unique turtle IDS   
 # we want a effort ID which corresponds to a unique turtle monitoring event
 # here we consider the fact that only one section will be observed on a given day
 # therefore the combination of the effortid (tag for the day of sampling) and section
