@@ -1,0 +1,38 @@
+---
+title: "Kejimkujik National Park and interior Nova Scotia blanding's turtle (Emydoidea blandingii) population monitoring optimization analysis (1996:2015)"
+subtitle: MCGOWAN LAKE
+output: word_document
+---
+----
+```{r, echo=FALSE,include=FALSE}
+# uncomment the line below if you would like to regenerate the figures
+# source("AnalysisCode.R")
+```
+
+![](NumberTurtles~SamplingEffort.png)
+
+**Figure 1:** Number of Blanding's turtles observed as a function of sampling effort (total time . number of observers^-1^) as observed between 1996:2015.
+
+![](NumberTurtles~Effort.png)
+
+**Figure 2:** Number of Blanding's turtles observed as a function of sampling effort (total # of people minutes) as observed (1996:2015).
+
+![](UniqueTurtles~Effort_byYear_composite_no2015.png)
+
+**Figure 3:** Number of unique turtles versus the total cumulative sample time within each sample year (1996:2014). Dashed line represents the total number of unique turtles observed throughout the sampling period (1996:2015). Note effort is cumulative in chronological order from the beginning of monitoring in 1996. 2015 excluded because of extended sampling season.
+
+![](UniqueTurtles~Effort_byYear_composite.png)
+
+**Figure 4:** Number of unique turtles versus the total cumulative sample time within each sample year (1996:2015). Dashed line represents the total number of unique turtles observed throughout the sampling period. Note effort is cumulative in chronological order from the beginning of monitoring in 1996.
+
+![](UniqueTurtles~Effort_byYear_facet.png)
+
+**Figure 5:** Number of unique turtles versus the total cumulative sample time within each sample year (1996:2015).
+
+![](Asymptote_EffortvsNumberTurtles_fitted.png)
+
+**Figure 6:** Number of unique turtle captures vs. sampling effort (total people hours) for each sample event. Horizontal dashed line represents the total number of unique turtles observed in McGowan's lake. Vertical dashed line represents the point of inflection as estimated by a segmented regression analysis (grey line).  Note effort is cumulative in chronological order from the beginning of monitoring in 1996.
+
+![](Asymptote_NumberTurtles_scaled.png)
+
+**Figure 7:** Number of unique turtle captures vs. sampling effort (total people hours) for each sample event. Vertical dashed line represents the point where all turtles have been observed (n=52).  Note effort is cumulative in chronological order from the beginning of monitoring in 1996.
