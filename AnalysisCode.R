@@ -261,67 +261,68 @@
 
 #Look at the number of unique turtles observed with cumulative effort over all years
 
-events <- unique(turtle.data$event)  
-
-unique.turtles <- NA # starting a vector for the new turtles in a given year (i)
-effort.log <- NULL # growing log of effort for each sequential sample event within a year (i)
-df2=NULL
-
-for(j in events){
-  temp2 <- subset(turtle.data,event==j)
-  unique.turtles <- c(unique.turtles,temp2$turtleid) #vector of turtles
-  unique.turtles <- unique.turtles[!duplicated(unique.turtles)] # get rid of duplicated incase of recapture
-  effort.log <- sum(c(effort.log,sum(temp2$teffort))) # total cumulative effort
-  new.turtles <- temp2$turtleid[is.element(temp2$turtleid,unique.turtles)] # the new turtles added
-  
-  out <- data.frame(year=i,event=j,ymd=temp2$ymd[1],effort=sum(temp2$teffort),cum_effort=effort.log,
-                    total_turtles=sum(!is.na(unique.turtles)),
-                    new_turtles=sum(!is.na(new.turtles)))
-  df2=rbind(df2,out)
-  
-}
-
-df2$cum_effort <- df2$cum_effort/60 # convert to hours 
-
-#fit the plot of effort to observe new turtles among all years
-#fit a segmented regression model to show the relationship and inflection point
-fit=lm(total_turtles~cum_effort,df2)
-segmented.mod=segmented(fit,seg.Z=~cum_effort,psi=2000)
-inflectionpoint <- as.numeric(segmented.mod$psi.history[5])
-
-#data from segmented model for plotting
-dat2 <- data.frame(cum_effort=df2$cum_effort,total_turtles=broken.line(segmented.mod)$fit)
-
-
-p12fitted <- ggplot(df2,aes(x=cum_effort,y=total_turtles))+theme_bw()+
-  geom_hline(aes(yintercept=number.unique),lty=2)+
-  geom_line(data=dat2,lwd=1.10,col="grey50")+geom_point(size=3)+
-  geom_hline(aes(yintercept=number.unique),lty=2)+
-  geom_segment(aes(x=inflectionpoint,xend=inflectionpoint,
-                   y=dat2[which.min(abs(dat2$cum_effort - inflectionpoint)),"total_turtles"],yend=0),lty=2)+
-  labs(y="Number of turtles",x="Sampling effort (people hours)")+
-  scale_y_continuous(limits=c(0,mround(number.unique,5)),
-                     breaks=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
-                     labels=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
-                     expand = c(0,0))+
-  scale_x_continuous(breaks=c(0,inflectionpoint,2000,4000,6000),
-                     labels=c(0,round(inflectionpoint),2000,4000,6000));p12fitted
-
-p13 <- ggplot(df2,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
-  stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)+
-  scale_x_log10(breaks=c(10,100,1000,df2[which(df2$total_turtles==number.unique)[1],"cum_effort"]),
-                labels=c(10,100,1000,round(df2[which(df2$total_turtles==number.unique)[1],"cum_effort"])))+
-  annotation_logticks(sides="b")+labs(y="Number of turtles",x="Sampling effort (people hours)")+
-  geom_segment(aes(x=df2[which(df2$total_turtles==number.unique)[1],"cum_effort"],
-                   xend=df2[which(df2$total_turtles==number.unique)[1],"cum_effort"],
-                    y=number.unique,yend=0),lty=2)+
-  scale_y_continuous(limits=c(0,mround(number.unique,5)),
-                     breaks=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
-                     labels=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
-                     expand = c(0,0));p13
-  
-#save plots
-ggsave("Asymptote_EffortvsNumberTurtles_fitted.png",p12fitted,height=7,width=7)
-ggsave("Asymptote_NumberTurtles_scaled.png",p13,height = 7,width = 7)
+        events <- unique(turtle.data$event)  
+        
+        unique.turtles <- NA # starting a vector for the new turtles in a given year (i)
+        effort.log <- NULL # growing log of effort for each sequential sample event within a year (i)
+        df2=NULL
+        
+        for(j in events){
+          temp2 <- subset(turtle.data,event==j)
+          unique.turtles <- c(unique.turtles,temp2$turtleid) #vector of turtles
+          unique.turtles <- unique.turtles[!duplicated(unique.turtles)] # get rid of duplicated incase of recapture
+          effort.log <- sum(c(effort.log,sum(temp2$teffort))) # total cumulative effort
+          new.turtles <- temp2$turtleid[is.element(temp2$turtleid,unique.turtles)] # the new turtles added
+          
+          out <- data.frame(year=i,event=j,ymd=temp2$ymd[1],effort=sum(temp2$teffort),cum_effort=effort.log,
+                            total_turtles=sum(!is.na(unique.turtles)),
+                            new_turtles=sum(!is.na(new.turtles)))
+          df2=rbind(df2,out)
+          
+        }
+        
+        df2$cum_effort <- df2$cum_effort/60 # convert to hours 
+        
+        #fit the plot of effort to observe new turtles among all years
+        #fit a segmented regression model to show the relationship and inflection point
+        fit=lm(total_turtles~cum_effort,df2)
+        segmented.mod=segmented(fit,seg.Z=~cum_effort,psi=2000)
+        inflectionpoint <- as.numeric(segmented.mod$psi.history[5])
+        
+        #data from segmented model for plotting
+        dat2 <- data.frame(cum_effort=df2$cum_effort,total_turtles=broken.line(segmented.mod)$fit)
+        
+        
+        p12fitted <- ggplot(df2,aes(x=cum_effort,y=total_turtles))+theme_bw()+
+          geom_hline(aes(yintercept=number.unique),lty=2)+
+          geom_point(size=3)+
+          geom_hline(aes(yintercept=number.unique),lty=2)+
+          geom_segment(aes(x=inflectionpoint,xend=inflectionpoint,
+                           y=dat2[which.min(abs(dat2$cum_effort - inflectionpoint)),"total_turtles"],yend=0),lty=2)+
+          geom_line(data=dat2,lwd=1.13,col="grey50")+
+          labs(y="Number of turtles",x="Sampling effort (people hours)")+
+          scale_y_continuous(limits=c(0,mround(number.unique,5)),
+                             breaks=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
+                             labels=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
+                             expand = c(0,0))+
+          scale_x_continuous(breaks=c(0,inflectionpoint,2000,4000,6000),
+                             labels=c(0,round(inflectionpoint),2000,4000,6000));p12fitted
+        
+        p13 <- ggplot(df2,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
+          stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)+
+          scale_x_log10(breaks=c(10,100,1000,df2[which(df2$total_turtles==number.unique)[1],"cum_effort"]),
+                        labels=c(10,100,1000,round(df2[which(df2$total_turtles==number.unique)[1],"cum_effort"])))+
+          annotation_logticks(sides="b")+labs(y="Number of turtles",x="Sampling effort (people hours)")+
+          geom_segment(aes(x=df2[which(df2$total_turtles==number.unique)[1],"cum_effort"],
+                           xend=df2[which(df2$total_turtles==number.unique)[1],"cum_effort"],
+                            y=number.unique,yend=0),lty=2)+
+          scale_y_continuous(limits=c(0,mround(number.unique,5)),
+                             breaks=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
+                             labels=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
+                             expand = c(0,0));p13
+          
+        #save plots
+        ggsave("Asymptote_EffortvsNumberTurtles_fitted.png",p12fitted,height=7,width=7)
+        ggsave("Asymptote_NumberTurtles_scaled.png",p13,height = 7,width = 7)
 
 
