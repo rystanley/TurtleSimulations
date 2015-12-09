@@ -160,17 +160,17 @@
         ## the error changes. 
         
         p8 <- ggplot(filter(simdata2,nsamp==10),aes(x=effort,y=meanturtles))+geom_boxplot()+theme_bw()+
-          labs(x="Sampling effort (total people minutes)",y="Number of turtles");p4
+          labs(x="Sampling effort (total observatioal minutes)",y="Number of turtles");p4
         
         p9 <- ggplot(filter(ave.numturtles2,nsamp==10),aes(x=effort,y=mean,group=1))+
           geom_point()+geom_errorbar(aes(ymin=mean-sd,ymax=mean+sd),width=0.2)+
-          geom_line()+theme_bw()+labs(x="Sampling effort (total people minutes)",y="Mean # of turtles ± sd");p9
+          geom_line()+theme_bw()+labs(x="Sampling effort (total observational minutes)",y="Mean # of turtles ± sd");p9
        
         ## save plots
         ggsave("NumberTurtles~Effort.png",p8,width=7,height=7)
         ggsave("MeanNumberTurtles~Effort.png",p9,width=7,height=7)
 
-### Effort to grab new turles --------
+### Effort to sample new turles --------
 
         #we want 19+ yr old turtles so we can use all with some degree of reason given time sampled 1996-2015
         temp <- tdata[-which(tdata$AgeAtCapture==""),]
@@ -225,11 +225,19 @@
         }
         
         
+        #Find the cumulative effort utilized for each year
+        Effort <- NULL
+        for (i in unique(df$year)){
+          tempdat <- subset(df,year==i)
+          cumEffort <- data.frame(year=i,cum_effort=tempdat[nrow(tempdat),"cum_effort"])
+          Effort <- rbind(Effort,cumEffort)
+        }
+        
         # Number of new turtles as a function of effort 
         p10a <- ggplot(df,aes(x=cum_effort/60,y=total_turtles))+geom_point()+
                theme_bw()+theme(legend.position="none")+
                stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)+
-               labs(x="Cumulative sampling effort (people hours)",y="Number of unique turtle observations")+
+               labs(x="Cumulative sampling effort (observational hours)",y="Number of unique turtle observations")+
                scale_y_continuous(limits=c(0,mround(number.unique,5)),
                             breaks=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
                             labels=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)));p10a
@@ -238,19 +246,19 @@
         p10b <- ggplot(filter(df,year!=2015),aes(x=cum_effort/60,y=total_turtles))+geom_point()+
                theme_bw()+theme(legend.position="none")+
                stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)+
-               labs(x="Cumulative sampling effort (people hours)",y="Number of unique turtle observations")+
+               labs(x="Cumulative sampling effort (observational hours)",y="Number of unique turtle observations")+
                scale_y_continuous(limits=c(0,mround(number.unique,5)),
                              breaks=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
                              labels=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)));p10b
         
         #wrapped for each year
         p11a <-  ggplot(df,aes(x=cum_effort/60,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
-          stat_smooth()+facet_wrap(~year,nrow=10)+
-          labs(x="Cumulative sampling effort (people hours)",y="Number of unique turtle observations");p11a
+          stat_smooth(span=600)+facet_wrap(~year,nrow=10)+scale_y_continuous(limits=c(0,30))+
+          labs(x="Cumulative sampling effort (observational hours)",y="Number of unique turtle observations");p11a
         
         p11b <- ggplot(filter(df,year!=2015),aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
-          stat_smooth()+facet_wrap(~year,nrow=10)+
-          labs(x="Cumulative sampling effort (people hours)",y="Number of unique turtle observations");p11b
+          stat_smooth(span=600)+facet_wrap(~year,nrow=10)+scale_y_continuous(limits=c(0,30))+
+          labs(x="Cumulative sampling effort (observational hours)",y="Number of unique turtle observations");p11b
         
         ## save plots
         ggsave("UniqueTurtles~Effort_byYear_composite.png",p10a,width=7,height=7)
@@ -274,12 +282,15 @@
           effort.log <- sum(c(effort.log,sum(temp2$teffort))) # total cumulative effort
           new.turtles <- temp2$turtleid[is.element(temp2$turtleid,unique.turtles)] # the new turtles added
           
-          out <- data.frame(year=i,event=j,ymd=temp2$ymd[1],effort=sum(temp2$teffort),cum_effort=effort.log,
+          out <- data.frame(event=j,ymd=temp2$ymd[1],effort=sum(temp2$teffort),cum_effort=effort.log,
                             total_turtles=sum(!is.na(unique.turtles)),
                             new_turtles=sum(!is.na(new.turtles)))
           df2=rbind(df2,out)
           
         }
+        
+        #add year data
+        df2$year=year(df2$ymd)
         
         df2$cum_effort <- df2$cum_effort/60 # convert to hours 
         
@@ -291,16 +302,29 @@
         
         #data from segmented model for plotting
         dat2 <- data.frame(cum_effort=df2$cum_effort,total_turtles=broken.line(segmented.mod)$fit)
+
         
+        #Find the cumulative effort utilized for each year
+        cEffort <- NULL
+        for (i in unique(df2$year)){
+          tempdat <- subset(df2,year==i)
+          cumEffort <- data.frame(year=i,cum_effort=tempdat[nrow(tempdat),"cum_effort"])
+          cEffort <- rbind(cEffort,cumEffort)
+        }        
         
         p12fitted <- ggplot(df2,aes(x=cum_effort,y=total_turtles))+theme_bw()+
+          geom_vline(aes(xintercept=cEffort[which(cEffort$year %in% c(1996,2002,2008,2012,2015)),"cum_effort"]),
+                     lty=2,col="grey50",lwd=0.5)+
+          annotate("text",y=rep(40,5),
+                   x=cEffort[which(cEffort$year %in% c(1996,2002,2008,2012,2015)),"cum_effort"],
+                   label=c("1996","2002","2008","2012","2015"),angle=90)+
           geom_hline(aes(yintercept=number.unique),lty=2)+
           geom_point(size=3)+
           geom_hline(aes(yintercept=number.unique),lty=2)+
           geom_segment(aes(x=inflectionpoint,xend=inflectionpoint,
-                           y=dat2[which.min(abs(dat2$cum_effort - inflectionpoint)),"total_turtles"],yend=0),lty=2)+
+                           y=dat2[which.min(abs(dat2$cum_effort - inflectionpoint)),"total_turtles"],yend=0),lty=1)+
           geom_line(data=dat2,lwd=1.13,col="grey50")+
-          labs(y="Number of turtles",x="Sampling effort (people hours)")+
+          labs(y="Number of turtles",x="Sampling effort (observational hours)")+
           scale_y_continuous(limits=c(0,mround(number.unique,5)),
                              breaks=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
                              labels=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
@@ -308,19 +332,27 @@
           scale_x_continuous(breaks=c(0,inflectionpoint,2000,4000,6000),
                              labels=c(0,round(inflectionpoint),2000,4000,6000));p12fitted
         
-        p13 <- ggplot(df2,aes(x=cum_effort,y=total_turtles))+geom_point()+theme_bw()+theme(legend.position="none")+
-          stat_smooth()+geom_hline(aes(yintercept=number.unique),lty=2)+
+
+        
+        p13 <- ggplot(df2,aes(x=cum_effort,y=total_turtles))+
+          geom_vline(aes(xintercept=cEffort[which(cEffort$year %in% c(1996,2000,2004,2008,2012,2015)),"cum_effort"]),
+                     lty=2,col="grey50",lwd=0.5)+
+          annotate("text",y=rep(5,6),
+                   x=cEffort[which(cEffort$year %in% c(1996,2000,2004,2008,2012,2015)),"cum_effort"],
+                    label=c("1996","2000","2004","2008","2012","2015"),angle=90)+
+          geom_point()+theme_bw()+theme(legend.position="none")+
+          stat_smooth(span=5)+geom_hline(aes(yintercept=number.unique),lty=1,lwd=1)+
           scale_x_log10(breaks=c(10,100,1000,df2[which(df2$total_turtles==number.unique)[1],"cum_effort"]),
                         labels=c(10,100,1000,round(df2[which(df2$total_turtles==number.unique)[1],"cum_effort"])))+
-          annotation_logticks(sides="b")+labs(y="Number of turtles",x="Sampling effort (people hours)")+
+          annotation_logticks(sides="b")+labs(y="Number of turtles",x="Sampling effort (observational hours)")+
           geom_segment(aes(x=df2[which(df2$total_turtles==number.unique)[1],"cum_effort"],
                            xend=df2[which(df2$total_turtles==number.unique)[1],"cum_effort"],
-                            y=number.unique,yend=0),lty=2)+
+                            y=number.unique,yend=0),lty=1,lwd=1)+
           scale_y_continuous(limits=c(0,mround(number.unique,5)),
                              breaks=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
                              labels=c(seq(0,round(number.unique/10)*10,5),number.unique,mround(number.unique,5)),
                              expand = c(0,0));p13
-          
+        
         #save plots
         ggsave("Asymptote_EffortvsNumberTurtles_fitted.png",p12fitted,height=7,width=7)
         ggsave("Asymptote_NumberTurtles_scaled.png",p13,height = 7,width = 7)
